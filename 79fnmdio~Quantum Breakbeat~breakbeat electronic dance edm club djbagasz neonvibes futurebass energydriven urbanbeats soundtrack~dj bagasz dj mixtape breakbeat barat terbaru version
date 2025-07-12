@@ -1,0 +1,49 @@
+title = Quantum Breakbeat (Irama Kuantum)
+genre = Breakbeat
+description = In the pulse of the city, the night comes alive. Inspired by the breakbeat vibe, this track captures the energy of a metropolis in motion.
+prompt = Energetic breakbeat rhythms, pulsating basslines, futuristic synths, dynamic transitions, high-energy drops, vibrant club atmosphere, bold male and female vocal layers
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic city skyline at night, neon lights reflecting off rain-slicked streets, dynamic movement, colorful light trails, ultra-modern aesthetic
+sfx = city ambiance, car passing by, digital blips, crowd cheering, bass thumps
+vocals = male and female vocals, energetic chants, rhythmic phrases, layered harmonies
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocal
+keywords = breakbeat electronic dance edm club djbagasz neonvibes futurebass energydriven urbanbeats soundtrack
+codeName = Quicksilver
+bpm = 140
+genreInput = 
+promptInput = Track inspired by DJ BAGASZ - DJ MIXTAPE BREAKBEAT BARAT TERBARU FULL ALBUM VERSION 2024. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Neon Pulse]
+
+[verse - Electric Streets]
+Vibrations echo, through the night
+City lights guide our flight
+Rhythm flows, time ignites
+oooooo iiiiiiii
+
+[break - Quantum Drop]
+ooooo aaaa 
+shhhhhhh
+
+[chorus - Urban Surge]
+Feel the heartbeat, neon glow
+In the city, we let go
+oooooo iiiiiiii
+
+[bridge - Electric Echo]
+Pulse of the night, we unite
+Dance through shadows, into light
+
+[outro - Fade to Silence]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

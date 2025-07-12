@@ -1,0 +1,55 @@
+title = Voices Unspoken (Voces No Habladas)
+genre = Hip-Hop
+description = In the urban jungle, words left unsaid echo through the concrete maze. Inspired by a style reminiscent of BASE DE RAP - TANTO POR DECIR.
+prompt = Hip-Hop beat, infectious rhythm, deep bass, rhythmic flow, dynamic percussion, urban vibe, vibrant energy, male rap vocal, intense and bold mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dynamic cityscape at night, neon lights reflecting off skyscrapers, urban artistic style, futuristic elements, high contrast colors, vibrant and modern aesthetic
+sfx = city ambiance, car engines, distant chatter, rhythmic beats, echoing footsteps
+vocals = male rap vocal, energetic delivery, rhythmic flow, layered harmonies, confident and assertive
+vocalsStructured = hip-hop track, with engaging intro and powerful outro, including rhythmic drops, with dynamic male rap vocal
+keywords = hiphop rap urban streetvibes neonlights cityscape futuristic boldbeats rhythmicflow dynamicenergy
+codeName = Kim
+bpm = 90
+genreInput = 
+promptInput = Track inspired by BASE DE RAP - TANTO POR DECIR. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = K
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+
+[verse 1 - Urban Echoes]
+Silence speaks in shadows
+Concrete dreams unfold
+In the maze of neon glow
+Stories left untold
+oooooo
+
+[chorus - City Pulse]
+Words unspoken, echoes loud
+In the night, we stand proud
+iiiiii
+
+[verse 2 - Rhythmic Flow]
+Streetlight whispers, city hum
+In the rhythm, we become
+Silent voices, rising high
+In the skyline, we defy
+
+[bridge - Echoing Streets]
+oooooo
+Steps echo in the streets
+Lost voices find their beats
+
+[outro - Fading Lights]
+In the night, we fade away
+Words unsaid, in shadows stay
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

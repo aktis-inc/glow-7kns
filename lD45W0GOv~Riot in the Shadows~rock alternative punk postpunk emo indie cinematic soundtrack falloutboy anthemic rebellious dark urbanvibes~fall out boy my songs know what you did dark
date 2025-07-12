@@ -1,0 +1,59 @@
+title = Riot in the Shadows
+genre = Rock
+description = In the shadows of the city, a riot brews. Inspired by the style of Fall Out Boy, this track captures the energy and defiance of urban nights.
+prompt = Energetic rock anthem, driving guitar riffs, powerful drums, intense rhythm, bold bassline, dynamic tempo, male vocal with anthemic tone, gritty and rebellious vibe
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Urban landscape at night, neon lights reflecting on wet streets, a figure standing defiantly, modern and edgy with a touch of cyberpunk aesthetics, vibrant and moody
+sfx = city ambiance, distant thunder, electric guitar feedback, crowd murmurs
+vocals = male vocal, strong and anthemic, raw energy, rebellious tone
+vocalsStructured = rock track with strong intro and climactic outro, featuring powerful male vocal and impactful instrumental drops
+keywords = rock alternative punk postpunk emo indie cinematic soundtrack falloutboy anthemic rebellious dark urbanvibes
+codeName = Rocannon's World
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Fall Out Boy - My Songs Know What You Did In The Dark. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro riff]
+oooooo
+[verse]
+In the city's heart, shadows dance
+Under neon lights, a hidden trance
+
+[glitchy bridge]
+aahhhhh
+
+[Chorus – Anthemic Shout]
+Riot in the shadows, here we go
+Burn the night, let the embers glow
+
+[verse]
+Whispers echo in the alleyways
+Lost in time, in the city's maze
+
+[guitar solo]
+woooooo
+
+[Pre-Chorus – Rising Tension]
+oooooo
+Feel the pulse, the night ignites
+We’re the voices, the city lights
+
+[Chorus – Anthemic Shout]
+Riot in the shadows, here we go
+Burn the night, let the embers glow
+
+[outro – Fade into Night]
+shhhhh
+iiiiiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

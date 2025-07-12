@@ -1,0 +1,28 @@
+title = Xylophonic Nights (Noches Xilofónicas)
+genre = Reggaeton
+description = In the neon-lit city, where shadows dance and lovers whisper, the rhythm of the night unfolds in vibrant hues, inspired by the style of Darell and Brytiago.
+prompt = Reggaeton rhythm, tropical beats, catchy melodies, infectious hook, smooth basslines, lively percussions, male vocal with a playful tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Urban cityscape at night, neon lights reflecting off rain-soaked streets, a couple dancing under a streetlamp, vibrant and colorful, modern and stylish
+sfx = car engines revving, city ambiance, distant laughter, rhythmic clapping
+vocals = male vocal, reggaeton style, playful and rhythmic, with smooth undertones
+vocalsStructured = pop step track, with energetic intro and catchy outro including rhythmic drops, with melodic male vocal
+keywords = reggaeton latin urban tropical dance rhythmic nightvibes neonlights darell brytiago catchy vibrant
+codeName = Xenogenesis
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Darell, Brytiago - Velitas. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

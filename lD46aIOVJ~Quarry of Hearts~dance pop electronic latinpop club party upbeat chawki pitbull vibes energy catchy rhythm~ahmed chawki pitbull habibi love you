@@ -1,0 +1,28 @@
+title = Quarry of Hearts
+genre = Dance-Pop
+description = In the rhythm of the night, hearts find their beat. Inspired by the vibrant energy of Chawki and Pitbull, this track pulses with life.
+prompt = Energetic dance beat, catchy melodies, vibrant synths, rhythmic guitar, lively percussion, party atmosphere, dynamic male and female vocal, playful and engaging
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic dance club scene, neon lights in a vibrant cityscape, people dancing with holographic displays, sleek and modern fashion, lively and colorful
+sfx = crowd cheers, rhythmic claps, bass thumps, electronic pulses, distant chatter
+vocals = male and female vocals, lively and playful, dynamic harmonies, catchy hooks
+vocalsStructured = pop dance track, with smooth intro and lively outro, featuring energetic male and female vocals with catchy rhythms and upbeat melodies
+keywords = dance pop electronic latinpop club party upbeat chawki pitbull vibes energy catchy rhythm
+codeName = Q is for Quarry
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Ahmed Chawki Pitbull - Habibi I Love You. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Rhythms of the Infinite (Ritmos del Infinito)
+genre = Rock
+description = A story unfolds in the heart of Buenos Aires, where every note resonates with the rhythm of life. In the style of Andres Calamaro, the music captures the essence of a city alive with dreams and memories.
+prompt = Rock-infused melody, vibrant guitar riffs, soulful harmonica, dynamic percussion, Argentinean flair, nostalgic yet fresh, male vocal with a gritty edge
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling Buenos Aires street at dusk, neon reflections on wet pavement, people in motion, vibrant and dynamic, modern urban landscape with a cinematic touch
+sfx = city ambiance, distant chatter, guitar strum, harmonica echo, car passing by
+vocals = male vocal, gritty and passionate, soulful delivery, echoing harmonies
+vocalsStructured = rock-infused track, with strong intro and compelling outro, featuring melodic male vocal, dynamic guitar solos and harmonica interludes
+keywords = rock latinrock argentinian soulful nostalgic dynamic calamaro buenosaires urban vibes soundtrack cinematic musicaljourney
+codeName = Rayuela
+bpm = 122
+genreInput = 
+promptInput = Track inspired by Andres Calamaro - Paloma Made in Argentina Directo 2005. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

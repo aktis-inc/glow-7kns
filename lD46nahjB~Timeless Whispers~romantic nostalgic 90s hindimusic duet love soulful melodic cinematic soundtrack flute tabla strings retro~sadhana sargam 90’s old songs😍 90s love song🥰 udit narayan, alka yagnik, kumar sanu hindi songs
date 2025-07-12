@@ -1,0 +1,48 @@
+title = Timeless Whispers
+genre = Romantic
+description = A dance of hearts, timeless in its whispering notes, where love serenades the night in a moonlit waltz, reminiscent of 90s Hindi melodies.
+prompt = Romantic Hindi-inspired melody, nostalgic 90s vibe, smooth flute harmonies, gentle tabla rhythms, enchanting strings, melodious duet vocals, soulful atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant, colorful scene with a couple dancing under a full moon, surrounded by swirling musical notes and neon lights, set against a starry night sky, giving off a magical and dreamy feel
+sfx = soft flute melodies, gentle tabla beats, distant echoing chimes, subtle string swells
+vocals = male and female duet vocals, emotive and warm, with harmonious interplay
+vocalsStructured = romantic track with a gentle intro and a heartfelt outro, featuring melodic male and female duet vocals, with soothing instrumental breaks
+keywords = romantic nostalgic 90s hindimusic duet love soulful melodic cinematic soundtrack flute tabla strings retro
+codeName = The Tin Drum
+bpm = 92
+genreInput = 
+promptInput = Track inspired by Sadhana Sargam - 90’S Old Songs😍 90s Love Song🥰 Udit Narayan, Alka Yagnik, Kumar Sanu Hindi songs. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Moonlit Prelude]
+oooo
+
+[verse - Whispering Hearts]
+In the night, where dreams unfold
+Whispers of love, tender and bold
+Gentle rhythms, timeless embrace
+
+[chorus - Timeless Serenade]
+ahhhhh
+Love's melody, echoes in time
+Hearts entwined, in perfect rhyme
+
+[bridge - Enchanted Interlude]
+ooooo aaaa
+Stars above, witness our dance
+In this moment, lost in a trance
+
+[outro - Fading Echo]
+softly fading, night retreats
+In love's longing, our hearts beat
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

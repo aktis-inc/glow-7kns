@@ -1,0 +1,44 @@
+title = Glance of the Divine
+genre = Ambient
+description = A gentle sunrise whispers secrets of peace. In the style of divine inspiration, melodies unfold like a holy breeze.
+prompt = Epic orchestral ambience, rich strings, ethereal choirs, spiritual undertones, serene yet uplifting, rhythmic tabla, meditative flutes, female vocal, ethereal and soothing
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Majestic landscape with a golden sunrise over a tranquil river, ethereal light, divine energy radiating, spiritual and calming modern art style with vibrant colors
+sfx = soft rustling leaves, gentle river flow, distant temple bells, echoing chants
+vocals = female vocal, soothing chants, ethereal echoes, harmonious layers
+vocalsStructured = orchestral step track, with flowing intro and serene outro including some uplifting builds, with ethereal female vocal
+keywords = orchestral ambient worldmusic spiritual meditative serene uplifting ethereal soundtrack cinematic divinevibes
+codeName = Catch-22
+bpm = 90
+genreInput = 
+promptInput = Track inspired by नजर रघवर क - Rohit Tiwari Baba Ek Baar Jo Raghuvar Ki Nazron Ka Ishara Ho Jaaye Shri Ram Bhajan. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro serene]
+
+[verse]
+
+[soft chant]
+ahhh
+oooo
+
+[verse]
+
+[ethereal build-up]
+
+[chorus - Divine Glance]   
+wooo
+iiiiii
+
+[outro - Fade to Bliss]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Golden Echoes (Ecos Dorados)
+genre = Indie Folk
+description = In the realm of golden echoes, where sounds dance like memories in the breeze. Inspired by the essence of Dj Jose Gonzalez, this track captures the soul's rhythm.
+prompt = Energetic and rhythmic soundscape, rich guitar melodies, layered percussion, deep ambient textures, ethereal synths, vibrant and pulsating beat, male vocal with a soulful and earthy tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract golden landscape with shimmering echoes, futuristic blend of nature and technology, dynamic and vibrant color palette, contemporary and immersive visual style
+sfx = crisp guitar strums, ambient nature sounds, rhythmic hand drums, soft wind chimes
+vocals = male vocal, soulful and earthy, warm harmonies, gentle echoes
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal
+keywords = ambient worldmusic indie folk electronica soundtrack JoseGonzalez fusion soulful ethereal vibrant
+codeName = Gabriel García Márquez: A Life
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Dj Jose Gonzalez - Tunke. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = G
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,53 @@
+title = Flames of Silence
+genre = Ambient
+description = In a world of flames, silence reigns. Inspired by Cambodian whispers, a journey through ethereal soundscapes.
+prompt = Ambient textures, subtle Khmer instrumental influences, ethereal soundscape, melancholic undertones, gentle percussion, flowing synths, serene female vocal, haunting and introspective mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape at dusk, soft golden and blue hues, gentle wisps of smoke rising, modern and ethereal visual style, captivating and otherworldly atmosphere
+sfx = soft wind chimes, distant echoes, gentle water ripples, ambient city hum
+vocals = female vocal, haunting and ethereal, soft whispers, layered harmonies
+vocalsStructured = ambient track, with flowing intro and serene outro, featuring ethereal female vocal
+keywords = ambient ethereal worldmusic khmer instrumental soundscape haunting melancholic futuristic cinematic serene introspective
+codeName = Fahrenheit 451
+bpm = 90
+genreInput = 
+promptInput = Track inspired by ចមរងខមរ លបៗ - Sadថមបទសរពរណស😪😍😻. Use similar musical vibe, mood, style, genre, instruments.
+language = khmer
+letter = F
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Whispered Flames]
+
+[synth wave]
+iiiiiiiiiiii
+oooooo
+ahhhhh
+
+[verse - Silent Embers]
+In shadows, we find solace  
+Echoes of a distant time  
+Fires burn, yet we remain  
+
+[chorus - Ethereal Glow]
+ahhhh ooooo  
+Silent whispers, gentle glow  
+In the flames, we find our home
+
+[bridge - Lingering Ashes]
+shhhhhhh  
+Through the ashes, past and gone  
+Our spirits rise, forever strong  
+
+[outro - Fading Light]
+ooooooo  
+Embers fade, but we remain  
+In silence, we find our flame
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,58 @@
+title = Flicker in the Blue (Kilau dalam Biru)
+genre = Electronic Dance
+description = In the depths of the city, a flicker of hope dances in the blue glow. Inspired by TheFatRat and RIELL, this track captures the essence of a vibrant urban dreamscape.
+prompt = Energetic electronic beat, uplifting melody, layered synths, driving bass, dynamic percussion, euphoric drops, playful female vocal, cinematic build-up
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon lights reflecting on glossy surfaces, vibrant blue hues, ethereal atmosphere, sci-fi elements, sleek and modern design
+sfx = city ambiance, electronic pulses, synth swells, echoing footsteps, digital chimes
+vocals = female vocal, vibrant and energetic, playful tones, uplifting harmonies
+vocalsStructured = electronic dance track, with a compelling intro and a powerful outro, featuring euphoric drops, with melodic female vocal
+keywords = edm electropop synthwave dance uplifting cinematic soundtrack neonvibes thefatrat riell urban futuristic dreamy
+codeName = Foundation
+bpm = 130
+genreInput = 
+promptInput = Track inspired by TheFatRat & RIELL - Hiding In The Blue. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = F
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Echoes of Light]
+
+[build-up - Rising Pulse]
+
+[drop - Blue Horizon]
+ooooooooo
+iiiiiiiiiii
+
+[verse 1 - Cityscape Reflections]
+In the neon glow, shadows dance
+Every step a fleeting chance
+They seek the light, they seek romance
+In the blue, they find their trance
+vvvvvvvv
+
+[chorus - Euphoria Surge]
+wooooooo
+In the blue, we rise
+oooooooooo
+Feel the pulse, our guide
+iiiiiiii
+
+[bridge - Skyline Dreams]
+Across the sky, our dreams ignite
+In the city’s heart, a burning light
+Ahhhhhh
+
+[outro - Fade to Blue]
+shhhhhhh  
+ooooo  
+drifting in the glow
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

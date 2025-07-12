@@ -1,0 +1,39 @@
+title = Resonant Echoes
+genre = Electronic
+description = In the city of lights and echoes, where every corner hums with secrets. Inspired by the vibrant energy of MNB live, their style resonates through every beat.
+prompt = Energetic electronic beat, vibrant synth layers, rhythmic bassline, pulsing drums, electrifying vibe, dynamic transitions, male and female vocal with a playful and whispery tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at night, neon lights reflecting on rain-soaked streets, vibrant colors, sleek and modern design, visually captivating and immersive
+sfx = street ambiance, footsteps, distant sirens, soft electronic hum, digital beeps
+vocals = male and female vocals, intertwined melodies, playful whispers, echoing harmonies
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = electronic synthpop dance vaporwave soundtrack futuresynth neonvibes urbanpulse mnbstyle
+codeName = Ragtime
+bpm = 130
+genreInput = 
+promptInput = Track inspired by MNB live - mc collection. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro glitch]
+
+[verse]
+
+[glitch build-up]
+
+[verse]
+
+[soft chorus]
+oooo
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

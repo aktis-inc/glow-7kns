@@ -1,0 +1,49 @@
+title = Echoes of Unity (Gema Kesatuan)
+genre = Orchestral Pop
+description = A new dawn rises, a symphony of unity sweeps across the land. Inspired by the spirit of camaraderie, in the style of a marching anthem, it echoes the heart's call for togetherness.
+prompt = Energetic marching rhythm, orchestral brass, uplifting melodies, powerful percussion, patriotic vibe, vibrant and inspiring, male and female vocal harmonies, triumphant spirit
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with flags of unity waving, vibrant colors, dynamic and inspiring atmosphere, modern and sleek design with hints of orchestral elements
+sfx = triumphant brass fanfare, rhythmic percussion beats, crowd cheering, flag fluttering in the wind
+vocals = male and female choir vocal, powerful and uplifting, harmonized choral sections
+vocalsStructured = orchestral pop track, strong intro with brass, dynamic middle section, uplifting outro with choral harmonies
+keywords = orchestral anthem march inspirational uplifting patriotic unity symphonic triumphant harmonic inspirationalanthem
+codeName = Xenogenesis
+bpm = 120
+genreInput = 
+promptInput = Track inspired by PMI KOTA PROBOLINGGO - LAGU MARS PMI. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro brass]
+
+[verse 1]
+dawn breaks, unity calls  
+in the heart, it resonates  
+oooooo aaaa  
+oooooo aaaa  
+
+[chorus - Anthem Rise]  
+eeeeechoes of unity, echoes of hope  
+we stand together, we'll never let go  
+aaahhhh ooooo  
+
+[bridge - Harmonies of Light]  
+flags unfurl, hearts align  
+together, our spirits shine  
+ssssshhhhhh  
+
+[outro - Triumphant Return]  
+ooooo unity, oooo harmony  
+in every heart, a symphony  
+iiiiiii oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

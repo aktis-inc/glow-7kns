@@ -1,0 +1,28 @@
+title = The Unseen Bloom (La Floración Invisible)
+genre = Latin Folk
+description = The garden grows strange flowers. Hope found in the impossible soil, a melody from the stars. Influenced by the style of Enaldo Barrera.
+prompt = Accordion-driven Latin Folk track, lively Vallenato rhythm, prominent guacharaca and caja percussion, warm acoustic guitar, melancholic yet hopeful melody, storytelling atmosphere, dynamic shifts, expressive male and female vocals
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic bio-dome housing a vibrant, alien jungle, digital rain falling on oversized tropical leaves, abstract glowing geometric patterns woven into the foliage, spectral figures playing traditional instruments, blend of organic and synthetic textures, neon lighting, bokeh effect, cinematic sci-fi concept art style
+sfx = accordion bellows sigh, guacharaca scraping, distant digital birdsong, faint percussive tapping, atmospheric synth pad drone
+vocals = male and female Latin Folk vocals, singing together
+vocalsStructured = Latin Folk track, with strong instrumental intro, clear verse-chorus structure, expressive instrumental solo (accordion), and fade-out outro, with warm male and female vocals
+keywords = latinfolk vallenato tropical colombianmusic accordionmusic storytelling acoustic melancholic hopeful journeymusic culturalblend scifi enalbobarrera
+codeName = Candide
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Si No Peleamos, Enaldo Barrera, Video Letra - Sentir Vallenato. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,52 @@
+title = Echoes of the Wild (Gema Liar)
+genre = Ambient
+description = In the heart of the forest, echoes of life persist, a symphony of the wild in gentle whispers.
+prompt = Ambient nature-inspired track, ethereal soundscapes, bird calls and forest ambiance, gentle wind chimes, soothing flute melodies, tranquil vibes, immersive atmosphere, soft male and female vocal whispers
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Enchanted forest at dawn, mystical light filtering through trees, birds in flight, serene and magical atmosphere, ethereal and dreamy colors, captivating and otherworldly visuals
+sfx = bird chirps, rustling leaves, gentle breeze, distant water sounds, soft flute notes
+vocals = male and female vocal whispers, gentle harmonies, soothing and calming
+vocalsStructured = ambient track with a serene intro, gentle transitions, and a tranquil outro, featuring soft male and female vocal whispers
+keywords = ambient nature ethereal soundscape forest tranquil calming birdcalls flute relaxation meditative serene wildlife mystical
+codeName = Veronika Decides to Die
+bpm = 60
+genreInput = 
+promptInput = Track inspired by PEMIKAT PRINGSEWU - Suara Gacor Asli 100% Ampuh Untuk Memanggil Burung Kutilang Liar Auto Mendekat. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = V
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Forest Awakening]
+
+[gentle whispers]
+ooooo
+shhhhh
+
+[verse - Nature's Call]
+In the dawn's embrace
+Silent whispers dance
+Through the trees they trace
+A soothing, wild romance
+
+[soft chorus]
+oooooo
+iiiiiiii
+
+[bridge - Ethereal Flow]
+Gentle breeze caress
+Nature's heart confessed
+Birdsong echoes clear
+In the wild we hear
+
+[outro - Whispering Woods]
+shhhhh
+ooooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

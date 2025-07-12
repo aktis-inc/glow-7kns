@@ -1,0 +1,58 @@
+title = Flames of Longing
+genre = Indie Folk
+description = In hidden flames, yearning whispers call. Inspired by a world where stories ignite the soul, this track captures the gentle echoes of longing and introspection, reminiscent of the style of Johnny Drille.
+prompt = Gentle acoustic guitar, soothing melodies, heartfelt harmonies, warm strings, reflective mood, intimate male vocal, tender and soulful, emotional depth
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract cityscape with burning pages floating in the air, warm orange and red hues, modern and surreal, cinematic and thought-provoking, dreamlike ambiance
+sfx = crackling fire, soft breeze, distant city sounds, whispering echoes
+vocals = male vocal, heartfelt and soothing, gentle harmonies, emotional storytelling
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal
+keywords = acoustic folk indie singer-songwriter ambient soulful emotional introspective folkpop johnnydrille
+codeName = Fahrenheit 451
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Johnny Drille - Wait For Me. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = F
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - flicker]
+ooooo
+whispering flames
+[verse 1 - Ember]
+In the silence, stories burn
+Echoes of what we yearn
+Through the smoke, hearts discern
+A tale untold, a lesson learned
+
+[chorus - Ignite]
+ooooo aaaaaa
+Waiting in the fire's glow
+Hearts reveal what they know
+Flames of longing, ebb and flow
+
+[bridge - Ashes]
+ssssssshhhh
+In the ashes, dreams arise
+A spark of truth in disguise
+
+[verse 2 - Flicker]
+Pages turn, shadows dance
+In the embers, a second chance
+Through the heat, we find romance
+In the fire, a silent trance
+
+[outro - Fade]
+ooooo
+gentle whispers
+burning slow
+iiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

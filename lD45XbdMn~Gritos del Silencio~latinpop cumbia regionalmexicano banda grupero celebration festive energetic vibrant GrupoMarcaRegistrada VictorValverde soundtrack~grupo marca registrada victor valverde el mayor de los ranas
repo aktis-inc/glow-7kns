@@ -1,0 +1,62 @@
+title = Gritos del Silencio (Gritos del Silencio)
+genre = Latin Pop
+description = From the earth's depths to the city's vibrant heart, echoes of struggles and triumphs intertwine in rhythmic celebration.
+prompt = Energetic Latin beat, dynamic acoustic guitars, rhythmic percussion, lively brass sections, vibrant melodies, spirited male vocal, celebratory and bold atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dynamic cityscape at dusk with vibrant lights reflecting on wet streets, modern Latin cultural elements, energetic and festive vibe, contemporary and stylish design
+sfx = street sounds, bustling crowd noise, distant celebratory shouts, rhythmic clapping, subtle car honks
+vocals = male vocal, spirited and lively, with rhythmic intensity, strong emotional delivery
+vocalsStructured = Latin pop track, with vibrant intro and celebratory outro including rhythmic drops, with lively male vocal
+keywords = latinpop cumbia regionalmexicano banda grupero celebration festive energetic vibrant GrupoMarcaRegistrada VictorValverde soundtrack
+codeName = Germinal
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Grupo Marca Registrada x Victor Valverde - El Mayor de los Ranas. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = G
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Vibrant Awakening]
+
+[verse 1 - Urban Pulse]
+Desde el suelo levantamos
+Con el ritmo de mil pasos
+Voces que en la noche cantan
+Sueños que nunca descansan
+
+[Pre-Chorus - Rhythmic Surge]
+ooooo  
+Vibrando en cada latido  
+Las calles son nuestro abrigo
+
+[Chorus - Jubilant Echo]
+wooooooo  
+iiiiiiii  
+Gritos del silencio resuenan  
+En cada rincón, en cada escena
+
+[Bridge - Festive Respite]
+oooo aaaa  
+El brillo de luces nos guía  
+Al compás de una nueva melodía
+
+[verse 2 - Heartbeat of the City]
+El viento lleva susurros  
+Historias que el tiempo guarda  
+En cada esquina un suspiro  
+El alma de esta jornada
+
+[outro - Celebration's End]
+oooooo  
+iiiiiiii  
+Gritos del silencio se apagan  
+Pero la memoria nunca acaba
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

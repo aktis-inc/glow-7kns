@@ -1,0 +1,28 @@
+title = Zero Echoes (Nol Gema)
+genre = Grunge
+description = In the heart of chaos, seeking clarity on the open road. The quest for meaning in a world of noise, resonating in echoes.
+prompt = Grunge-inspired track, raw guitar riffs, moody bass lines, and introspective vibe. Distorted electric guitar with a laid-back drum groove, male vocal with a gritty and introspective tone.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A lone figure standing on a desolate highway, surrounded by an endless horizon, with an old motorcycle by their side. The sky is painted with shades of purple and orange, giving a nostalgic yet futuristic feel.
+sfx = motorcycle revving, distant thunder, soft wind howls, vinyl crackle
+vocals = male vocal, gritty and introspective, raw emotion
+vocalsStructured = grunge rock track, with strong intro and reflective outro, featuring male vocal and intense guitar solos
+keywords = grunge alternative rock nirvana indierock moody introspective guitar retro vintage nostalgia sappy grungevibes
+codeName = Zen and the Art of Motorcycle Maintenance
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Nirvana - Sappy. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

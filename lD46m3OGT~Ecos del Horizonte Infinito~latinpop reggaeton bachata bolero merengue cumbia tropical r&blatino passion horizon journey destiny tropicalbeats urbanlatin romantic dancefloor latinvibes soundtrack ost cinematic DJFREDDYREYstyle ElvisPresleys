@@ -1,0 +1,28 @@
+title = Ecos del Horizonte Infinito (Ecos del Horizonte Infinito)
+genre = Latin Pop - Reggaeton
+description = Beyond the waves' edge, where stars become guides. A relentless pursuit under a digital sky. Inspired by the journey in Moby Dick. Music vibe draws inspiration from the style of DJFREDDYREY, Elvis Presley, Ricardo Arjona, Aventura, Daddy Yankee, Rafael de Paz, and Luis Miguel.
+prompt = Latin pop track, reggaeton beat, bachata guitar melodies, deep synth bassline, driving drums, vibrant percussions, tropical mood, urban energy, romantic undertones, passionate male vocal
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Sleek futuristic yacht sailing on a neon-lit digital ocean under a double moon, holographic projections of abstract marine life, vibrant blue and pink color scheme, dynamic perspective, cool light flares, modern digital art style
+sfx = synthesized ocean sounds, tropical bird chirps (digital), laser pulses, rhythmic data flow, abstract melodic snippets
+vocals = passionate male vocal, expressive delivery, Spanish language
+vocalsStructured = Latin pop track, with strong intro and dramatic outro including rhythmic breaks, with passionate male vocal
+keywords = latinpop reggaeton bachata bolero merengue cumbia tropical r&blatino passion horizon journey destiny tropicalbeats urbanlatin romantic dancefloor latinvibes soundtrack ost cinematic DJFREDDYREYstyle ElvisPresleystyle RicardoArjonastyle Aventurastyle DaddyYankeestyle RafaelDePazstyle LuisMiguelstyle
+codeName = Moby Dick
+bpm = 110
+genreInput = 
+promptInput = Track inspired by DJFREDDYREY - ELVIS PRESLEY RICARDO ARJONA AVENTURA DADDY YANKEE RAFAEL DE PAZ LUIS MIGUEL. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

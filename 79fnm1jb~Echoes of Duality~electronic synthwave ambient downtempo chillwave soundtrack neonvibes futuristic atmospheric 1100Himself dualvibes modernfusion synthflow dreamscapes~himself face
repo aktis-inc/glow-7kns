@@ -1,0 +1,58 @@
+title = Echoes of Duality
+genre = Electronic
+description = Within the labyrinth of time, the echoes of duality resonate, mirroring the solitude of a hundred years. Inspired by the style of 1100 Himself in a vibrant, enigmatic soundscape.
+prompt = Energetic electronic beat, layered textures, deep bass rhythms, atmospheric pads, pulsating synths, intense drops, male and female vocals, mysterious and bold atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with shimmering neon lights, abstract reflections, surreal and dreamlike ambiance, blending fantasy and modernity, bold and captivating visuals
+sfx = electric buzz, deep echoing booms, ambient city noise, distorted whispers
+vocals = male and female vocals, mysterious tones, layered harmonies, electronic echoes
+vocalsStructured = electronic step track, with dynamic intro and outro, featuring intense drops, with harmonic male and female vocals
+keywords = electronic synthwave ambient downtempo chillwave soundtrack neonvibes futuristic atmospheric 1100Himself dualvibes modernfusion synthflow dreamscapes
+codeName = One Hundred Years of Solitude
+bpm = 130
+genreInput = 
+promptInput = Track inspired by 1100 Himself - 2 Face. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Neon Whispers]
+
+[verse]
+In the mirrored halls of time,
+Echoes drift, lost in rhyme,
+Faces split, light and shadow,
+Dual roads, where do they follow?
+ooooo iiiii
+
+[Chorus - Pulsar Beat]
+woooo
+Two sides, one heart, collide,
+In the silence, truths hide,
+Pulse of neon dreams, alive,
+Through the echoes, we survive.
+ooooo aaaaa
+
+[bridge]
+Beneath the city’s glow,
+Secrets whisper, ebb and flow,
+Fading lines between the worlds,
+In the echoes, truth unfurls.
+
+[drop - Intensity Surge]
+iiiiiiii
+
+[outro - Whispering Fade]
+Lost in echoes, lost in time,
+In solitude, they find their rhyme,
+Neon dreams in endless flight,
+In the duality of night.
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Echoes of Tomorrow (Gema Esok)
+genre = Pop
+description = In the vast city of dreams, echoes of tomorrow guide the heart. Inspired by the style of Justin Bieber.
+prompt = Energetic pop beat, catchy rhythm, vibrant synth melodies, tropical vibes, uplifting mood, playful male vocal, inspired by the style of Justin Bieber
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at sunset, neon lights reflecting in water, sleek skyscrapers with holographic displays, vibrant and eye-catching, modern pop aesthetics
+sfx = city ambiance, digital chimes, upbeat electronic pulses, distant crowd chatter
+vocals = male vocal, light and playful, pop style, with harmonious echoes
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal, Justin Bieber style
+keywords = pop dancepop tropical electropop justinbieber uplifting neonvibes futurepop urban melodicpop soundtrack cinematic
+codeName = Xenogenesis
+bpm = 120
+genreInput = lagu
+promptInput = Justine bieber
+language = indonesian
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,58 @@
+title = Echoes of Defiance (Ecos de la Desafío)
+genre = Latin Pop
+description = In a world of vibrant colors and bustling streets, defiance echoes through the rhythm of life, capturing the spirit of the city in every beat. Inspired by the lively style of Los Yakis Oficial.
+prompt = Energetic Latin pop beat, infectious rhythm, vibrant guitar riffs, lively percussion, upbeat tempo, dynamic male and female vocals, playful and bold mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Colorful cityscape with vibrant lights reflecting off tall buildings, lively street scene, modern and dynamic style, capturing the essence of a bustling metropolis at night
+sfx = city ambiance, lively street chatter, rhythmic clapping, upbeat crowd cheers
+vocals = dynamic vocals, male and female in harmony, vibrant and charismatic delivery
+vocalsStructured = latin pop track, with lively intro and energetic outro, featuring vibrant male and female vocal duets
+keywords = latinpop reggaeton dance salsa electro urban partyvibes latinhits sergioramos losyakis
+codeName = El Aleph
+bpm = 115
+genreInput = 
+promptInput = Track inspired by Los Yakis Oficial - LOS YAKIS, SERGIO RAMOS – NO ME CONTRADIGAS @sergioramos. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - vibrant]
+oooooo   
+rrrrrrr
+
+[verse 1 - City Pulse]  
+En el reflejo de luces  
+La ciudad canta su canción  
+Cada paso es un latido  
+Un eco de rebelión  
+ooooooo
+
+[Chorus – Viva el Ritmo]  
+ooooooo  
+No me contradigas, sigue el ritmo  
+ooooooooooo
+
+[Bridge - Urban Echo]  
+donde la noche se enciende  
+el destino se hace presente  
+iiiiiii
+
+[verse 2 - Dance Floor]  
+Las calles vibran a nuestro paso  
+La música es nuestro lenguaje  
+Entre miradas y pasos  
+Vivimos cada instante  
+rrrrrrrrrrr
+
+[outro - Echo Fade]  
+oooooo  
+El eco nunca muere…
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

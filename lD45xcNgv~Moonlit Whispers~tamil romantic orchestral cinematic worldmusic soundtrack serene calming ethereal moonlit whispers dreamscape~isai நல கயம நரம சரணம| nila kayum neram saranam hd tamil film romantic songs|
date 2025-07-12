@@ -1,0 +1,55 @@
+title = Moonlit Whispers
+genre = World Music & Cinematic
+description = In the moon's embrace, the whispers of the ocean tell tales of love and longing, inspired by the deep and mysterious sea, reminiscent of classic Tamil cinematic romance.
+prompt = Romantic Tamil-inspired track, gentle orchestral strings, soothing flute melodies, serene and calming atmosphere, lush harmonies, slow tempo, emotional and melodic, male and female vocals, soft and tender
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Mystical moonlit ocean scene, gentle waves reflecting the moonlight, ethereal and dreamlike atmosphere, modern and enchanting visual style, soft glow and shimmering effects
+sfx = ocean waves, gentle breeze, soft bird calls, distant whale song
+vocals = male and female vocals, tender and harmonious, soothing and melodic
+vocalsStructured = romantic orchestral track, with gentle intro and serene outro, includes soft drops and harmonic vocals
+keywords = tamil romantic orchestral cinematic worldmusic soundtrack serene calming ethereal moonlit whispers dreamscape
+codeName = Moby-Dick
+bpm = 72
+genreInput = 
+promptInput = Track inspired by N Isai - நல கயம நரம சரணம| Nila Kayum Neram Saranam Hd | Tamil Film Romantic Songs|. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Moonlight Glow]
+
+[verse]
+Gentle tides of longing
+Whisper secrets untold
+In moonlit dreams, we wander
+Through stories of old
+ooooo
+
+[Chorus - Ocean's Embrace]
+Beneath the stars we dance
+In silent symphony
+Hearts bound by the sea
+Eternal melody
+iiiiii
+
+[Bridge - Celestial Waves]
+Floating on the night’s breeze
+Our souls drift in harmony
+Guided by the lunar light
+To where love sets us free
+ahhhh
+
+[outro - Whispering Tide]
+Soft echoes linger
+In the ocean's gentle sigh
+Forever in its embrace
+We find our lullaby
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,48 @@
+title = Whispers of Serenity
+genre = Dance
+description = A journey through the vibrant tapestry of tradition and modernity, capturing the essence of celebration and joy.
+prompt = Energetic dance beat, traditional Indian instruments, vibrant rhythm, lively percussion, uplifting melody, Punjabi-inspired vocals, festive and celebratory mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant and colorful festival setting, dancers in traditional attire, dynamic movement, bright lights, energetic and joyful atmosphere, contemporary Indian style
+sfx = traditional drum beats, crowd cheer, rhythmic claps, festive chimes
+vocals = female vocal, lively Punjabi style, playful and rhythmic, with energetic expressions
+vocalsStructured = dance track, with vibrant intro and energetic outro, including some drops, with melodic female vocal
+keywords = dance punjabi indian bollywood bhangra traditionalelectronic festive celebratory vibrant uplifting
+codeName = Siddhartha
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Sonotek Punjabi - Teri Aakhya Ka Yo Kajal || Superhit Sapna || New Haryanvi Song 2018. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = S
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse 1]
+In the heart of the crowd, colors collide,
+Eyes meet the rhythm, spirits arise,
+ooooo iiiiii
+
+[chorus]
+Dance with the echoes of ancient tales,
+Feel the pulse, as the night prevails,
+oooooo aaaaaaa
+
+[bridge]
+Voices in harmony, souls in sync,
+Tradition whispers in every blink,
+shhhhh iiiiii
+
+[outro]
+Celebrate under the starlit sky,
+Where dreams and reality unify,
+iiiiii ooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

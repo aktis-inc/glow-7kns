@@ -1,0 +1,43 @@
+title = Harmonies of the Horizon (Harmonien des Horizonts)
+genre = Afrobeat
+description = Journey through the lands of possibility, where every step tells a tale. In the style of 2025 x Burna Boy Fola's emotional beats.
+prompt = Emotional Afrobeat instrumental, warm percussion, smooth guitar riffs, rhythmic grooves, uplifting horns, soulful ambience, relaxed yet vibrant energy, inviting male vocal ad-libs, soothing female vocal harmonies
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at sunset, golden hues reflecting on glass skyscrapers, intricate patterns in the sky, Afro-futuristic elements, warm and inviting atmosphere, vibrant and modern
+sfx = gentle waves, distant city sounds, rhythmic percussion, soft wind chimes, subtle crowd murmurs
+vocals = male vocal ad-libs, soothing female vocal harmonies, warm and soulful melodies
+vocalsStructured = Afrobeat track with a rich intro, dynamic layers, and mellow outro, featuring smooth vocal ad-libs and lush harmonies
+keywords = afrobeat afrofusion instrumental worldmusic soulful emotional 2025 burnaboyfola afrofuturistic rhythmic harmonies vibrant cinematic soundscape
+codeName = Homo Faber
+bpm = 110
+genreInput = 
+promptInput = Track inspired by  - Instrumental 2025 x Burna BoyFola "NO WORRIES" Emotional Afrobeat Type Beat. Use similar musical vibe, mood, style, genre, instruments.
+language = german
+letter = H
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro wave]
+oooooo iiiiii
+
+[verse groove]
+mmmmmmm aaaaaa
+
+[chorus uplift]
+oooooo
+eeeeeee
+
+[bridge calm]
+shhhhhh
+mmmmmmm
+
+[outro fade]
+oooooo iiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

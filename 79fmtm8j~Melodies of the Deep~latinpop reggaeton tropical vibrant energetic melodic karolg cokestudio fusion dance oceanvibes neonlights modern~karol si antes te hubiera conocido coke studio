@@ -1,0 +1,53 @@
+title = Melodies of the Deep (Melodías del Profundo)
+genre = Latin Pop
+description = In the endless ocean, a song of longing and adventure. Inspired by the depths, in the style of KAROL G.
+prompt = Latin pop with reggaeton influence, vibrant rhythm, smooth guitar riffs, tropical percussion, warm bass, energetic vibe, female vocal with a passionate and playful tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic harbor at sunset, sleek ships anchored, neon lights reflecting on the water, vibrant colors, tropical and modern style
+sfx = ocean waves, soft sea breeze, distant ship horns, rhythmic clapping
+vocals = female vocal, passionate delivery, playful and energetic, with a hint of mystery
+vocalsStructured = Latin pop track, with a strong intro and smooth outro, including some lively drops, with melodic female vocal
+keywords = latinpop reggaeton tropical vibrant energetic melodic karolg cokestudio fusion dance oceanvibes neonlights modern
+codeName = Moby-Dick
+bpm = 105
+genreInput = 
+promptInput = Track inspired by KAROL G - Si Antes Te Hubiera Conocido | Coke Studio. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Ocean Echoes]
+
+[verse]
+En las olas del destino
+Te vi, estrella fugaz
+Tus ojos son el camino
+Que me lleva al mar
+
+[Pre-Chorus - Rising Tide]  
+wooo ooooo
+El sol nos sigue, no hay final
+Nuestro amor es un vendaval
+
+[Chorus - Wave Dance]  
+iii eeeee
+Bailamos entre las estrellas
+El mar nos llama, sin barreras
+
+[Bridge - Mystic Horizon]
+Las luces brillan, el futuro es nuestro
+En cada ola, un nuevo comienzo
+
+[outro - Sunset Fade]
+ahhhh ooo
+Ecos del mar, nos despedimos
+Hasta la próxima, mi destino
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

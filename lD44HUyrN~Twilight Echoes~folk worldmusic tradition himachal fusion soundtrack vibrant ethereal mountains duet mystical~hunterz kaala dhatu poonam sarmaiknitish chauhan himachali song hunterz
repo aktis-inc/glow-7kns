@@ -1,0 +1,51 @@
+title = Twilight Echoes
+genre = Folk & World
+description = In the echoes of twilight, a harmony of tradition and modernity dances through the hills. Inspired by the ancient tales, yet resonating with contemporary beats, this track captures the spirit of the mountains.
+prompt = Energetic folk-inspired beat, rhythmic percussions, traditional Himachali instruments, vibrant melodies, dynamic progression, male and female vocal, spirited and lively
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic landscape with glowing mountains, ethereal mist, and vibrant colors, blending traditional Himachali patterns with modern abstract art, creating a captivating and mystical atmosphere
+sfx = echoing mountain winds, rhythmic drum beats, gentle chime of bells, distant bird calls
+vocals = male and female vocal, harmonious duet, lively and spirited tone, traditional flair
+vocalsStructured = folk-inspired track, with a strong intro and energetic outro, including rhythmic drops, with melodic male and female vocals
+keywords = folk worldmusic tradition himachal fusion soundtrack vibrant ethereal mountains duet mystical
+codeName = The Tale of Genji
+bpm = 135
+genreInput = 
+promptInput = Track inspired by HunterZ - Kaala Dhatu | Poonam SarmaikNitish Chauhan | Himachali Song | HunterZ. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro harmony]
+
+[verse 1]
+In the twilight's glow, echoes rise
+Mountains hum a timeless song
+iiiiii aaaaaa ooooo
+
+[Chorus - Rhythmic Pulse]
+Dance with the wind, feel the earth
+Hearts beat in unison, ancient mirth
+oooooo eeeeee iiiiii
+
+[Bridge - Ethereal Whispers]
+Voices of the past, guiding light
+Weaving stories, through the night
+ssssshhhh ooooo
+
+[verse 2 - Spirited Call]
+Under starlit skies, dreams unfold
+Tales of old, in whispers told
+zzzzzzzz iiiiiiii
+
+[outro - Fade to Dawn]
+oooooo iiiiiii aaaaaa
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

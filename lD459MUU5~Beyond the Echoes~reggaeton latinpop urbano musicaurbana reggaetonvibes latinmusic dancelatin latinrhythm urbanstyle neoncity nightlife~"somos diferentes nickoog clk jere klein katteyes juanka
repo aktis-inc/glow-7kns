@@ -1,0 +1,28 @@
+title = Beyond the Echoes (Más allá de los ecos)
+genre = Latin Urban
+description = Between shadows and light, where different souls meet and dance in the rhythm of life, inspired by unique styles.
+prompt = Latin urban track, reggaeton beat, smooth synths, rhythmic guitar strums, deep bass, energetic percussion, passionate male and female vocals
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant cityscape at sunset, neon lights reflecting on wet streets, silhouettes of dancers in motion, modern and urban atmosphere, with a touch of mystique
+sfx = city sounds, distant car horns, rhythmic claps, echoing footsteps
+vocals = passionate male and female vocals, rhythmic flow, dynamic and engaging
+vocalsStructured = Latin pop track, with a strong intro and compelling outro, featuring rhythmic drops and melodic male and female vocals
+keywords = reggaeton latinpop urbano musicaurbana reggaetonvibes latinmusic dancelatin latinrhythm urbanstyle neoncity nightlife
+codeName = Beloved
+bpm = 95
+genreInput = 
+promptInput = Track inspired by "Somos Diferentes " - Nickoog CLK Jere Klein KATTEYES x JuanKa. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

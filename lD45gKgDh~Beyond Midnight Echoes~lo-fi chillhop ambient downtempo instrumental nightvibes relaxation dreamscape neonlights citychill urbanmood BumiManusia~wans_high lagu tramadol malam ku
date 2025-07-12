@@ -1,0 +1,39 @@
+title = Beyond Midnight Echoes (Di Luar Gema Tengah Malam)
+genre = Lo-Fi Chill
+description = In the heart of the night, where the echoes of the past linger, a gentle voice guides the way.
+prompt = Chill lo-fi beats, mellow guitar riffs, ambient synth layers, smooth bassline, atmospheric pads, nocturnal vibes, soothing male vocal, relaxed and introspective mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = City skyline at night with neon lights reflecting on wet streets, futuristic and dreamy aesthetic, vibrant colors, ethereal glow, modern and captivating
+sfx = soft rain patter, distant city hum, gentle wind chime, subtle vinyl crackle
+vocals = male vocal, calm and soothing, echoing whispers, soft harmonies, introspective
+vocalsStructured = lo-fi chill track, with gentle introduction and smooth outro, featuring layered male vocals
+keywords = lo-fi chillhop ambient downtempo instrumental nightvibes relaxation dreamscape neonlights citychill urbanmood BumiManusia
+codeName = Bumi Manusia
+bpm = 85
+genreInput = 
+promptInput = Track inspired by Wans_high - LAGU tramadol malam ku. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro rain]
+
+[verse]
+
+[soft chime]
+
+[verse]
+
+[gentle chorus]
+mmmmm
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

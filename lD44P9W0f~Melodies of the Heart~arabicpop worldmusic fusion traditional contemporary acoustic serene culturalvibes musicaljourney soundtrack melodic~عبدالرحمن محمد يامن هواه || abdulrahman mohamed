@@ -1,0 +1,53 @@
+title = Melodies of the Heart (ألحان القلب)
+genre = Arabic Pop
+description = A journey through time and culture, the heart's whispers echo in the alleys of old and new.
+prompt = Lush instrumental arrangement, traditional Middle Eastern strings, gentle percussion, soothing oud melodies, evocative atmosphere, male and female vocals, calming and serene mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern cityscape with a traditional Middle Eastern twist, blending ancient architecture with contemporary design, vibrant colors, and warm tones, evocative and culturally rich visual
+sfx = soft rustling of leaves, gentle flowing water, faint echo of distant calls, rhythmic heartbeat-like percussion
+vocals = male and female vocal, harmonious duet, soft and emotive, gentle storytelling
+vocalsStructured = arabic pop track, with graceful intro and soothing outro, including gentle drops, with melodic duet vocals
+keywords = arabicpop worldmusic fusion traditional contemporary acoustic serene culturalvibes musicaljourney soundtrack melodic
+codeName = Midaq Alley
+bpm = 90
+genreInput = 
+promptInput = Track inspired by عبدالرحمن محمد - يامن هواه || AbdulRahman Mohamed. Use similar musical vibe, mood, style, genre, instruments.
+language = arabic
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Soft Whisper]
+
+[verse 1 – Heart's Call]
+يا مَن يَسهر في ظِل النور  
+بَينَ قَلبٍ وَحُطور  
+اااااااااااه
+
+[Chorus – Echoed Harmony]
+حُلمٌ يُداعِبُ النُجوم  
+قَصصٌ في الهُدوء تَسوم  
+ياااا
+
+[Bridge - Timeless Walk]
+خطوة بَينَ الزمان والمكان  
+رَقصَة في القلب تُغني  
+وَاهه
+
+[verse 2 – Ancient Melody]
+ذِكرى في الريح تَحكي  
+عَن حُبٍ بِلا نهاية  
+وووووووووووووو
+
+[outro - Fade into Light]
+هُدوءُ الليل يُداعب  
+أوتار القلب الحزين  
+ييييييييييييي
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

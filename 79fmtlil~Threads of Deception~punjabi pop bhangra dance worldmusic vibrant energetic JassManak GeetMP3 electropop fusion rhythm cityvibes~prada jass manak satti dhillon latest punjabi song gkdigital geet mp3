@@ -1,0 +1,60 @@
+title = Threads of Deception
+genre = Punjabi Pop
+description = In a world of shifting identities and hidden motives, the rhythm dances through the shadows. Inspired by the style of Jass Manak, it weaves a tale of allure and mystery.
+prompt = Energetic Punjabi vibe, upbeat rhythm, vibrant dhol beats, catchy synth melodies, lively tempo, pulsating bass, playful male vocal, engaging and spirited
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A modern cityscape at dusk, neon lights reflecting on wet streets, a bustling marketplace scene, people moving in colorful attire, vibrant and dynamic style, futuristic elements
+sfx = city ambiance, bustling market sounds, rhythmic dhol beats, synth layers, crowd chatter
+vocals = male vocal, lively and spirited, Punjabi style, engaging and rhythmic
+vocalsStructured = upbeat Punjabi pop track, with a strong intro and lively outro, includes engaging verses and a catchy chorus, with vibrant male vocal
+keywords = punjabi pop bhangra dance worldmusic vibrant energetic JassManak GeetMP3 electropop fusion rhythm cityvibes
+codeName = The Talented Mr. Ripley
+bpm = 140
+genreInput = 
+promptInput = Track inspired by PRADA - JASS MANAK Satti Dhillon | Latest Punjabi Song 2018 | GKDIGITAL | Geet MP3. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - vibrant city]
+
+[verse 1]
+In the shadows, secrets play
+Neon lights guide the way
+Threads of life, they interlace
+In the dance, we find our place
+
+[chorus]
+Dancing in the night
+Colors burn so bright
+Lost within the sound
+Rhythms all around
+
+[bridge]
+Heartbeat's echo, never lies
+Truth is found in shifting skies
+ooooo wooooo
+
+[verse 2]
+Masked in charm, a hidden face
+In the crowd, we leave no trace
+Whispered words, a fleeting glance
+With the beat, we take our chance
+
+[chorus]
+Dancing in the night
+Colors burn so bright
+Lost within the sound
+Rhythms all around
+
+[outro - fading city]
+iiiiii ooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

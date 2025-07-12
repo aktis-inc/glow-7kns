@@ -1,0 +1,44 @@
+title = Echoes of Heritage
+genre = World - Electronic Fusion
+description = A dance of past and future, where heritage echoes in every beat. Influenced by NDJ's style, this track bridges tradition with modernity.
+prompt = Energetic traditional fusion, rhythmic dhol beats, vibrant melodies, modern electronic layers, uplifting and soulful, male and female vocals, lively and engaging presence
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic celebration scene, vibrant traditional attire blending with modern urban fashion, neon lights casting dynamic patterns, a sense of cultural fusion and unity
+sfx = dhol beats, clinking anklets, vibrant crowd ambiance, electronic synth swirls
+vocals = male and female vocal duet, traditional style with modern twist, soulful and resonant
+vocalsStructured = fusion track, rhythmic intro, lively chorus with engaging drops, dynamic male and female vocal interplay
+keywords = fusion worldmusic traditional electronic dhol uplifting lively soulful NDJstyle culturalfusion vibrant
+codeName = Xenogenesis
+bpm = 120
+genreInput = 
+promptInput = Track inspired by NDJ - महर गम क पन Mahre Gaam Ka Pani New Haryanvi Songs Meeta Baroda Raju Punjabi NDJ. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro rhythm]
+[verse 1]  
+Voices of the past, in harmony with now  
+Traditions entwined, in the digital glow  
+oooooo aaaaaa
+
+[chorus]  
+Dance of echoes, vibrant and bold  
+Heritage whispers, stories retold  
+iiiiiiiiiiii
+
+[bridge]  
+Futures arise, on the shoulders of dreams  
+A tapestry woven, in vibrant streams  
+ooohhhh
+
+[outro - fading beats]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

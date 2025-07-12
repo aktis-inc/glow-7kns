@@ -1,0 +1,67 @@
+title = Kaleidoscope of Memories (Caleidoscopio de Recuerdos)
+genre = Latin Pop
+description = An enchanting garden of memories, where each petal tells a story, in the style of Marc Anthony's gentle serenade.
+prompt = Romantic Latin pop ballad, gentle acoustic guitar, warm percussion, soft piano melodies, flowing string sections, heartfelt male vocal, tender emotive delivery
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant garden scene at twilight, flowers in full bloom, soft glow of lanterns, dreamy and romantic ambiance, warm color palette, modern and enchanting
+sfx = rustling leaves, gentle breeze, distant chimes, soft guitar strums
+vocals = male vocal, tender and heartfelt, smooth emotional expression, subtle harmonies
+vocalsStructured = romantic ballad with a smooth intro and heartfelt outro, featuring expressive male vocal
+keywords = latinpop romantic ballad latino acoustic softrock piano strings marcanthony florpalida emotional serenade lovestory latinvibes
+codeName = Kidnapped
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Marc Anthony - Flor Palida. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = K
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Whispering Breeze]
+
+[guitar intro]
+ahhhhhh
+
+[verse 1 - Garden of Time]
+En el jardín del alma
+cada flor es un suspiro
+susurran los secretos
+de un amor jamás perdido
+oooooo iiiiiii
+
+[Pre-Chorus - Petal Dance]
+flores bailan en la brisa
+sus colores me hipnotizan
+yo me pierdo en su aroma
+como un sueño que se asoma
+
+[Chorus - Blooming Heart]
+ahhhhhh  
+iiiiiiii  
+corazón en flor  
+ooooo
+
+[Bridge - Twilight Glow]
+luz de faroles, suave resplandor
+en este rincón, se guarda el amor
+ahhhh ooooo
+
+[verse 2 - Memory Lane]
+cada pétalo un recuerdo
+un eco de lo que fue
+aunque el tiempo nos separe
+tu esencia nunca se irá
+
+[Outro - Fading Echo]
+ooooooo  
+iiiiii  
+en el jardín  
+de recuerdos ahhhh
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Eclipse of the Sun (Eclipse del Sol)
+genre = Industrial Rock
+description = Like an ancient tale brought to life, the sun rises with a roar, casting shadows over a city of glass and steel. Inspired by the style of Rammstein, it carries the weight of legends.
+prompt = Heavy industrial rock, powerful guitar riffs, pounding drums, deep bass, dark and intense atmosphere, commanding male vocal, with anthemic energy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape shrouded in shadows, glowing neon lights reflecting off sleek skyscrapers, a giant sun looming in the background, modern and edgy with a cyberpunk vibe
+sfx = metal clashing, deep echoing booms, mechanical whirring, distant industrial hums
+vocals = male vocal, deep and powerful, echoing whispers, intense
+vocalsStructured = industrial rock track, strong intro, dynamic build-up, impactful drops, with commanding male vocal
+keywords = industrial rock metal rammstein heavyriffs darkatmosphere cyberpunk synthrock alternative edgy anthemic soundtrack futuristic
+codeName = El Aleph
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Rammstein - Sonne. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

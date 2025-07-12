@@ -1,0 +1,28 @@
+title = Bailando con el Zorro (Bailando con el Zorro)
+genre = Cumbia
+description = The night sparkles with movement. His eyes, masked but inviting, lead the dance in a timeless rhythm, echoing the spirit of the Zorro.
+prompt = Cumbia rhythm, infectious groove, vibrant accordion melodies, upbeat percussion, playful male vocal with a cheeky tone, lively dance energy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A modern dance floor in vibrant colors, people in motion, swirling lights, festive and energetic atmosphere, contemporary cumbia vibe
+sfx = accordion flourishes, rhythmic claps, festive crowd noises, lively percussion
+vocals = male vocal, playful and cheeky, energetic delivery
+vocalsStructured = cumbia track, with a catchy intro and lively outro, including playful drops, with spirited male vocal
+keywords = cumbia dance latin accordion festive partyvibes zorro energetic upbeat lively contemporarycumbia dancefloor
+codeName = Zorro
+bpm = 100
+genreInput = cumbia
+promptInput = hoy te vi alado de ese feo de mierda jaja
+language = spanish
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

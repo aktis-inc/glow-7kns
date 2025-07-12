@@ -1,0 +1,53 @@
+title = Melodies of the Past
+genre = Bollywood
+description = A journey through time, capturing the essence of classic Bollywood romances through harmonious melodies, evoking a sense of nostalgia and timeless love.
+prompt = Lush orchestral arrangement, gentle sitar strumming, nostalgic strings, classic Bollywood essence, harmonious duet, timeless romantic vibe, soulful male and female vocal, soothing and evocative
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant fusion of Indian classical and modern elements, swirling colors and abstract patterns, invoking a sense of nostalgia and romance, elegant and dreamy aesthetic
+sfx = gentle tabla beats, subtle flute melodies, ambient nature sounds, soft wind chimes
+vocals = male and female duet, soulful and melodic, capturing the essence of classic Bollywood
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocal
+keywords = bollywood classic orchestral indian sitar nostalgic romantic duet 70s cinematic soundtrack latarafi kishore oldhindi hindimusic melody
+codeName = Midnight's Children
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Duet Hindi Songs - क सदबहर गन 💖 Best of 70s Bollywood 🎧 | Lata, Rafi, Kishore | Old Hindi Songs Jukebox. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle sitar]
+
+[verse 1]
+Golden whispers in the moonlight  
+Your eyes, a story untold  
+Timeless echoes of our moments  
+In this dance of old
+
+[chrous - harmonious duet]
+oooooo  
+iiiiii
+
+[bridge - nostalgic strings]
+Our hearts, a melody intertwined  
+Lost in the rhythm of time
+
+[verse 2]
+In dreams, we meet on silver shores  
+Every note, a promise we made  
+In this eternal serenade  
+Where love never fades
+
+[outro - flute and tabla]
+oooo iiiiii  
+Fading into the night  
+Our song, forever bright
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

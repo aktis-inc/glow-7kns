@@ -1,0 +1,28 @@
+title = Beyond the Horizon (Melampaui Cakrawala)
+genre = Indie Pop Rock
+description = Echoes of the past meet dreams of tomorrow, a tapestry of sound woven through time in the style of beloved Indonesian bands.
+prompt = Indie pop rock vibe, catchy guitar riffs, uplifting melody, rhythmic percussion, immersive atmosphere, driving bassline, male and female vocal harmonies, nostalgic and heartfelt mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape at sunset, blending vibrant neon lights with soft golden hues, modern and sleek design, captivating and inviting atmosphere, a sense of adventure and wonder
+sfx = city ambiance, distant chatter, gentle breeze, footsteps on pavement, soft echoes
+vocals = male and female vocal harmonies, warm and inviting, emotional yet grounded
+vocalsStructured = indie pop rock track, with an engaging intro and a powerful outro, featuring harmonious male and female vocals
+keywords = indiepop rock alternative indonesianmusic nostalgic uplifting harmony emotional vibrant cinematic soundtrack neoncity exploration
+codeName = Bumi Manusia
+bpm = 120
+genreInput = 
+promptInput = Track inspired by 91 FM - Letto, Noah, Geisha, Vierra, Kahitna, Dmasiv, Peterpan, Nidji. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

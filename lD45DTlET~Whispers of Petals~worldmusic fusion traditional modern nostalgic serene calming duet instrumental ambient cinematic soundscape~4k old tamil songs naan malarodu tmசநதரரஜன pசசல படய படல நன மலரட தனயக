@@ -1,0 +1,52 @@
+title = Whispers of Petals
+genre = World-Fusion
+description = A journey through memories. The whispers of petals echo timeless tales.
+prompt = Nostalgic melody with a mix of traditional and modern sounds, gentle sitar and rhythmic tabla, soothing flute overlays, serene vibe, harmonious tempo, reflective mood, male and female duet, soft and enchanting
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Beautifully intertwined petals floating on a serene pond, gentle ripple effects, soft golden sunlight, ethereal and dreamlike atmosphere, modern artistic interpretation
+sfx = gentle breeze rustling leaves, distant bird calls, soft water ripples, subtle temple bell chimes
+vocals = male and female duet, soft and harmonious, traditional style with a modern twist, enchanting and calming
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocal
+keywords = worldmusic fusion traditional modern nostalgic serene calming duet instrumental ambient cinematic soundscape
+codeName = On the Road
+bpm = 90
+genreInput = 
+promptInput = Track inspired by 4K Old Tamil Songs - Naan Malarodu TMசநதரரஜன Pசசல படய படல நன மலரட தனயக. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle breeze]
+
+[verse - Petal Whispers]
+Soft steps on ancient paths  
+Time's embrace, a fleeting dance  
+Petals whisper, stories cast  
+In the breeze, a gentle trance  
+
+[Chorus - Echoes of Time]  
+oooooo  
+Swaying with the rhythm of earth  
+iiiiiiii  
+In echoes, find rebirth  
+
+[Bridge - Golden Memories]  
+Golden sunlight, soft and warm  
+Memories linger, in every form  
+Whispers of past, gentle and slow  
+In the heart, they softly glow  
+
+[outro - Tranquil Fade]  
+ahhhhhh  
+Soft petals fall, in the glow  
+oooooo  
+In dreams, they softly flow
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

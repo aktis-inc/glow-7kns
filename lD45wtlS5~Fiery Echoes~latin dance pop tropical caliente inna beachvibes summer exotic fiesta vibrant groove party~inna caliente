@@ -1,0 +1,28 @@
+title = Fiery Echoes (Пламенные Эхо)
+genre = Latin Dance
+description = In the heat of the night, echoes of rhythm and passion intertwine. Inspired by the vibrant style of INNA, this track captures the essence of a tropical dance paradise.
+prompt = Energetic Latin dance beat, vibrant percussion, rhythmic guitar strums, tropical flair, lively synths, exotic melodies, female vocal with warm and inviting tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Sunset beach party scene, vibrant colors, tropical paradise, people dancing, waves in the background, modern and vibrant aesthetic
+sfx = ocean waves, rhythmic claps, conga drum beats, distant laughter
+vocals = female vocal, warm and inviting tone, rhythmic and melodic
+vocalsStructured = dance track, with engaging intro and lively outro, featuring vibrant female vocal with tropical flair
+keywords = latin dance pop tropical caliente inna beachvibes summer exotic fiesta vibrant groove party
+codeName = Kim
+bpm = 120
+genreInput = 
+promptInput = Track inspired by INNA - Caliente |. Use similar musical vibe, mood, style, genre, instruments.
+language = russian
+letter = K
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

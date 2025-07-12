@@ -1,0 +1,28 @@
+title = Timeless Echoes
+genre = Cinematic
+description = In the heart of tranquility, echoes of the past and dreams of the future intertwine, creating a timeless melody that resonates through the soul.
+prompt = Ethereal melodies blend with traditional instruments, rich orchestration, evocative harmonies, cinematic soundscape, dreamlike ambiance, serene flute lines, uplifting strings, gentle percussion, male vocal with a soothing and wistful tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A mesmerizing landscape with mist-covered mountains and a flowing river under a starlit sky, infused with luminous colors and ethereal light, capturing a dreamlike and serene atmosphere
+sfx = gentle river flow, distant flute echoes, soft rustling leaves, mystical chimes
+vocals = male vocal, soothing and wistful tone, soft and emotional delivery
+vocalsStructured = cinematic step track, with a flowing intro and serene outro including some gentle drops, with melodic male vocal
+keywords = cinematic ambient worldmusic ethereal neoclassical traditional dreamlike serene instrumental soundtrack
+codeName = The Tale of Genji
+bpm = 85
+genreInput = 
+promptInput = Track inspired by Sukeko Geetharu - Gairi Khet Ko || आश भसलक सवरम सदबहर नपल गत || Nepali Movie Prem Pinda ||. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

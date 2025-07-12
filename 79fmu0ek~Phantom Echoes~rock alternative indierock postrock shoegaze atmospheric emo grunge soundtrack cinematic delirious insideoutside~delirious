@@ -1,0 +1,49 @@
+title = Phantom Echoes (Ecos Fantasmales)
+genre = Rock
+description = Echoes of the past whisper through time. Inspired by the haunting realms of Pedro Páramo, this track blends the ethereal with the tangible.
+prompt = Energetic rock vibe, soaring guitar riffs, driving bassline, powerful drums, atmospheric synth layers, emotional and introspective mood, male and female harmonizing vocals with a gritty edge
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A surreal landscape with ghostly figures emerging from a misty horizon, ethereal light breaking through clouds, modern and dynamic composition, vibrant contrasts, dreamlike and captivating
+sfx = echoing footsteps, distant whispers, thunderous drum rolls, shimmering synth sweeps
+vocals = male and female harmonizing vocals, emotional intensity, gritty and raw delivery
+vocalsStructured = rock-inspired track, strong intro and impactful outro with dynamic drops, featuring melodic male and female vocals
+keywords = rock alternative indierock postrock shoegaze atmospheric emo grunge soundtrack cinematic delirious insideoutside
+codeName = Pedro Páramo
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Delirious? - Inside / Outside. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = P
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Misty Arrival]
+(soft echoes) oooooo
+(whisper) sombras del pasado
+
+[verse – Phantom Whisper]
+Caminos perdidos, ecos del ayer
+En la bruma, resurgiré
+bbbbbb
+
+[chorus – Echoing Souls]
+iiiiiiii
+Voces que nunca se apagan
+Dentro y fuera, susurran
+
+[bridge - Ethereal Shift]
+oooooo
+Entre sombras, encontraré
+El reflejo de lo que fui
+
+[outro - Fade to Silence]
+(sssshhh) ooo
+Desvanecerse en el viento
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

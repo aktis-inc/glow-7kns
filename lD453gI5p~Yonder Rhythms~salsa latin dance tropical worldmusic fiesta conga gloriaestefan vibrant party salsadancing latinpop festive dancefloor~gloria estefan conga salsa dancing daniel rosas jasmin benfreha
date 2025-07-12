@@ -1,0 +1,54 @@
+title = Yonder Rhythms (Jenseits Rhythmen)
+genre = Latin Pop
+description = Dance to the rhythm of the tropics. Inspired by the lively energy of salsa and the vibrant spirit of dance.
+prompt = Energetic salsa groove with vibrant percussion, lively brass section, infectious piano melodies, upbeat tempo, tropical flair, male and female vocal harmonies, playful and spirited atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant dance floor filled with swirling dancers, bright colorful lights, tropical decorations, energetic and festive atmosphere, modern salsa dance scene
+sfx = conga drums, lively trumpet bursts, rhythmic clapping, crowd cheers, joyful laughter
+vocals = male and female vocals, lively harmonies, energetic and charismatic delivery
+vocalsStructured = salsa pop track, with engaging intro and dynamic outro, featuring lively vocal harmonies and rhythmic breaks
+keywords = salsa latin dance tropical worldmusic fiesta conga gloriaestefan vibrant party salsadancing latinpop festive dancefloor
+codeName = Youth Without Youth
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Gloria Estefan - Conga | Salsa Dancing | Daniel Rosas & Jasmin Benfreha. Use similar musical vibe, mood, style, genre, instruments.
+language = german
+letter = Y
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+(Spoken) Tanz im Rhythmus der Nacht  
+oooooo aaaaaaa
+
+[verse 1 – Tropical Breeze]  
+Die Sonne küsst die Haut  
+Der Boden lebt im Takt  
+Schritte sind wie Magie  
+Gemeinsam durch die Nacht  
+
+[Chorus – Salsa Pulse]  
+oooooo  
+iiiiiiii  
+Yonder Rhythms, fühl den Beat  
+Tanz im Feuer, spür die Glut
+
+[Bridge – Fiesta Spirit]  
+Licht und Schatten vereint  
+Im Wirbel der Melodie  
+Alle Sorgen verweht  
+In der Salsa-Symphonie
+
+[outro – Rhythm Echo]  
+aaaaaah  
+iiiiiiii  
+Die Nacht lebt, der Rhythmus bleibt  
+Gemeinsam, im Tanz vereint
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

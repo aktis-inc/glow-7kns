@@ -1,0 +1,45 @@
+title = Quiet Echoes of the Past (Gema Sunyi dari Masa Lalu)
+genre = Indonesian Pop
+description = In the quiet echoes of another era, memories dance like shadows. Influenced by the timeless Indonesian pop sound of the 2000s.
+prompt = Indonesian pop ballad, heartfelt melodies, nostalgic vibes, acoustic guitar, emotional piano, gentle percussion, male and female vocal harmonies, tender and soulful atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A modern cityscape at dusk, with shimmering lights reflecting off a tranquil river, capturing a nostalgic yet hopeful mood. Blending contemporary and dreamy elements, with a soft focus and warm color palette.
+sfx = soft guitar strums, gentle piano chords, distant city sounds, whispers of the breeze
+vocals = male vocal, heartfelt and gentle, intertwined with female harmonies, soothing and emotional
+vocalsStructured = Indonesian pop ballad, well-structured with a gentle intro and heartfelt outro, featuring melodic male and female vocal harmonies
+keywords = IndonesianPop Ballad Nostalgia 2000sVibe Acoustic Emotional Heartfelt Dadali Papinka AsbakBand Ilir7 Soulful LaguIndonesia
+codeName = Queen of the South
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Dadali, Papinka, Asbak Band, Ilir7 - Lagu Tahun 2000an Indonesia Pop Terbaik. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+[soft guitar intro]
+
+[verse 1]
+Langit senja bersinar, kenangan terukir
+Di dalam hati yang tak pernah pudar
+
+[chorus]
+Gema sunyi dari masa lalu
+Mengalun lembut di telinga
+Melodi yang menggetarkan jiwa
+
+[bridge]
+Waktu berlalu, namun rasa tetap
+Seperti bintang di malam yang kelam
+
+[outro]
+[gentle piano outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

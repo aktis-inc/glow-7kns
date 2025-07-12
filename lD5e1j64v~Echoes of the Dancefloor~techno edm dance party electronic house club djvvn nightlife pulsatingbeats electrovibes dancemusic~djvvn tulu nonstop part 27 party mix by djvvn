@@ -1,0 +1,50 @@
+title = Echoes of the Dancefloor
+genre = Techno
+description = In a world of endless possibilities, the dancefloor becomes a universe of its own, inspired by the infinite echoes of DJVVN's party mix.
+prompt = Energetic techno mix, pulsating beats, high-energy rhythms, hypnotic synths, driving basslines, party atmosphere, captivating male and female vocal elements, vibrant and lively
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic nightclub with pulsating neon lights, holographic dance floor, and a crowd lost in the rhythm, immersive and dynamic visuals, electric and modern vibe
+sfx = bass thumps, crowd cheers, synth sweeps, rhythmic claps
+vocals = male and female vocals, dynamic and rhythmic delivery, electronic echoes, high-energy
+vocalsStructured = techno pop step track, with engaging intro and thrilling outro including intense drops, with vibrant mixed vocals
+keywords = techno edm dance party electronic house club djvvn nightlife pulsatingbeats electrovibes dancemusic
+codeName = Ender's Game
+bpm = 130
+genreInput = 
+promptInput = Track inspired by DJVVN - TULU NONSTOP 2 | PART 27 | PARTY MIX BY DJVVN. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse]
+
+oooooo iiiii
+
+[build-up synth]
+
+[chorus - Energy Pulse]
+oooooo
+Feel the rhythm, feel the night
+
+[drop - Bass Surge]
+ooooooo
+
+[verse - Dance Echo] 
+Lost in lights, bodies in motion
+
+[bridge - Sonic Fusion]
+ooooo iiiiiiiiiii
+
+[outro - Neon Fade]
+shhhhhh oooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

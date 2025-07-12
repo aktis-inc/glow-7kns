@@ -1,0 +1,28 @@
+title = Eternal Fire
+genre = Rap
+description = Struggle and redemption amidst the chaos of the city. In the style of Lil Wayne, a journey through the urban jungle.
+prompt = Hard-hitting rap beat, aggressive drum patterns, intense bass, sharp hi-hats, gritty synth layers, high-energy vibe, male vocal with commanding presence
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Urban skyline at night, vibrant neon lights reflecting off wet streets, futuristic cityscape, bold and edgy atmosphere, modern hip-hop aesthetic
+sfx = city ambience, car honks, vinyl scratch, sirens in the distance
+vocals = male vocal, rap style, strong and confident delivery, dynamic flow
+vocalsStructured = rap track, with a powerful intro and strong outro, featuring intense drops and energetic male rap vocals
+keywords = rap hiphop trap urban streetvibes neonlights LilWayne SwizzBeatz citylife edgy intense gritty hardhitting cinematic soundtrack
+codeName = East of Eden
+bpm = 140
+genreInput = rap
+promptInput = Lil Wayne rapping over a hard Swizz Beatz beat
+language = english
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

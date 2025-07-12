@@ -1,0 +1,46 @@
+title = Echoes of the Unseen
+genre = Ambient
+description = Step into the unseen, where echoes of the past linger, inspired by the mystical dialogue.
+prompt = Ambient soundscape, ethereal pads, subtle percussive elements, mystical atmosphere, soft synth layers, gentle rhythmic pulses, contemplative mood, introspective male vocal, whispery tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract representation of an ancient mystical temple, glowing with ethereal light, surrounded by swirling mists, modern and ethereal aesthetic, vibrant and otherworldly
+sfx = whispering winds, distant chimes, soft water trickle, subtle echoes
+vocals = male vocal, whispery and introspective, ethereal harmonies
+vocalsStructured = ambient track, with gentle intro and smooth outro including subtle transitions, with whispery male vocal
+keywords = ambient ethereal meditative soundscape chill contemplative mystical cinematic abstract vibes SAFATV
+codeName = Neverwhere
+bpm = 60
+genreInput = 
+promptInput = Track inspired by SAFA TV - Perod Abdul Rahman Saqafi 2022 March Speech | കണണരട റബബലകക അടകകൻ ഈ വകകകൾ മത. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = N
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [inst]
+
+[whisper intro] 
+sssshhhhh ooooooo
+
+[verse]
+Through the veils, I wander
+Where shadows softly speak
+In whispers, secrets linger
+Among the ancient peaks
+iiiiiiiiii
+
+[soft interlude]
+ooooo aaaaa
+
+[outro]
+Echoes fade in silence
+In the realms of the unseen
+shhhhhh iiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

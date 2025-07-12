@@ -1,0 +1,28 @@
+title = Echoes of the Unknown (अज्ञात की प्रतिध्वनियाँ)
+genre = Electronic
+description = A journey beyond the horizon, where the unknown becomes your guide. Inspired by the style of Download Free - AT Player, this track captures the essence of exploration.
+prompt = Energetic electronic beat, sweeping synths, pulsating rhythm, deep bass, ambient textures, futuristic soundscape, male and female vocals, ethereal and haunting effects
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape bathed in neon lights, reflections on glass skyscrapers, abstract patterns in the sky, vibrant and dynamic, modern digital art style
+sfx = digital chimes, echoing footsteps, synthetic whispers, atmospheric whooshes
+vocals = ethereal male and female vocals, layered harmonies, echoing whispers, haunting
+vocalsStructured = electronic track, with a strong intro and atmospheric outro, featuring ethereal vocals and dynamic drops
+keywords = electronic ambient synthwave futuristic soundtrack cinematic neon digitalart exploration inspiration
+codeName = Xenogenesis
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Download Free - AT Player. Use similar musical vibe, mood, style, genre, instruments.
+language = hindi
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,48 @@
+title = Harbor of Echoes
+genre = World Beat
+description = In the harbor of echoes, vibrant rhythms merge with the pulse of the city, inspired by the spirit of adventure and discovery.
+prompt = Energetic world beat, traditional instruments fused with electronic elements, vibrant rhythm, infectious melodies, spirited male vocal, dynamic and lively atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling futuristic harbor city at sunset, with neon lights reflecting on the water, a blend of traditional and modern architecture, vibrant colors, and a lively, energetic vibe
+sfx = harbor sounds, waves crashing, distant ship horns, vibrant city ambiance
+vocals = male vocal, spirited and lively, cultural influences, rhythmic chants
+vocalsStructured = world beat track, with lively intro and rhythmic outro, featuring spirited male vocal, dynamic drops
+keywords = worldbeat fusion electronic traditionalelements vibrant dynamic energetic culturalvibes soundtrack ost modernfusion
+codeName = Heart of Darkness
+bpm = 130
+genreInput = 
+promptInput = Track inspired by SM HUB - Hai Jamalo :Munjya |Amitabh, Saraiya, Nakash Aziz | Sachin Jigar, Skeletron. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = H
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro soundscape]
+
+[verse]  
+The city's heart, it beats in time  
+Echoes of life, in rhythm and rhyme  
+oooooo
+
+[chorus]  
+Vibrant pulse, electric night  
+In the harbor, worlds unite  
+aaaaaa
+
+[bridge - Dynamic Flow]  
+Waves of sound, crashing beats  
+Spirits dance, where earth and sky meet  
+iiiiii
+
+[outro - Rhythmic Fade]  
+Echoes linger, as night turns bright  
+In the harbor, endless flight  
+wooooooo]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

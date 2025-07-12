@@ -1,0 +1,57 @@
+title = Through the Jungle of Rhythm (Pelo Jardim do Ritmo)
+genre = Afrobeat
+description = A dance through the jungle, guided by rhythm and spirit. Inspired by the adventurous spirit of The Three Musketeers.
+prompt = Energetic afrobeat, vibrant percussion, rhythmic bassline, catchy melodies, lively brass sections, danceable groove, dynamic male and female vocal interplay, playful and spirited mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern jungle dance party, vibrant colors, dynamic motion, afrobeat elements, energetic and festive atmosphere, cool urban vibe
+sfx = jungle ambience, rhythmic handclaps, brass fanfare, conga beats, crowd cheers
+vocals = male and female vocal, lively and playful delivery, energetic harmonies
+vocalsStructured = afrobeat track, with lively intro and engaging outro, featuring dynamic vocal interplay and rhythmic hooks
+keywords = afrobeat worldmusic dance afropop rhythmicvibes urbanjungle festive drayaro simba vibrant
+codeName = The Three Musketeers
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Dr Yaro - Simba. Use similar musical vibe, mood, style, genre, instruments.
+language = portuguese
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro rhythm]
+
+[verse 1 - Jungle Beat]
+Drums call, spirits awake
+Feet move, hearts race
+Under the canopy of sound
+
+[Chorus - Rhythm's Embrace]
+oooooo  
+Dance with the trees, feel the breeze
+iiiiiiiiiiiiiiiiiiii  
+Swing to the beat, never retreat
+
+[Bridge - Pulse of the Wild] 
+Hear the call, hear the call
+In the jungle, we stand tall
+
+[verse 2 - Echoes of Adventure]
+Paths untold, stories unfold
+Rhythms bold, in the night of gold
+
+[Chorus - Rhythm's Embrace]
+oooooo  
+Dance with the trees, feel the breeze
+iiiiiiiiiiiiiiiiiiii  
+Swing to the beat, never retreat
+
+[outro - Jungle Fade]
+oooo ooo ooo  
+iiiiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

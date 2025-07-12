@@ -1,0 +1,42 @@
+title = Binary Chimes
+genre = Ambient
+description = Whispers of technology, echoes of modernity. Inspired by the new age, in the style of an iPhone's serene call.
+prompt = Electronic ambient track, minimalistic beats, subtle synth melodies, modern digital vibe, layered textures, gentle chimes, sophisticated tone, refined rhythm, male and female vocal with ethereal and whispery quality
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, glowing skyscrapers, sleek digital aesthetic, abstract geometric patterns, cool blue and silver tones, modern and stylish
+sfx = digital notifications, soft electronic chimes, ambient city hum, gentle echo effects
+vocals = ethereal male and female vocal, whispery and light, layered harmonies, soothing and calm
+vocalsStructured = ambient electronic track, with a smooth intro and gentle outro, featuring ethereal and whispery male and female vocal harmonies
+keywords = ambient electronic minimal digital chillout newage soundtrack futuristic synthwave calm soothing modern iphone apple
+codeName = Brave New World
+bpm = 110
+genreInput = 
+promptInput = Track inspired by A1 iPhone Ringtone - | Status | Taj Song | New iPhone | Apple Ringtone Name. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - digital awakening]
+
+[verse - ethereal whispers]
+oooooo
+iiiiii
+
+[ambient interlude]
+soft chimes
+gentle echoes
+
+[verse - harmonic flow]
+oooooo
+iiiiii
+
+[outro - fading chimes]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

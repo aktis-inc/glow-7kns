@@ -1,0 +1,28 @@
+title = Illusions of Wire (Ilusiones de Alambre)
+genre = Folk
+description = Between wires and dreams, cities whisper tales of unseen paths and hidden truths. In the style of Julian Garza's spirited melodies.
+prompt = Dynamic rhythm with rhythmic guitars, lively percussion, acoustic textures, upbeat energy, traditional instrumentation, male vocal with a playful and gritty tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling cityscape with intertwining wires, vibrant colors, and a surreal atmosphere, blending modern and traditional elements, futuristic yet grounded in cultural roots
+sfx = street ambiance, bustling crowd noise, rhythmic clapping, acoustic guitar strumming
+vocals = male vocal, spirited and gritty, with a lively energy
+vocalsStructured = upbeat folk track, with a vibrant intro and engaging outro including rhythmic drops, with a gritty male vocal
+keywords = folk worldmusic traditional acoustic latin upbeat energetic vibrant cultural storytelling JulianGarza
+codeName = Invisible Cities
+bpm = 120
+genreInput = 
+promptInput = Track inspired by EL VIEJO PAULINO JULIAN GARZA - El Mono de Alambre. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = I
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

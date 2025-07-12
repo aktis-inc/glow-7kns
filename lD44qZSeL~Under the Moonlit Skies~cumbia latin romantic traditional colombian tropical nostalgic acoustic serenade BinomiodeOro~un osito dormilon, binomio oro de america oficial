@@ -1,0 +1,28 @@
+title = Under the Moonlit Skies (Bajo los Cielos Iluminados por la Luna)
+genre = Cumbia
+description = In the embrace of night, a tender nostalgia dances under the stars, whispering tales of love and longing in the style of Binomio de Oro.
+prompt = Cumbia rhythm, accordion melodies, gentle percussion, romantic vibe, nostalgic feel, traditional Colombian groove, male vocal, heartfelt and smooth
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant tropical landscape under a starry night, colorful flowers and palm trees swaying, glowing moonlight reflecting on a serene lake, modern and captivating style, dynamic and full of life
+sfx = soft breeze rustling leaves, gentle water lapping, distant night bird calls
+vocals = male vocal, smooth and romantic, warm harmonies, heartfelt delivery
+vocalsStructured = cumbia pop track, engaging intro and gentle outro, beautiful melodic male vocal with smooth transitions
+keywords = cumbia latin romantic traditional colombian tropical nostalgic acoustic serenade BinomiodeOro
+codeName = Unaccustomed Earth
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Un Osito Dormilon, Binomio Oro De America - Oficial. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = U
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

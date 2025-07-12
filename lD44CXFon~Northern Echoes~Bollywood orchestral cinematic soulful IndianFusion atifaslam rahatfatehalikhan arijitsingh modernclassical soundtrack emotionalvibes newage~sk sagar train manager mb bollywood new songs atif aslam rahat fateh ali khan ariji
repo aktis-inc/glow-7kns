@@ -1,0 +1,42 @@
+title = Northern Echoes
+genre = Bollywood Fusion
+description = A journey through sound and emotion, where the echoes of the past meet the pulse of the future. Inspired by the musical essence of Bollywood legends, infused with a contemporary twist.
+prompt = Bollywood-inspired track, rich orchestral strings, soulful melodies, cinematic drums, heartfelt piano, emotional swells, dynamic vocal harmonies, energetic male and female vocals, soothing and uplifting
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern cityscape blending with traditional elements, vibrant colors, abstract patterns, dynamic motion, futuristic Indian style, glowing lights, captivating and visually bold
+sfx = train sounds, ambient city noise, subtle whispers, orchestral swells, rhythmic heartbeats
+vocals = male and female vocal, smooth and expressive, conveying deep emotions, harmonious interplay
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocals
+keywords = Bollywood orchestral cinematic soulful IndianFusion atifaslam rahatfatehalikhan arijitsingh modernclassical soundtrack emotionalvibes newage
+codeName = Neverwhere
+bpm = 140
+genreInput = 
+promptInput = Track inspired by SK sagar train manager MB - Bollywood new songs atif aslam rahat fateh ali khan & arijit singh. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = N
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - train whistle]
+oooo ooo  
+[verse 1 - Melodic Refrain]  
+Through the misty dawn, echoes awaken  
+In the heart of dreams, whispers are taken  
+ooooo iiiii  
+[chorus - Emotional Climax]  
+In the night, stars align, guiding the way  
+iiiiii aaaaa  
+[bridge - Orchestral Surge]  
+Strings of destiny, tales untold  
+Pulse of memories, a journey unfolds  
+[drop - Crescendo]  
+[Outro - Soft Fade]  
+oooo aaaa
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

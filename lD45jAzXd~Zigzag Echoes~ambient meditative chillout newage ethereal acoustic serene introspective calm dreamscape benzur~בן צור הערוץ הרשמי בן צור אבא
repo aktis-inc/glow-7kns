@@ -1,0 +1,46 @@
+title = Zigzag Echoes (הדהוד זיגזג)
+genre = Ambient
+description = A journey through floating dreams, where echoes speak in zigzag paths. Inspired by the style of בן צור הערוץ הרשמי.
+prompt = Meditative ambient layers, soft melodic patterns, ethereal synths, a warm acoustic guitar, gentle percussive elements, soothing flow, atmospheric male vocal, serene and introspective mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A dreamlike landscape with floating islands, shimmering auroras in the sky, a serene and tranquil atmosphere, contemporary and artistic style, with a touch of surrealism
+sfx = soft wind chimes, gentle waves, distant bird calls, rustling leaves
+vocals = male vocal, calming chants, smooth harmonies, gentle and reflective
+vocalsStructured = ambient track, with a peaceful intro and calming outro, including some gentle drops, with melodic male vocal
+keywords = ambient meditative chillout newage ethereal acoustic serene introspective calm dreamscape benzur
+codeName = Zoo City
+bpm = 90
+genreInput = 
+promptInput = Track inspired by בן צור הערוץ הרשמי - בן צור – אבא. Use similar musical vibe, mood, style, genre, instruments.
+language = hebrew
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle awakening]
+  
+[verse - drifting thoughts]  
+oooooo  
+iiiiii  
+רוח שקטה נושבת בין הצלילים  
+שדה האור נפרש על גבי עננים  
+  
+[chorus - serene echoes]  
+ahhhhhh  
+zzzzzz  
+קול שקט בין הגבעות  
+מזמר שיר עדין של אהבה  
+  
+[outro - restful descent]  
+oooo  
+shhhhhhhh  
+iiiiiiiii  
+סוף המסע, כאן ועכשיו
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Mystic Waves (Ondas Místicas)
+genre = Reggaeton
+description = In the heart of the ocean, where dreams are woven with waves, beats echo like whispers of the sea. In the style of BadBunny, it captures the essence of mystic tides.
+prompt = Energetic reggaeton beat, tropical rhythms, catchy melody, deep bassline, vibrant percussion, island vibes, male vocal with a playful edge
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic beach setting at sunset, neon waves crashing, vibrant palm trees, tropical and modern aesthetic, bold and colorful design
+sfx = ocean waves, distant seagull calls, rhythmic drum beats, tropical wind chimes
+vocals = male vocal, rhythmic and playful, with digital harmonies and energetic flow
+vocalsStructured = reggaeton track, with dynamic intro and vibrant outro, including some drops, with energetic male vocal
+keywords = reggaeton latin urban trap tropical islandvibes dancehall caribbean beats badbunny energetic vibes
+codeName = Moby Dick
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Bad Bunny - DtMF. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

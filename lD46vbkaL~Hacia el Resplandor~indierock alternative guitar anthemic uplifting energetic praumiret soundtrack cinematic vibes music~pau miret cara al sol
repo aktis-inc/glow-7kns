@@ -1,0 +1,49 @@
+title = Hacia el Resplandor (Hacia el Resplandor)
+genre = Indie Rock
+description = In the fog, a journey begins. The sun calls, a beacon in the haze.
+prompt = Energetic and uplifting indie rock vibe, driving guitar riffs, steady drum beats, layered synths, anthemic feel, bold bassline, male vocal with a passionate and gritty tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Sunlight breaking through dense fog, illuminating a vast landscape, modern and abstract art style, vibrant and expansive, cool color palette, futuristic and dynamic
+sfx = crisp guitar strums, echoing drum hits, subtle ambient synth hums, atmospheric wind effects
+vocals = male vocal, gritty and passionate, anthemic delivery, energetic
+vocalsStructured = indie rock track, with a powerful intro and engaging outro, featuring dynamic male vocals with emotional depth
+keywords = indierock alternative guitar anthemic uplifting energetic praumiret soundtrack cinematic vibes music
+codeName = Niebla
+bpm = 140
+genreInput = 
+promptInput = Track inspired by pau miret - cara al sol. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = N
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+oooooo  
+[verse 1 – Misty Pathways]  
+Entre la niebla, pasos firmes  
+El horizonte se abre, un resplandor  
+Llena el alma de anhelos  
+oooooo  
+[chorus – Sunlit Chorus]  
+Hacia el sol, sin temor  
+Resplandecen sueños, en el calor  
+iiiiiiii  
+[bridge – Radiant Journey]  
+Nubes se disipan, luz eterna  
+El camino se revela, en el alba  
+[verse 2 – Luminous Trails]  
+Cada nota, un suspiro  
+En el viento, ecos de libertad  
+[glitch build-up]  
+ooohh  
+[outro – Fade to Light]  
+oooooo  
+Hacia el resplandor...
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

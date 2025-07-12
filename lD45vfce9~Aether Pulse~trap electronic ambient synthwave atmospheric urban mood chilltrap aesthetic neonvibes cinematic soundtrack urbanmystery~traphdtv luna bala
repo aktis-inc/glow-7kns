@@ -1,0 +1,49 @@
+title = Aether Pulse
+genre = Trap
+description = Lost in a world of shadows, where the gods walk among us, in the style of TrapHDTV.
+prompt = Trap beats with ethereal synths, ambient textures, moody basslines, atmospheric pads, energetic rhythm, echoing male vocal with a haunting undertone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon lights reflecting off sleek skyscrapers, ethereal glow, atmospheric and mysterious, captivating urban vibe
+sfx = distant thunder, electrical crackle, ambient city noise, soft wind chimes
+vocals = male vocal, deep and echoing, haunting whispers, layered harmonies
+vocalsStructured = trap step track, with strong intro and haunting outro including some bass drops, with echoing male vocal
+keywords = trap electronic ambient synthwave atmospheric urban mood chilltrap aesthetic neonvibes cinematic soundtrack urbanmystery
+codeName = American Gods
+bpm = 140
+genreInput = 
+promptInput = Track inspired by TrapHDTV - LUNA BALA. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = A
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro - echoing whispers]
+
+[verse 1 – Shadows Dance]
+In the neon glow, I wander
+Silent streets where secrets hide
+Voices echo, soft as thunder
+In these shadows, I confide
+oooooo iiiiiii
+
+[Chorus – Aether Pulse]
+Pulsing lights, beneath the stars
+Ethereal dreams, where we are
+Aaaaaa eeee 
+
+[Bridge - Urban Mystique]
+Silent whispers in the night
+Lost in dreams, out of sight
+Shhhhhhhhh
+
+[outro - Fading Echoes]
+As the city fades away, in the aether we will stay
+Woohhhhhhh
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

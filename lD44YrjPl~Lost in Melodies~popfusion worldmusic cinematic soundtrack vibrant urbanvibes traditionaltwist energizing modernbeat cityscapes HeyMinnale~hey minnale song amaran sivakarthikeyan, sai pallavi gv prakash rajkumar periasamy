@@ -1,0 +1,28 @@
+title = Lost in Melodies
+genre = Pop Fusion
+description = A dance of lights and shadows, where melodies weave through the heart of the city, inspired by the vibrant energy and mood of 'Hey Minnale'.
+prompt = Upbeat pop fusion track, vibrant rhythms, catchy hooks, traditional and modern blend, infectious energy, lively percussion, male and female playful vocals
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling cityscape at twilight, neon lights reflecting in rain-soaked streets, a sense of mystery and allure, vibrant colors with a hint of nostalgia, modern and cinematic style
+sfx = city ambiance, distant chatter, rhythmic footsteps, echoing street sounds
+vocals = male and female vocals, playful and enchanting, with a touch of traditional flair
+vocalsStructured = pop fusion track, with captivating intro and a memorable outro, featuring dynamic drops and melodic male and female vocals
+keywords = popfusion worldmusic cinematic soundtrack vibrant urbanvibes traditionaltwist energizing modernbeat cityscapes HeyMinnale
+codeName = Lolita
+bpm = 135
+genreInput = 
+promptInput = Track inspired by Hey Minnale - Song | Amaran | Sivakarthikeyan, Sai Pallavi | GV Prakash | Rajkumar Periasamy. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

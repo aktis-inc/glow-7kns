@@ -1,0 +1,48 @@
+title = Labyrinth of Echoes (エコーの迷宮)
+genre = Synthwave
+description = In a maze of sounds, echoes guide the way, inspired by the enigmatic aura of ケーム音楽館. Every note a step, every beat a whisper.
+prompt = Energetic electronic vibe, layered synths, intricate melodies, rhythmic beats, ethereal atmosphere, dynamic progression, male and female vocals, mystical and playful sound
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic neon-lit cityscape with labyrinthine streets, glowing digital patterns, mystical symbols floating in the air, vibrant and surreal aesthetic, cyberpunk influences
+sfx = digital echoes, synth pulses, ambient city noises, soft melodic chimes, electronic winds
+vocals = male and female vocals, ethereal harmonies, mystical tones, playful and enigmatic delivery
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocals
+keywords = electronic ambient synthwave cyberpunk soundtrack ost futuristic neon synthpop ethereal mystical ケーム音楽館 gamevibes
+codeName = Lizard
+bpm = 120
+genreInput = 
+promptInput = Track inspired by ケーム音楽館 - 裁く者、裁かれし者. Use similar musical vibe, mood, style, genre, instruments.
+language = japanese
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Digital Dawn]
+shhhhhh woooooo
+
+[verse - Echo Paths]
+In the labyrinth, shadows play
+Guided by echoes, night and day
+
+[glitch build-up]
+
+[chorus - Sonic Maze]
+oooooo
+iiiiii
+Lost in sound, found in dreams
+
+[bridge - Neon Whispers]
+Mystical signs, guiding lines
+Through the maze, time unwinds
+
+[outro - Fading Echoes]
+whispering winds ooooo
+iiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

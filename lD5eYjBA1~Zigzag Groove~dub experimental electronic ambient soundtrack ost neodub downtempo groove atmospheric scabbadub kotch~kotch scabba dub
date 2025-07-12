@@ -1,0 +1,50 @@
+title = Zigzag Groove
+genre = Dub
+description = In the city of echoes, where rhythm leads the way. Inspired by the journey of thought and form, in the style of Kotch.
+prompt = Dub-inspired track with rhythmic basslines, experimental synths, echoing effects, percussive elements, and deep atmospheric layers, featuring energetic male vocal with a playful edge
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with neon lights reflecting on wet streets, abstract shapes in the sky, vibrant colors with a sci-fi twist, bold and captivating visuals
+sfx = echoing dub effects, rhythmic drum hits, ambient city sounds, synth swells
+vocals = male vocal, playful and energetic, with echoing layers and rhythmic delivery
+vocalsStructured = dub step track, with dynamic intro and smooth outro including rhythmic drops, with energetic male vocal
+keywords = dub experimental electronic ambient soundtrack ost neodub downtempo groove atmospheric scabbadub kotch
+codeName = Zen and the Art of Motorcycle Maintenance
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Kotch - Scabba Dub. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro echo]
+
+[verse]  
+ooo  
+rhythms echo, city hums  
+neon dreams, in the slums
+
+[build-up]  
+iiiii  
+bassline twist, soundscape blends
+
+[chorus]  
+oooo  
+groove and glide, in the tide  
+zzzzzzzzz
+
+[bridge]  
+soundwave ride, echoes wide
+
+[outro fade]  
+shhhh  
+iiiiii  
+endless night, rhythm's flight
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

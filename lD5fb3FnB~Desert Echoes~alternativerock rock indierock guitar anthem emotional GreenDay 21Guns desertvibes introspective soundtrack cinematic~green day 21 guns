@@ -1,0 +1,28 @@
+title = Desert Echoes
+genre = Alternative Rock
+description = A world of sand and silence, where echoes of the past linger in the wind. Inspired by the sense of vastness and introspection, in the style of Green Day.
+prompt = Alternative rock anthem, powerful guitar riffs, emotional depth, steady drumbeat, introspective lyrics, anthemic chorus, male vocal, earnest and raw
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vast desert landscape under a twilight sky, silhouettes of towering dunes, a lone guitar standing in the sands, dramatic lighting, modern and evocative
+sfx = wind sweeping over dunes, distant echoes, guitar strums, subtle percussion
+vocals = male vocal, strong and emotive delivery, harmonized echoes
+vocalsStructured = rock ballad track, with a strong intro and dynamic outro, including anthemic builds, with soaring male vocal
+keywords = alternativerock rock indierock guitar anthem emotional GreenDay 21Guns desertvibes introspective soundtrack cinematic
+codeName = Dune
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Green Day - 21 Guns. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = D
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

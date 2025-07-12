@@ -1,0 +1,48 @@
+title = Whispers of Reverie
+genre = Punjabi Pop
+description = Whispers in the wind, echoing tales of past and future. Vibrant rhythms and melodies carry the spirit of culture into the neon-lit night. A dance between tradition and modernity.
+prompt = Energetic Punjabi beat, rhythmic dholak and tumbi, vibrant melody, catchy hooks, upbeat tempo, traditional Punjabi instruments fused with modern electronic elements, male and female vocals in playful and dynamic style
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant blend of modern and traditional elements, with swirling colors and intricate patterns, featuring a futuristic cityscape with hints of rustic culture, illuminated by neon lights and digital effects
+sfx = dholak beats, tumbi strums, electronic pulses, ambient crowd chatter
+vocals = male vocal, upbeat and rhythmic, female vocal, playful and vibrant
+vocalsStructured = Punjabi pop track, with a strong intro and a dynamic outro, featuring melodic male and female vocals
+keywords = punjabipop bhangra electronicfusion dance worldmusic culturalvibes modernfolk neonfolk traditionalmeetsmodern vibrantrhythms fusion
+codeName = War and Peace
+bpm = 140
+genreInput = 
+promptInput = Track inspired by SR VLOGS - Maa R Nait New Punjab Song Ringtone maa rnait punjabisong ringtone ringtones trending viral. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = W
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse]
+Echoes through the fields
+Whispers of dreams unfold
+Dancing shadows in the night
+
+[chorus]
+Aaaaaaah ooooooo
+Vibrant tales in the wind
+Life's rhythm, unconfined
+
+[bridge]
+Tumbi and dholak play
+Neon lights guide the way
+Through whispers of reverie
+
+[outro]
+Oooooh iiiiiii
+Tradition meets the future
+In a symphony of sound
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,50 @@
+title = Haunting Echoes (Ecos Inquietantes)
+genre = Pop
+description = In the shadows, a story unfolds, echoing through the heart, inspired by the style of Conan Gray.
+prompt = Emotional pop ballad, piano-driven melody, heartfelt lyrics, soft acoustic guitar layers, poignant strings, delicate and introspective atmosphere, male vocal, wistful and soothing
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Ethereal landscape with fading sunlight, shadowy figures in mist, contemporary and dreamy style, soft pastel colors, serene and mysterious vibe
+sfx = gentle wind rustling, distant whispers, soft ambient pads, subtle string swells
+vocals = male vocal, gentle and emotive delivery, warm harmonies, reflective tone
+vocalsStructured = pop ballad track, with a soft intro and emotional crescendo, featuring heartfelt male vocal
+keywords = pop indiepop emotional ballad acoustic introspective cinematic conangray softpop dreamy
+codeName = Heart of Darkness
+bpm = 104
+genreInput = 
+promptInput = Track inspired by Conan Gray - The Cut That Always Bleeds. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = H
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Whispered Prelude]
+shhhh oooo  
+[Verse 1 - Fading Light]  
+In the haze, whispers call  
+Echoes of a distant fall  
+Heartstrings pulled, softly unwind  
+In shadows, solace we find  
+iiiiiiiiiiii  
+[Pre-Chorus - Lingering Melancholy]  
+Gentle waves of memory  
+iiii ooooo  
+Woven tales of history  
+[Chorus - Haunting Refrain]  
+oooooooo  
+Bleeding echoes never cease  
+In their haunting, find release  
+[Bridge - Reflective Pause]  
+Silent roads, paths untold  
+Dreams of silver, tales of gold  
+[Outro - Soft Return]  
+oooo  
+In the silence, shadows play  
+Fading echoes, end of day
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

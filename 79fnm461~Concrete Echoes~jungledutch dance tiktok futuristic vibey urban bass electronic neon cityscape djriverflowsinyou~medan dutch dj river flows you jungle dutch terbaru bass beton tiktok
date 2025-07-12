@@ -1,0 +1,44 @@
+title = Concrete Echoes (Gema Beton)
+genre = Jungle Dutch
+description = In the heart of the city, where echoes bounce off concrete walls, the beat never stops. Inspired by the vibrant mix of sounds, capturing the spirit of an urban jungle with a pulse that resonates through every street corner.
+prompt = Energetic jungle dutch vibe, full bass, pulsating beats, driving rhythm, dynamic percussive elements, vibrant synths, infectious groove, playful male and female vocal snippets, bold and lively atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape under neon lights, vibrant colors, abstract shapes intertwining, dynamic motion, modern and captivating, reminiscent of a bustling metropolis
+sfx = urban ambience, distant city noises, rhythmic percussion, echoing jungle sounds, bass drops
+vocals = male and female vocals, energetic and lively, with rhythmic chants and playful interactions
+vocalsStructured = jungle dutch track, with an engaging intro and high-energy outro, including rhythmic drops, with dynamic male and female vocal interplay
+keywords = jungledutch dance tiktok futuristic vibey urban bass electronic neon cityscape djriverflowsinyou
+codeName = Catch-22
+bpm = 140
+genreInput = 
+promptInput = Track inspired by MEDAN DUTCH - DJ RIVER FLOWS IN YOU JUNGLE DUTCH 2025 TERBARU FULL BASS BETON VIRAL TIKTOK. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+[percussion build-up]
+[verse]
+ooooo  
+ooooo
+
+[chorus]
+Energi kota mengalir
+oooo  
+iiii
+
+[drop]
+boom boom
+
+[outro]  
+iiiiii  
+oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

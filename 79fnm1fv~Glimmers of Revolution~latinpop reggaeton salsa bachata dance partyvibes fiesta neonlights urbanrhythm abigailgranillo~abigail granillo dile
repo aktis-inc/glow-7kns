@@ -1,0 +1,28 @@
+title = Glimmers of Revolution (Destellos de Revolución)
+genre = Latin Pop
+description = Echoes of the past linger, a celebration of spirit and unity. In the style of Abigail Granillo, vibrant and resonant.
+prompt = Energetic Latin pop with vibrant guitar riffs, rhythmic percussion, and pulsing basslines, capturing the essence of a summer fiesta. Female vocal, playful and smooth.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling cityscape at night, infused with neon lights and vibrant street art, capturing the lively spirit of a Latin festival, with futuristic elements and dynamic movement.
+sfx = city ambiance, rhythmic clapping, distant festival cheers, gentle breeze rustling
+vocals = female vocal, playful and smooth, echoing harmonies, rhythmic flow
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = latinpop reggaeton salsa bachata dance partyvibes fiesta neonlights urbanrhythm abigailgranillo
+codeName = Germinal
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Abigail Granillo - Dile. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = G
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

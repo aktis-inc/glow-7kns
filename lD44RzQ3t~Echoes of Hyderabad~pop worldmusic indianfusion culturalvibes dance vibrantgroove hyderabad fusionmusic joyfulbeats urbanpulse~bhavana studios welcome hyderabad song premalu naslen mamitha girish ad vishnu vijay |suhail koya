@@ -1,0 +1,56 @@
+title = Echoes of Hyderabad
+genre = World Pop
+description = In the heart of Hyderabad, where the past meets the future, vibrant echoes fill the air, a celebration of life and culture in every beat. Inspired by the lively cityscape and its timeless rhythm.
+prompt = Energetic rhythm, vibrant Indian instruments, lush melodies, joyful harmonies, infectious groove, dynamic beats, male and female vocals, playful and spirited atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A bustling cityscape of Hyderabad, filled with colorful lights and vibrant energy, modern and futuristic design, a blend of traditional and contemporary elements, capturing the essence of the city in a lively and captivating visual
+sfx = city sounds, bustling streets, rhythmic clapping, ambient crowd chatter, traditional drum beats
+vocals = male and female vocals, vibrant duet, joyful and playful tones, echoing harmonies
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female and male vocal, capturing the lively spirit of Hyderabad
+keywords = pop worldmusic indianfusion culturalvibes dance vibrantgroove hyderabad fusionmusic joyfulbeats urbanpulse
+codeName = Hollow Kingdom
+bpm = 130
+genreInput = 
+promptInput = Track inspired by BHAVANA STUDIOS - Welcome to Hyderabad Song | Premalu | Naslen | Mamitha | Girish AD | Vishnu Vijay |Suhail Koya. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = H
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+
+[verse 1 - City Pulse]
+In the streets, the rhythm flows  
+Colors dance where the river goes  
+Voices rise in the morning glow  
+Hyderabad, where dreams grow
+
+[chorus - Vibrant Echo]
+ooooo  
+iiiiiiii  
+City of lights, echoes bright  
+Dance through the night, hearts ignite
+
+[verse 2 - Timeless Tides]
+Ancient walls whisper tales  
+Modern beats on old trails  
+Laughter rings in the bazaar  
+Hyderabad, a shining star
+
+[bridge - Cultural Fusion]
+Tradition meets the beat of today  
+In every step, in every sway  
+oooo ahhhh
+
+[outro - Urban Symphony]
+City's song, never gone  
+In our hearts, it lives on  
+Hyderabad, forever strong
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

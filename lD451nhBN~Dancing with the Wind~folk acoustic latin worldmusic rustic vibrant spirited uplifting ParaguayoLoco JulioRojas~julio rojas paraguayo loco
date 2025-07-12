@@ -1,0 +1,46 @@
+title = Dancing with the Wind (Bailando con el Viento)
+genre = Folk
+description = In a world of windmills, where dreams take flight. Inspired by the timeless quest for purpose and adventure.
+prompt = Energetic, rhythmic acoustic guitar strums, lively percussion, vibrant accordion melodies, spirited bass, echoing rustic vocals, playful and soulful mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant landscape with colorful skies, swirling winds carrying musical notes, abstract shapes of guitars and accordions, contemporary and dynamic style
+sfx = rustling leaves, distant laughter, rhythmic foot stomping, gentle breeze
+vocals = male vocal, lively and rustic, echoing warmth
+vocalsStructured = folk-inspired track, with engaging intro and uplifting outro, featuring melodic male vocal with playful acoustic elements
+keywords = folk acoustic latin worldmusic rustic vibrant spirited uplifting ParaguayoLoco JulioRojas
+codeName = Don Quixote
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Julio Rojas - Paraguayo loco. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = D
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro breeze]
+
+[verse]
+En el camino, los sueños flotan
+Gigantes de aire, susurran al viento
+iiiiiii
+
+[chorus]
+Bailando con el viento, corazón ardiente
+ooooo
+Luz de estrellas, destino valiente
+
+[bridge]
+Guitarras cantan, ritmo ferviente
+iiii ooooooo
+
+[outro - Fade]
+Sigue el eco, en viento eterno
+sssshhhh]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

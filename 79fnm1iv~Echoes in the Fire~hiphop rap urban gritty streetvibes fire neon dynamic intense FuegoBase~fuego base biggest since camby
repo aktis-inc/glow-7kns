@@ -1,0 +1,62 @@
+title = Echoes in the Fire
+genre = Hip-Hop
+description = In the heart of the blaze, voices rise and fall, echoing the city's pulse. An anthem of resilience, inspired by the style of Fuego Base, igniting the night with a rhythm that refuses to fade.
+prompt = Energetic hip-hop beat, driving bass, assertive flow, layered synths, catchy hooks, urban vibe, male vocal with bold and gritty tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape engulfed in flames, vibrant neon lights reflecting off glass skyscrapers, dynamic and intense mood, with a modern and edgy artistic style
+sfx = crackling fire, city ambience, bass thumps, rhythmic claps
+vocals = male vocal, strong and confident delivery, rhythmic phrasing, dynamic intensity
+vocalsStructured = hip-hop track, with a powerful intro and compelling outro, featuring impactful drops, with raw and gritty male vocal
+keywords = hiphop rap urban gritty streetvibes fire neon dynamic intense FuegoBase
+codeName = Quicksand
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Fuego Base - Biggest Since Camby. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+Fire in the veins  
+Pulse of the streets  
+oooooo
+
+[verse 1]
+Flames rise high, shadows dance  
+Concrete jungle, no second chance  
+Voices echo, stories untold  
+In the heat, the brave and bold  
+zzzzzzzz
+
+[chorus]
+Burn it down, rise from the ash  
+City lights, a thunderous crash  
+ooooo  
+iiiiiii
+
+[bridge]  
+Embers glow, a new dawn's call  
+In the fire, we stand tall  
+Ahhhh ohhhh
+
+[verse 2]
+Skyscrapers touch the sky  
+In the blaze, we learn to fly  
+Lost in the rhythm, never alone  
+Echoes of the fire, calling us home
+
+[outro]
+Shadows fade, but the beat remains  
+In the fire's heart, we break the chains  
+ooooo  
+iiiiiii  
+[final echo]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

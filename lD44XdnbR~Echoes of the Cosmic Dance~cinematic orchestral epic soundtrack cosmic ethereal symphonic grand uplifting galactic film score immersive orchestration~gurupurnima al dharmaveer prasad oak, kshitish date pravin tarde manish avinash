@@ -1,0 +1,46 @@
+title = Echoes of the Cosmic Dance
+genre = Cinematic
+description = A journey through the stars, guided by celestial echoes. Inspired by the cosmic dance of the universe.
+prompt = Cinematic orchestral layers, rich strings, ethereal choir, deep resonant drums, immersive and grand atmosphere, uplifting crescendos, male and female vocals, serene and majestic
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A celestial dance in the cosmos, vibrant nebulae swirling, stars forming intricate patterns, modern and futuristic style, breathtaking and awe-inspiring visual, cosmic elegance
+sfx = galactic echoes, ambient space hum, celestial chimes, deep drum reverberations
+vocals = choir vocal, ethereal harmonies, serene and powerful
+vocalsStructured = cinematic orchestral track, with majestic intro and soaring finale, featuring harmonious male and female choir
+keywords = cinematic orchestral epic soundtrack cosmic ethereal symphonic grand uplifting galactic film score immersive orchestration
+codeName = Orlando: A Biography
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Gurupurnima - al | Dharmaveer | Prasad Oak, Kshitish Date | Pravin Tarde | Manish R | Avinash V. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro - Celestial Awakening]
+
+[verse - Stardust Whispers]
+Glimmers in the void, light's gentle embrace
+Cosmic threads weaving tales of the unseen
+oooooo
+
+[chorus - Galactic Crescendo]
+Rising, soaring, through the nebula's heart
+iiiiiiiiiiiii
+
+[bridge - Astral Harmony]
+Stars align, a symphony of spheres
+Whispered secrets from the ancient dance
+ahhhhhh
+
+[outro - Cosmic Fade]
+Vanish into the night, echoes remain
+Eternal dance of the universe
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

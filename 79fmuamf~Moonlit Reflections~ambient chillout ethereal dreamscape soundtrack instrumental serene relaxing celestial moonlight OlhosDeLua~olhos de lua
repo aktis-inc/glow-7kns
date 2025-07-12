@@ -1,0 +1,47 @@
+title = Moonlit Reflections (Reflexões ao Luar)
+genre = Ambient
+description = In the quietude of night, the moon whispers secrets to the ocean's lull. The sky listens, cradling dreams in its celestial arms, inspired by 'Olhos de Lua'.
+prompt = Dreamy ambient soundscape, ethereal synth textures, gentle piano notes, flowing strings, tranquil atmosphere, celestial vibes, soothing female vocal harmonies
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene night sky filled with glowing moons and stars, ethereal mist floating over a calm ocean, surreal and dreamlike setting, luminescent colors, modern and artistic design
+sfx = soft ocean waves, distant echoing chimes, gentle wind whispers, ambient synth sweeps
+vocals = female vocal, soft harmonies, ethereal whispers, calming and soothing
+vocalsStructured = ambient track with gentle intro, flowing structure, and serene outro, featuring soothing female vocal harmonies
+keywords = ambient chillout ethereal dreamscape soundtrack instrumental serene relaxing celestial moonlight OlhosDeLua
+codeName = Yertle the Turtle
+bpm = 60
+genreInput = 
+promptInput = Track inspired by  - Olhos de Lua. Use similar musical vibe, mood, style, genre, instruments.
+language = portuguese
+letter = Y
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Celestial Drift]
+oooooo aaaaa  
+
+[verse - Moonlit Whispers]  
+Soft glow of night  
+Stars breathe, sighs of light  
+Lunar dreams unfold  
+
+[chorus - Ocean's Lullaby]  
+ooooo iiiii  
+Gentle tides sing  
+
+[bridge - Dreaming Sky]  
+iiiiii aaaaa  
+Whispers of the sky  
+Echoes of the night  
+
+[outro - Tranquil Descent]  
+oooo aaaa  
+Silent moon's embrace
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.
