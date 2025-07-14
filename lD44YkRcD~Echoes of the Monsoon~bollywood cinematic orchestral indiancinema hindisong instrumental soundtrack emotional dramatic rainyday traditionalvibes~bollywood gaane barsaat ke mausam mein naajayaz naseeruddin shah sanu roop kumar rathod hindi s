@@ -1,0 +1,48 @@
+title = Echoes of the Monsoon
+genre = Bollywood & Cinematic
+description = In the dance of rain and earth, echoes of love and longing swirl. Inspired by the cinematic depth of Bollywood classics.
+prompt = Lush orchestral strings, traditional Indian instruments, emotive melody, rhythmic tabla beats, flowing harmonies, cinematic and dramatic, male vocal with deep emotional timbre
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant monsoon scene with cascading rain, lush green landscapes, and dramatic clouds, infused with a Bollywood cinematic flair, vivid colors, and dynamic motion.
+sfx = raindrop patter, distant thunder rumbles, gentle wind chimes, soft bird calls
+vocals = male vocal, deep emotional tone, rich and resonant, echoing in the distance
+vocalsStructured = cinematic step track, with immersive intro and sweeping outro including some emotional peaks, with harmonic male vocal
+keywords = bollywood cinematic orchestral indiancinema hindisong instrumental soundtrack emotional dramatic rainyday traditionalvibes
+codeName = East of Eden
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Bollywood Gaane - Barsaat Ke Mausam Mein | Naajayaz | Naseeruddin Shah | Sanu | Roop Kumar Rathod | Hindi Song. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro rain]
+
+[verse 1 – Monsoon's Whisper]
+Gentle winds bring stories untold
+In the patter of rain, secrets unfold
+ooooo iiiiiiiiiii
+
+[Chorus – Echoes of Heartbeats]
+Beneath the clouds, love takes flight
+Eternal dance in the monsoon's light
+ooooo iiiiiiiiiii
+
+[Bridge - Nature's Embrace]
+In every drop, a world anew
+Whispers of dreams in the morning dew
+ahhhhhhh shhhhhhhh
+
+[outro - Fade with Rain]
+Carried away on nature's sigh
+A blend of earth and sky
+oooo iiiiiiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Spinning Realities (Вращающиеся реальности)
+genre = Hip-Hop
+description = Philosophy spins in neon streets, where ideas blend with the beat, and reality shifts with every verse.
+prompt = Energetic hip-hop beat, heavy bassline, sharp snares, smooth brass sections, urban street vibe, rhythmic flow, confident male vocal, bold and assertive mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Urban skyline with neon lights, futuristic cityscape, graffiti art blended with digital patterns, sleek and vibrant style, dynamic and modern look
+sfx = city traffic noise, distant sirens, rhythmic clapping, urban echo effects
+vocals = male vocal, confident rap delivery, layered with smooth harmonies, urban edge
+vocalsStructured = hip-hop track, with dynamic intro and solid outro including strong rhythmic sections, with confident male vocal
+keywords = hiphop rap urban gangsta streetvibe neonlights futuristic bassheavy confidentflow gunitstyle popping urbanbeats
+codeName = Sophie’s World
+bpm = 140
+genreInput = 
+promptInput = Track inspired by G Unit - Poppin' Them Thangs. Use similar musical vibe, mood, style, genre, instruments.
+language = russian
+letter = S
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

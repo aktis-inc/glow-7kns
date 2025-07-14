@@ -1,0 +1,41 @@
+title = Whispers of Twilight
+genre = Electronic
+description = In a world suspended between day and night, dreams and reality entwine. Inspired by the ethereal essence of M G S, this track captures the fleeting magic of twilight.
+prompt = Energetic electronic track, ethereal synth melodies, pulsating rhythms, dynamic basslines, dreamy and atmospheric vibe, with both male and female vocals, ethereal and whispery
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape at dusk, neon lights reflecting off glass skyscrapers, a sky filled with glowing digital patterns, dreamy and surreal atmosphere
+sfx = soft wind chimes, ambient city noise, digital beeps, echoing footsteps
+vocals = male and female vocals, ethereal whispers, layered harmonies, dreamlike and airy
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = electronic ambient synthwave dreamwave chillwave ethereal vaporwave soundtrack ost cinematic dreamlike MGSvibes twilight futuristic
+codeName = Dandelion Wine
+bpm = 120
+genreInput = 
+promptInput = Track inspired by M G S - စနထက ဥဘသ နင နထက ညမင. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = D
+includeVocal = False
+includeSfx = False
+appVersion = v20250605
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+oooooo iiiiii
+[verse]
+echoes in the twilight
+dreams breathe in the night
+[chorus]
+whispering stars align
+silent skies entwine
+oooooo iiiiii
+[bridge]
+a dance of shadows, light
+hidden worlds take flight
+[outro]
+oooooo iiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

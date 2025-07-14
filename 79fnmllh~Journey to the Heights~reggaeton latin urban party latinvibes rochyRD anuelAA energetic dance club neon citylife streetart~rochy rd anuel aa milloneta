@@ -1,0 +1,64 @@
+title = Journey to the Heights (Viaje a las Alturas)
+genre = Reggaeton
+description = Ascending through life's urban jungle, inspired by the heights of passion and ambition. In the style of Rochy RD and Anuel AA.
+prompt = Energetic reggaeton beat, vibrant Latin rhythms, infectious groove, deep bassline, dynamic percussion, urban street vibe, party atmosphere, confident male vocal, energetic and bold
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant cityscape at night, neon lights reflecting off wet streets, urban and modern style, graffiti art on walls, dynamic and lively composition, futuristic Latin vibe
+sfx = city traffic hum, distant party sounds, reggaeton beat drops, street chatter
+vocals = male vocal, bold and confident delivery, rhythmic flow, Latin influence
+vocalsStructured = reggaeton pop step track, with good intro and nice outro including some drops, with energetic male vocal
+keywords = reggaeton latin urban party latinvibes rochyRD anuelAA energetic dance club neon citylife streetart
+codeName = Jane Eyre
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Rochy RD x Anuel AA - Milloneta. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro street sounds]
+
+[verse 1]  
+Ciudad de sueños  
+Luces que guían  
+Ritmos que encienden  
+La vida palpita  
+oooooo
+
+[Chorus - Urban Pulse]  
+Milloneta vibra  
+Sueños en la mira  
+iiiiiiii
+
+[Pre-Chorus - Night Drive]  
+Neón en la piel  
+Ritmos que se sienten  
+oooooo
+
+[verse 2]  
+Sube sin miedo  
+Pasión en el vuelo  
+Caminos abiertos  
+Voces en cielo  
+aaaaaaa
+
+[Bridge - Echoes of the City]  
+Latidos en cada esquina  
+Las historias que no terminan  
+zzzzzzhhhhh
+
+[Chorus - Urban Pulse]  
+Milloneta vibra  
+Sueños en la mira  
+iiiiiiii
+
+[outro - Fade to Silence]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

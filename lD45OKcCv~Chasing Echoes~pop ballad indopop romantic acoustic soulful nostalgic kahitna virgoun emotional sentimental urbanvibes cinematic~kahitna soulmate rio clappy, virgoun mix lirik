@@ -1,0 +1,59 @@
+title = Chasing Echoes (Mengejar Gema)
+genre = Indo-Pop
+description = In the heart of the city, echoes of love linger, inspired by the style of Kahitna and Virgoun.
+prompt = Romantic pop ballad, soulful melodies, acoustic guitar, smooth piano, gentle percussion, heartfelt male vocal, sentimental and nostalgic mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Cityscape at sunset, vibrant orange and blue hues, silhouettes of two people meeting on a bridge, modern urban setting, warm and dreamy atmosphere
+sfx = soft city ambiance, gentle wind, distant traffic murmur, subtle heartbeats
+vocals = male vocal, warm and expressive, tender harmonies, emotional delivery
+vocalsStructured = pop ballad track, with good intro and nice outro including some drops, with soulful male vocal
+keywords = pop ballad indopop romantic acoustic soulful nostalgic kahitna virgoun emotional sentimental urbanvibes cinematic
+codeName = Catatan Si Boy
+bpm = 72
+genreInput = 
+promptInput = Track inspired by Kahitna - Soulmate Rio Clappy, Virgoun | Mix Lirik. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle strings]
+
+[verse 1]  
+Di bawah langit jingga, kita berjalan  
+Jejak langkahmu, takkan terlupakan  
+ooooo iiiiiii
+
+[Pre-Chorus - Nostalgic Waves]  
+Di setiap sudut kota  
+Ada cerita kita  
+ooooo ooooo
+
+[Chorus - Heartfelt Connection]  
+Kita mengejar gema  
+Cinta yang abadi  
+iiiiii aaaaaa
+
+[verse 2 - Whispering Memories]  
+Angin membawa bisikan lembut  
+Kenangan indah, takkan surut  
+iiii ooo
+
+[Bridge - Soulmate's Call]  
+Di setiap detak jantung, ada namamu  
+Di setiap malam, aku merindumu  
+ooohhhh iiiii
+
+[outro - Sunset Fade]  
+Kita mengejar gema  
+ooooo iiiiiii  
+Cinta yang abadi  
+aaaaaa
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

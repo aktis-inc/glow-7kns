@@ -1,0 +1,55 @@
+title = Flames of Reverie
+genre = Electronic
+description = In a world where books burn, voices rise like flames, weaving stories in the air—an echo of dreams and defiance.
+prompt = Energetic electronic beats, pulsating rhythm, vibrant synth layers, dynamic tempo shifts, intricate percussion, fiery atmosphere, male and female vocals alternating with an intense and captivating presence
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with glowing neon lights, digital flames rising into the sky, a sense of chaos and serenity intertwined, ultra-modern and sleek design, captivating and visually striking
+sfx = crackling fire, digital sparks, echoing footsteps, distant sirens
+vocals = male and female vocals, intense and passionate delivery, layered harmonies, ethereal echoes
+vocalsStructured = electronic track, with a strong intro and captivating outro including dynamic transitions, with both male and female vocals
+keywords = electronic dance synthwave futuristic cinematic soundtrack neonvibes digitalflames intensebeats GulabanWangraAForArjan
+codeName = Fahrenheit 451
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Gulaban Wangra - A For Arjan 2. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = F
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - crackling fire]
+
+[synth rise]
+
+[verse 1]
+In the glow, shadows dance  
+Words ignite, in a trance  
+Whispers in the ember's breath  
+Stories born from the ashes' death  
+
+[chorus - pulsating rhythm]
+oooooo  
+iiiiiiiiiiii
+
+[bridge - digital sparks]
+Beyond the page, beyond the flame  
+We are echoes, we are names  
+Ahhhhhhhhhh
+
+[verse 2]
+In the smoke, visions blend  
+Futures written, stories bend  
+We are light, we're the fire's friend  
+
+[dynamic transition]  
+shhhhhhh  
+
+[outro - fading echoes]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

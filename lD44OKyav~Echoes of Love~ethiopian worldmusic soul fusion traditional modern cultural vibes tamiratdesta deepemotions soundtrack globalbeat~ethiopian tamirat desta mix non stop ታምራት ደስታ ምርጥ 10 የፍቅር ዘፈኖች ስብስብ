@@ -1,0 +1,47 @@
+title = Echoes of Love
+genre = World
+description = In the heart of Ethiopia, melodies weave through time, echoing tales of love and tradition, inspired by the soulful vibes of Tamirat Desta.
+prompt = Ethiopian-inspired rhythm, smooth and soulful melodies, vibrant percussion, traditional instruments blend with modern soundscapes, warm and inviting atmosphere, playful male and female vocal harmonies
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Lush Ethiopian landscape with a futuristic twist, vibrant colors, abstract patterns blending with nature, modern and traditional elements harmoniously intertwined
+sfx = gentle drum beats, soothing wind chimes, lively hand clapping, soft background chatter
+vocals = male and female vocal harmonies, soulful and tender, echoing warmth and joy
+vocalsStructured = smooth soulful track, with a gentle intro and a rich outro, including harmonious vocal layers, with tender male and female vocals
+keywords = ethiopian worldmusic soul fusion traditional modern cultural vibes tamiratdesta deepemotions soundtrack globalbeat
+codeName = Invisible Man
+bpm = 105
+genreInput = 
+promptInput = Track inspired by Ethiopian tamirat desta - mix non stop | ታምራት ደስታ ምርጥ 10 የፍቅር ዘፈኖች ስብስብ. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = I
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle breeze]
+[verse - warming glow]  
+In fields where shadows dance, we find  
+The whispers of the heart, entwined  
+oooooo
+
+[chorus - harmonies]  
+Love echoes through the hills  
+A timeless song that fills  
+iiiii
+
+[bridge - sunset hues]  
+In the light of the fading sun  
+Our journey has just begun  
+woooohhhhhh
+
+[outro - peaceful night]  
+Stars above, guiding bright  
+In love's embrace, we unite  
+oooo aaaaa
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

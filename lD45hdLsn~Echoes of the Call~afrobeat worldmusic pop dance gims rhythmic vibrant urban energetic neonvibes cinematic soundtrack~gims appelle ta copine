@@ -1,0 +1,51 @@
+title = Echoes of the Call (Échos de l'appel)
+genre = Afrobeat
+description = From the call of ancient roads, echoes resound through vibrant nights. In the style of GIMS, the rhythm flows and captivates.
+prompt = Energetic Afrobeat rhythm, vibrant percussion, smooth guitar riffs, infectious groove, danceable bassline, captivating male vocal, lively and engaging mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic city skyline under a twilight sky, neon lights reflecting on rain-soaked streets, dynamic and vivid colors, modern and sleek aesthetic, energetic and vibrant atmosphere
+sfx = city ambiance, rhythmic footsteps, distant chatter, digital chime melodies
+vocals = male vocal, smooth and rhythmic delivery, dynamic and engaging, with a touch of charisma
+vocalsStructured = pop step track, with a strong intro and an energetic outro including rhythmic drops, with melodic male vocal
+keywords = afrobeat worldmusic pop dance gims rhythmic vibrant urban energetic neonvibes cinematic soundtrack
+codeName = Quo Vadis
+bpm = 120
+genreInput = 
+promptInput = Track inspired by GIMS - APPELLE TA COPINE. Use similar musical vibe, mood, style, genre, instruments.
+language = french
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro rhythm]
+
+[verse]
+Des voix qui appellent, un murmure
+Les rues vibrant d'éclat, allure
+ooooooo
+
+[Pre-Chorus]
+Dans l'ombre, les lumières s'illuminent
+Une danse éternelle, elles s'enchaînent
+
+[Chorus]
+Échos de l'appel
+iiiiiiiiiii
+Les cœurs s'embrasent, sous le ciel
+
+[Bridge]
+Le rythme danse, les âmes se mêlent
+Dans la nuit, les rêves s'éveillent
+
+[outro]
+oooooo
+Échos qui résonnent, jusqu'à demain
+shhhhhhh
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

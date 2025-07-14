@@ -1,0 +1,39 @@
+title = Beyond the Echoes
+genre = Electronic
+description = In a world of constant motion, echoes ripple through the digital waves, a journey beyond the ordinary.
+prompt = Energetic electronic beat, vibrant synths, pulsating rhythms, catchy melody, bold bass, immersive ambiance, dynamic shifts, instrumental focus
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic digital landscape, glowing neon grids, abstract shapes, modern and sleek, vibrant colors, sci-fi aesthetic, eye-catching and dynamic visuals
+sfx = synth swirls, digital clicks, ambient hum, rhythmic pulses, electronic chirps
+vocals = energetic vocal, rhythmic spoken-word, digital echoes
+vocalsStructured = pop electronic track, with a catchy intro and immersive outro, featuring dynamic shifts and vibrant synth layers
+keywords = electronic synthwave ambient dance futuristic sci-fi neon digital vibes energizing atplayer
+codeName = Brave New World
+bpm = 130
+genreInput = 
+promptInput = Track inspired by AT PLAYER - Download Free with AT : Downloader, Offline Player. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro glitch]
+
+[verse]
+
+[glitch build-up]
+
+[verse]
+
+[soft chorus]
+oooo
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

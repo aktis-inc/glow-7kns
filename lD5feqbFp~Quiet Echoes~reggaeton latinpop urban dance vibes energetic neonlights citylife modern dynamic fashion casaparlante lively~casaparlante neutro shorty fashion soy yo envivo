@@ -1,0 +1,28 @@
+title = Quiet Echoes (Ecos Silenciosos)
+genre = Reggaeton Pop
+description = In the city of lights, echoes dance in the streets. Inspired by CASAPARLANTE's vibe, this track pulses with life and rhythm, a tribute to vibrant nights.
+prompt = Energetic reggaeton beat, vibrant synth layers, pulsing rhythms, dynamic percussion, electric guitar riffs, lively Latin vibe, male and female vocal interplay, upbeat and infectious
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant cityscape with neon lights reflecting on rain-soaked streets, cool urban vibe, modern and dynamic, bold colors, futuristic and stylish aesthetic
+sfx = city ambiance, distant traffic sounds, rhythmic claps, echoing footsteps, lively crowd chatter
+vocals = male and female vocals, energetic and rhythmic, playful harmonies, vibrant and lively
+vocalsStructured = reggaeton pop track, with engaging intro and vibrant outro, including some upbeat transitions, with lively male and female vocal
+keywords = reggaeton latinpop urban dance vibes energetic neonlights citylife modern dynamic fashion casaparlante lively
+codeName = Quo Vadis
+bpm = 110
+genreInput = 
+promptInput = Track inspired by CASAPARLANTE: NEUTRO SHORTY | Fashion - Soy yo EnVivo. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

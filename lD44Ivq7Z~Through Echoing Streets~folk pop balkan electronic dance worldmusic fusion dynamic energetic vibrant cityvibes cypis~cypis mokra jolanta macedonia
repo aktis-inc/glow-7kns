@@ -1,0 +1,50 @@
+title = Through Echoing Streets (Przez Echojące Ulice)
+genre = Balkan Pop
+description = Echoes of the past blend with the vibrant pulse of city life. Inspired by the playful yet intense style of Cypis, this track captures the essence of lively streets in a modern twist.
+prompt = Energetic, Balkan-inspired beats, vibrant and lively rhythm, traditional folk instruments with modern electronic twist, fast-paced percussion, dynamic male vocal, playful and bold mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant cityscape with a mix of traditional and modern architecture, bright neon lights, abstract patterns, lively street scenes with dancing figures, futuristic energy
+sfx = accordion riffs, lively drum beats, city ambient sounds, street chatter, distant laughter
+vocals = male vocal, energetic and lively, folk-inspired tones, dynamic and bold
+vocalsStructured = folk-inspired pop track, with a captivating intro and vibrant outro, featuring energetic male vocals
+keywords = folk pop balkan electronic dance worldmusic fusion dynamic energetic vibrant cityvibes cypis
+codeName = The Tin Drum
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Cypis / Mokra Jolanta - Macedonia. Use similar musical vibe, mood, style, genre, instruments.
+language = polish
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - vibrant street sounds]
+
+[verse 1 – Echoes of Tradition]
+Tam gdzie bębny niosą rytm,
+Ulice szepczą stare sny,
+Każdy krok to taniec życia,
+Radość w sercu, śmiech w duszy.
+
+[Chorus – City Pulse]
+oooooo  
+tańczmy w świetle neonów,
+oooooo  
+życie pulsuje w takt miasta.
+
+[Bridge - Fusion Flow]
+Melodie przeszłości,
+W nowoczesnym rytmie,
+Gdzie tradycja spotyka przyszłość,
+Tam serca biją razem.
+
+[outro - Celebratory Fade]
+oooooo  
+Światło, dźwięk, niekończący się rytm.
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

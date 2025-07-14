@@ -1,0 +1,58 @@
+title = Rivers of Redemption
+genre = Reggae
+description = Embrace the rhythm of the earth, where rivers meet the sea. In the style of Bob Marley, a harmonious blend of nature and soul.
+prompt = Reggae-inspired groove, laid-back basslines, rhythmic guitar strums, tropical percussion, soulful brass sections, uplifting and relaxed vibes, smooth male vocal, soothing and earthy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant sunset over a serene beach, palm trees swaying gently, cool reggae colors, warm tones, relaxed and inviting atmosphere, modern tropical style
+sfx = ocean waves crashing, gentle breeze rustling leaves, distant steel drum echoes, soft conga rhythm
+vocals = male vocal, smooth and calming, soulful delivery, echoing harmonies
+vocalsStructured = reggae fusion track, with a flowing intro and smooth outro, featuring melodic male vocal, with instrumental drops and rhythmic interludes
+keywords = reggae roots dub caribbean soulful islandvibes chillout worldmusic BobMarley tropical relaxation peaceful groove
+codeName = Quicksilver
+bpm = 75
+genreInput = 
+promptInput = Track inspired by Bob Marley Best Songs Playlist Ever - Greatest Hits Of Bob Marley Full Album. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - ocean whispers]
+
+[verse 1]
+Beneath the sky, where the rivers flow
+In a world where peace can grow
+Gently swaying with the breeze
+In harmony, we find our ease
+oooooo ahhhhhh
+
+[chorus - soul harmony]
+Feel the rhythm, let it guide
+Rivers of life, side by side
+Unity in every stride
+ooooohhhhhhh
+
+[bridge - tropical embrace]
+Island dreams, we set sail
+In the wind, the stories prevail
+iiiii ooooo
+
+[verse 2]
+Echoes of the past, lessons learned
+In the fire, the passion burns
+Together we stand, hand in hand
+Building bridges across the land
+ahhhhhh iiiiiii
+
+[outro - sunset glow]
+Peaceful hearts, we sing along
+In this moment, we belong
+oooooo iiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

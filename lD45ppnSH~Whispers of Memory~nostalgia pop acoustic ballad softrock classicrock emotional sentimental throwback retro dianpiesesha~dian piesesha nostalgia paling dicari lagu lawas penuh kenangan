@@ -1,0 +1,50 @@
+title = Whispers of Memory (Bisikan Memori)
+genre = Pop
+description = In the quiet of the hills, memories whisper, a dance of shadows and light in a style reminiscent of timeless classics.
+prompt = Nostalgic melody, soothing guitar strums, gentle percussion, warm piano, evocative strings, heartfelt atmosphere, soft female vocals, tender and reflective mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene landscape at dusk, gentle waves lapping at a shore, vintage sepia tones, a sense of nostalgia and longing, ethereal and dreamy ambiance
+sfx = soft ocean waves, gentle breeze, distant echo of footsteps, rustling leaves
+vocals = female vocal, gentle and heartfelt, warm harmonies, soothing and nostalgic
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = nostalgia pop acoustic ballad softrock classicrock emotional sentimental throwback retro dianpiesesha
+codeName = Wuthering Heights
+bpm = 90
+genreInput = 
+promptInput = Track inspired by DIAN PIESESHA Full Album - Nostalgia Paling Dicari / Lagu Lawas Penuh Kenangan. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = W
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+oooooo
+
+[verse 1 – Whispered Echoes]
+Di antara kenangan
+Hatiku merindu
+Setiap detik berlalu
+Adalah lagu waktu
+
+[Chorus – Echoing Heartbeat]  
+ooooo  
+oooooo
+Memori berbisik  
+Hati pun bergetar
+
+[Bridge – Time's Caress]
+Waktu takkan kembali
+Namun rasa tetap abadi
+iiiiiii oooooo
+
+[outro – Fading Dreams]  
+ooohhh  
+oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

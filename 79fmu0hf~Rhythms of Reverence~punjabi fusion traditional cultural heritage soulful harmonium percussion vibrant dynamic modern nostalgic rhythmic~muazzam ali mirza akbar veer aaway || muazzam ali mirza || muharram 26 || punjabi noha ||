@@ -1,0 +1,49 @@
+title = Rhythms of Reverence
+genre = Punjabi Fusion
+description = Echoes of history, woven in sound. A tribute to the past, in the style of reverence and tradition.
+prompt = Energetic Punjabi rhythm, deep traditional percussion, soulful harmonium melodies, powerful vocal harmonies, emotional and captivating, male and female vocals, intense and evocative mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant abstract swirls of color, modern fusion of traditional and contemporary art, bold and dynamic, captures the essence of cultural heritage, futuristic touch
+sfx = drum beats, harmonium swells, crowd murmurs, echoing chants
+vocals = male and female vocals, rich and resonant, emotional storytelling, traditional yet modern
+vocalsStructured = structured Punjabi fusion track, with a captivating intro and emotional outro, featuring dynamic vocal drops and harmonious blends
+keywords = punjabi fusion traditional cultural heritage soulful harmonium percussion vibrant dynamic modern nostalgic rhythmic
+codeName = Ragtime
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Muazzam Ali Mirza - AKBAR VEER AAWAY || MUAZZAM ALI MIRZA || MUHARRAM 2025 26 || PUNJABI NOHA ||. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Harmonium Whisper]
+
+[chants and echoes]
+
+[verse 1]
+In shadows of the past, stories unfold
+Rhythms that echo, tales yet untold
+
+[chorus - Reverence]
+oooooooooo  
+iiiiiiiiiiiiiiiiiiii
+
+[bridge - Cultural Pulse]
+Heartbeats align with ancient lore
+Voices rise, forevermore
+
+[vocal drop - Emotional Climax]
+ahhhhhhhhh  
+ooooooooo
+
+[outro - Harmonium Fade]
+Echoed whispers, through time's embrace]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,50 @@
+title = Yearning Waves
+genre = Reggae
+description = On the edge of the ocean, where the waves whisper secrets of love, this track carries the calming essence of reggae, influenced by the tranquil vibes of DJ Soymix.
+prompt = Reggae-inspired smooth grooves, laid-back rhythm, gentle guitar strums, soothing bass, breezy percussion, warm and tender male vocal, relaxed, romantic mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene beach at sunset, with vibrant orange and pink hues reflecting on calm ocean waves, a couple silhouetted against the horizon, modern and artistic composition with a touch of dreamy atmosphere
+sfx = gentle ocean waves, soft rustling palm leaves, distant seagull calls, mellow breeze
+vocals = male vocal, smooth and soothing, echoing warmth, relaxed romantic tone
+vocalsStructured = reggae track with a smooth intro and gentle outro, including soft instrumental breaks, with melodic male vocal
+keywords = reggae opm love nonstop playlist chillvibes romantic islandmusic djs sunsetvibes soothing
+codeName = Yertle the Turtle and Other Stories
+bpm = 85
+genreInput = 
+promptInput = Track inspired by BEST RELAXING OPM LOVE SONGS || REGGAE || NONSTOP PLAYLIST - DJ SOYMIX. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Y
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Ocean Whisper]
+wooo
+ooooo
+
+[verse 1 – Gentle Breeze]
+Hearts sway like palm leaves
+Under skies painted in dreams
+Whispers of love ride the breeze
+In the silence, the ocean sings
+
+[chorus – Sunlit Embrace]
+oooo
+Feel the warmth, hold the light
+In this moment, everything's right
+
+[bridge – Tide's Dance]
+Soft waves kiss the shore
+Love echoes forever more
+
+[outro - Sunset Glow]
+oooo
+iiiiii
+With every ebb, with every flow
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Bailando en el Silencio (Bailando en el Silencio)
+genre = Bachata
+description = In the moon's embrace, they find solace in steps and whispers. Their dance speaks what words cannot.
+prompt = Bachata rhythm, romantic guitar strings, smooth percussion, heartfelt melodies, passionate male and female vocals, sentimental and tender atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Two dancers entwined in a moonlit courtyard, shadows casting a dance of their own, vibrant colors, romantic and dreamy ambiance, modern and captivating style
+sfx = soft guitar strumming, gentle clapping, whispering breeze, subtle heartbeats
+vocals = male and female duet, romantic and emotional, smooth harmonies
+vocalsStructured = bachata step track, with gentle intro and heartfelt outro, featuring melodic male and female vocals
+keywords = bachata romantic latin dance CarlosyAlejandra emotional lovestory serenade latinmusic passion moonlitdance harmonies
+codeName = Beloved
+bpm = 120
+genreInput = bachata
+promptInput = Carlos y Alejandra 
+language = spanish
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

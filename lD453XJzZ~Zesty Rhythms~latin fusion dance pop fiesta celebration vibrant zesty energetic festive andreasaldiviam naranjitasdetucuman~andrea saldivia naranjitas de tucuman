@@ -1,0 +1,28 @@
+title = Zesty Rhythms (Ritmos Zestosos)
+genre = Latin Pop
+description = In the heart of a vibrant celebration, echoes of laughter and rhythm invite you to dance. Inspired by a tale of adventure and charm.
+prompt = Energetic Latin fusion, vibrant guitar, rhythmic percussion, lively horns, upbeat tempo, festive dance vibe, playful male and female vocals, joyful and spirited mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vivid sunset over a bustling street fiesta, dancers twirling in colorful attire, dynamic and lively atmosphere, modern Latin flair, bright and festive color palette
+sfx = clapping, cheering crowd, rhythmic foot stomping, distant chatter, lively street ambience
+vocals = male and female vocals, playful and lively, echoing harmonies, energetic delivery
+vocalsStructured = Latin pop track, with an inviting intro and a celebratory outro, featuring catchy drops and playful male and female vocals
+keywords = latin fusion dance pop fiesta celebration vibrant zesty energetic festive andreasaldiviam naranjitasdetucuman
+codeName = Zorro
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Andrea B Saldivia M - Naranjitas de Tucuman. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

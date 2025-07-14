@@ -1,0 +1,61 @@
+title = Ecos de Ferias Pasadas (Ecos de Ferias Pasadas)
+genre = Latin Pop
+description = Whispers of past celebrations linger in the air. A dance of memories unfolds in the style of Lorena Santos, bringing echoes of vibrant moments.
+prompt = Lively Latin pop rhythm, flamenco-inspired guitar, vibrant percussion, festive atmosphere, catchy upbeat tempo, energetic female vocal, playful and spirited
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Bright and colorful festival scene, lively crowd dancing, vivid lights and decorations, contemporary and dynamic style, festive and joyful mood
+sfx = crowd chatter, rhythmic clapping, flamenco footwork, festive cheers
+vocals = female vocal, lively and upbeat, playful tones, rhythmic flair
+vocalsStructured = latin pop track, with energetic intro and festive outro including some catchy hooks, with melodic female vocal
+keywords = latinpop flamenco festivemusic dance spanishguitar vibrant upbeat celebration LorenaSantos LasChuches PaLaFeriaARonear
+codeName = El amor en los tiempos del cólera
+bpm = 125
+genreInput = 
+promptInput = Track inspired by Lorena Santos, Las Chuches - Pa' La Feria a Ronear. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro fiesta]
+
+[verse 1]
+Ríe la luna en el cielo
+Susurra historias al viento
+oooooo aaaaa
+Los pasos resuenan en el suelo
+
+[Pre-Chorus – Vibrant Echoes]
+iiiiii iiiii
+Entre colores y sueños
+La noche despierta su fuego
+
+[Chorus – Feria Rhythms]
+woooo
+ooooo
+Baila, siente el latido
+De un corazón encendido
+
+[Bridge - Memory Dance]
+Eeeee
+Recuerdos que nunca se van
+Ellos nos guiarán
+
+[verse 2]
+En cada rincón del alma
+Queda el sabor de la calma
+aaaaaa oooooo
+El ritmo jamás se apaga
+
+[outro - Fiesta's End]
+ooooo eeeeee
+El eco de ferias pasadas
+Nos llama a seguir la jornada
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

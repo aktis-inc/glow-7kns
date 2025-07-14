@@ -1,0 +1,28 @@
+title = Love Tides (Приливи на любовта)
+genre = Dance Pop
+description = Echoes of a past era, where every wave brings a new dance, and love is the melody that stays. Inspired by the vibrant style of Boreto Petkov.
+prompt = Energetic dance beat, nostalgic synth melodies, groovy rhythm, vibrant accordion lines, upbeat tempo, lively drums, joyful male and female vocals, playful and romantic atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Retro-futuristic seaside festival, neon lights reflecting on water, vibrant and colorful, 90s VHS aesthetic, lively and joyful ambiance
+sfx = waves crashing, accordion riffs, crowd chatter, lively festival sounds
+vocals = male and female vocals, upbeat and playful, with harmonious exchanges
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = dance pop 90s retro synthwave balearic accordion festive vhs nostalgic romantic BoretoPetkovStyle
+codeName = Zorba the Greek
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Boreto Petkov - ОркКристали Море от любов VHS 1995. Use similar musical vibe, mood, style, genre, instruments.
+language = bulgarian
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

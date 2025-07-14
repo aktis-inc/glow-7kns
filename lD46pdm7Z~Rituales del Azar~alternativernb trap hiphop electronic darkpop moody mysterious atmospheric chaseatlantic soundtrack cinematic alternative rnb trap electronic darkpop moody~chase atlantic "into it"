@@ -1,0 +1,28 @@
+title = Rituales del Azar (Rituales del Azar)
+genre = Alternative R&B
+description = What is fate? A path designed or chaos encountered. A journey through the night, inspired by the style of Chase Atlantic.
+prompt = Dark atmospheric alternative R&B track, deep resonant 808 bass, hazy synth pads, subtle trap drums, slinky rhythm, moody, mysterious vibe, distant atmospheric sound effects, sultry male vocal
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Cyberpunk city street at night, neon rain reflecting on wet asphalt, lone figure in silhouette under a futuristic archway, glitching holographic advertisements, cool blue and magenta color palette, intense depth of field, cinematic lighting
+sfx = distant sirens, low atmospheric hum, subtle data static, rain sounds, mechanical whirring
+vocals = sultry male vocal, breathy delivery
+vocalsStructured = alternative R&B track, smooth transitions and unexpected drops, atmospheric intro and fade-out outro, with mysterious male vocal
+keywords = alternativernb trap hiphop electronic darkpop moody mysterious atmospheric chaseatlantic soundtrack cinematic alternative rnb trap electronic darkpop moody
+codeName = Zadig
+bpm = 105
+genreInput = 
+promptInput = Track inspired by Chase Atlantic - "Into It". Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

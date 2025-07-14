@@ -1,0 +1,60 @@
+title = Whispers in the Wind (Susurros en el Viento)
+genre = Latin Pop
+description = In the heart of the moors, their love echoed like the wind, a dance of souls in the night. Inspired by Bronco but in a modern twist.
+prompt = Energetic Latin pop with a touch of romantic balladry, vibrant guitars, rhythmic bass, lively percussion, heartfelt melodies, male and female vocal harmonies, passionate and uplifting mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A couple dancing gracefully under a starlit sky in a vibrant, colorful desert landscape, with swirling wind and abstract light patterns, modern romantic fantasy style
+sfx = guitar strums, gentle wind breeze, distant echoes, soft desert ambiance
+vocals = man and woman singing with rich harmonies, passionate and warm
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male and female vocals
+keywords = latinpop romantic ballad guitar dance Bronco modernlove harmonies desertvibes uplifting cinematic soundtrack
+codeName = Wuthering Heights
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Bronco - Tu y Yo. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = W
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro breeze]
+
+[verse 1 – Desert Dreams]
+In the silence of the night, we meet  
+Your eyes, a universe I can't forget  
+iiiiii aaaa  
+The stars whisper secrets, just for us
+
+[Pre-Chorus – Echoes]
+oooooo  
+Our hearts beat in unison  
+With the rhythm of the earth
+
+[Chorus – Starlit Dance]  
+wooooooo  
+We sway beneath the vast sky  
+iiiiiiiii
+
+[Bridge - Eternal Embrace] 
+Our love, like the wind  
+Unseen, yet felt in every breath  
+Ahhhhhh ooooo
+
+[verse 2]
+Every step, a story told  
+In this dance, we find our home  
+shhhh ooo
+
+[glitch build-up]
+
+[outro - Wind's Whisper]
+iiiiii ooooo  
+Our love carries on, beyond the horizon
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

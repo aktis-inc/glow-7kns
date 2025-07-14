@@ -1,0 +1,28 @@
+title = Crystal Echoes
+genre = Deep House
+description = A glimpse into the shimmering night, reflections of the soul in glass and light, in the style of MK.
+prompt = Deep house groove, smooth synth layers, pulsating bassline, hypnotic rhythm, ethereal pads, club ambiance, echoing female vocal, silky and mesmerizing mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at night, shimmering neon lights reflecting off glass skyscrapers, sleek and modern aesthetic, vibrant colors, dreamy yet energetic vibe
+sfx = subtle city sounds, distant echoes, soft synth swells, pulsating beats
+vocals = female vocal, smooth and echoing, ethereal harmonies, captivating and atmospheric
+vocalsStructured = deep house track, with immersive intro and smooth outro, featuring echoing female vocal
+keywords = deephouse electronic dance club housemusic futuregarage chillvibes neonlights MK nightscape ethereal dreamybeats silkyvocals
+codeName = Yarrow
+bpm = 120
+genreInput = 
+promptInput = Track inspired by MK - Dior Chrystal. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Y
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

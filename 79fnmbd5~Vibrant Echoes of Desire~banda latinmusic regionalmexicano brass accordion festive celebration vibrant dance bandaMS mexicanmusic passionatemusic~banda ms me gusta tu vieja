@@ -1,0 +1,59 @@
+title = Vibrant Echoes of Desire (Ecos Vibrantes del Deseo)
+genre = Regional Mexican
+description = A lively celebration of desires and passion, echoing through the vibrant streets. Inspired by the festive vibe of Banda MS, it captures the essence of joy and longing in a colorful dance.
+prompt = Energetic banda rhythm, brass instruments, rhythmic accordion, lively percussion, infectious melody, festive atmosphere, male vocal with passionate flair
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Colorful fiesta scene under bright string lights, lively dancers in traditional dress, vibrant and dynamic atmosphere, modern twist with neon accents, festive and joyful vibe
+sfx = cheering crowd, clinking glasses, lively accordion riffs, rhythmic brass sections
+vocals = male vocal, strong and passionate delivery, vibrant harmonies, full of life
+vocalsStructured = banda-style track, upbeat intro, lively verses, engaging choruses, dynamic brass drops, with intense male vocal
+keywords = banda latinmusic regionalmexicano brass accordion festive celebration vibrant dance bandaMS mexicanmusic passionatemusic
+codeName = Villette
+bpm = 120
+genreInput = 
+promptInput = Track inspired by BANDA MS - ME GUSTA TU VIEJA. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = V
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro fiesta]
+
+[verse 1]  
+En la plaza, luces brillan  
+Cada paso siente el ritmo  
+Oooooo  
+Voces cantan con el viento  
+
+[chorus - Brass Echoes]  
+Vibraciones en el corazón  
+iiiiii  
+Deseos que traen emoción 
+
+[bridge - Passion’s Call]  
+Vivir, bailar, sentir  
+El eco de tu querer  
+Aaaaahhhh  
+
+[verse 2]  
+Risas, sueños compartidos  
+Bajo el cielo de colores  
+Juntos, vida y latidos  
+Ooooooo  
+
+[chorus - Brass Echoes]  
+Vibraciones en el corazón  
+iiiiii  
+Deseos que traen emoción  
+
+[outro - Fiesta Fade]  
+El eco nunca se va  
+Aaaa ooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,43 @@
+title = Whispers of the Monsoon
+genre = Bollywood
+description = In the heart of the monsoon, whispers dance. Inspired by Bollywood's golden era, capturing the timeless charm in a modern twist.
+prompt = Upbeat Bollywood-inspired track, blending traditional Indian instruments with modern beats, lively rhythm, sitar melodies, tabla percussion, energetic tempo, female vocal, playful and nostalgic mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant and colorful Bollywood festival scene, dancers in traditional attire, dynamic movement, swirling patterns, modern yet traditional fusion, captivating and lively
+sfx = street market ambiance, distant chatter, rhythmic clapping, temple bells, vibrant city sounds
+vocals = female vocal singing in Hindi, playful and melodic, with traditional influences
+vocalsStructured = Bollywood-inspired track, with a lively intro and catchy outro including energetic drops, with melodic female vocal
+keywords = Bollywood Indian fusion tradition modern sitar tabla dance festive celebration nostalgia soundtrack colorful vibrant heritage ShemarooJukebox
+codeName = Kim
+bpm = 135
+genreInput = 
+promptInput = Track inspired by Shemaroo Jukebox 24x7 - Superhits Of Shailendra Singh | शलनदर क 15 गन | Bollywood Old Hindi Songs | Jukebox. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = K
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro tabla]
+
+[verse]
+
+[dholak groove]
+
+[chorus]
+
+[flute interlude]
+
+[verse]
+
+[soft chorus]
+oooo
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

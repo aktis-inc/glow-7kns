@@ -1,0 +1,51 @@
+title = Suave Alchemy (Alquimia Suave)
+genre = Reggaeton
+description = In the rhythm of the city, alchemy flows through the night. Inspired by the fusion of elements, a dance of suave energy.
+prompt = Energetic reggaeton beat, smooth Latin grooves, vibrant percussion, catchy guitar riffs, deep bass pulses, club-ready vibe, male vocal with a charismatic touch
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape under neon lights, bustling nightlife, digital art style, vibrant colors, sleek and modern look, dance floor energy
+sfx = urban city sounds, rhythmic clapping, distant car horns, nightclub chatter
+vocals = male vocal, smooth reggaeton style, energetic delivery, playful tone
+vocalsStructured = reggaeton track, with captivating intro and dynamic outro, featuring melodic male vocal
+keywords = reggaeton latin dance urban club party vibrant nightlife fusion dj suave energy
+codeName = Alchemist
+bpm = 110
+genreInput = 
+promptInput = Track inspired by JEY ONE - SUAVE | PARA OLOGOS DJ JOSE CAR AUDIO DJJOSE. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = A
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse]
+En la ciudad, el ritmo fluye  
+oooooo  
+Bajo las luces de neón  
+duuuum  
+Las calles cantan, un hechizo suave
+
+[chorus]
+Suave, suave, siente el calor  
+oooo  
+Alquimia en el aire, baila amor
+
+[bridge]
+Ritmos que nos llevan lejos  
+oooo  
+El alma vibra, corazón reboza  
+iiiiii
+
+[outro]
+La noche es nuestra, sin fin  
+oooo  
+Despierta el sueño, suave latir
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,50 @@
+title = Jalebi Echoes
+genre = Fusion
+description = A modern twist on cultural tales, weaving tradition with a futuristic beat. Inspired by Indian sounds, infused with electronic energy.
+prompt = Energetic fusion track, vibrant beats, traditional Indian instruments blended with modern synths, catchy rhythms, deep bass, playful male and female vocals, spirited and lively vibe
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape with vibrant lights, traditional Indian patterns intertwining with neon elements, dynamic movement, colorful and modern aesthetic
+sfx = tabla beats, electronic synth swirls, bustling city ambiance, traditional instrument echoes
+vocals = playful male and female vocals, lively interactions, rhythmic chants, cultural inflections
+vocalsStructured = energetic fusion track, with a lively intro and dynamic outro featuring rhythmic drops, with vibrant male and female vocals
+keywords = fusion worldmusic indianfusion electronic haryanavi bhangra culturalbeats moderntradition soundtrack vibrantvibes
+codeName = Jane Eyre
+bpm = 130
+genreInput = 
+promptInput = Track inspired by 𝐃𝐢𝐦𝐩𝐚𝐥 𝐂𝐡𝐚𝐮𝐝𝐡𝐚𝐫𝐲 𝐋𝐢𝐯𝐞 - Jalebi Sa Juda | Amit Saini Rohtakiya | Anjali Raghav | New Haryanvi Songs | Haryanavi 2024. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+
+[verse]
+Colors dance in the night, electric veins  
+Traditions whisper in neon lanes  
+oooo 
+
+[chorus]  
+Jalebi echoes, sweet and bright  
+Twisting tales in the city light
+
+[instrumental bridge]
+tabla rolls, synth waves  
+city hum, rhythmic saves
+
+[verse]  
+Stories weave in vibrant threads  
+Energies flow where the heart treads
+
+[outro]
+oooo  
+iiiiiiii  
+Twilight fades in a lively glow
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

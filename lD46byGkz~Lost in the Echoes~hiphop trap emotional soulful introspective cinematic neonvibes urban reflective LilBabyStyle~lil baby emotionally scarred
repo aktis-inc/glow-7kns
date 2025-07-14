@@ -1,0 +1,28 @@
+title = Lost in the Echoes
+genre = Hip-Hop
+description = In the quiet of night, echoes of emotion resonate. Inspired by the journey of survival and self-discovery.
+prompt = Trap-infused hip-hop beat, emotional piano chords, deep 808 bass, rhythmic hi-hats, introspective mood, smooth male vocal, reflective and soulful
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Urban cityscape at night, neon reflections on wet streets, modern and cinematic style, vibrant colors, moody atmosphere, futuristic elements
+sfx = city traffic hum, distant sirens, vinyl crackle, ambient night sounds
+vocals = male vocal, smooth and reflective, soulful undertones, emotional delivery
+vocalsStructured = hip-hop track, with strong intro and compelling outro, featuring soulful male vocal, incorporating emotional drops and smooth transitions
+keywords = hiphop trap emotional soulful introspective cinematic neonvibes urban reflective LilBabyStyle
+codeName = Life of Pi
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Lil Baby - Emotionally Scarred. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Passionate Echoes (Echi Appassionati)
+genre = Reggaeton
+description = In a world of societal norms, passion finds its rhythm. A dance of hearts, echoing through the ages, in the style of Don Miguelo.
+prompt = Reggaeton beat, vibrant Latin rhythms, rhythmic percussion, smooth bassline, energetic dance vibe, playful male and female vocals, captivating and lively mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Neon-lit dance floor with swirling lights and vibrant colors, modern urban setting, futuristic ambiance, dynamic and energetic visuals
+sfx = percussive claps, rhythmic shakers, dance floor ambiance, urban soundscape
+vocals = male and female vocals, lively and playful, rhythmic flow, engaging harmonies
+vocalsStructured = reggaeton track, with a vibrant intro and energetic outro including dynamic drops, with rhythmic male and female vocals
+keywords = reggaeton latin dance urban vibrant energetic latinpop dancehall tropical rhythmic DonMiguelo
+codeName = Pride and Prejudice
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Don Miguelo - Y Que Fue?. Use similar musical vibe, mood, style, genre, instruments.
+language = italian
+letter = P
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

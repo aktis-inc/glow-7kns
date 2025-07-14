@@ -1,0 +1,57 @@
+title = Chasing Echoes
+genre = Rock
+description = In a world of chaos, echoes chase the shadows of dreams. Inspired by the iconic intensity and raw emotion of Linkin Park.
+prompt = Energetic rock with electronic elements, driving guitar riffs, intense drum patterns, atmospheric synths, powerful male vocal, gritty and emotive
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape under a stormy sky, neon lights reflecting off rain-soaked streets, high-tech ambiance, dynamic and electrifying visual style
+sfx = thunder claps, distant city noises, static bursts, mechanical whirrs
+vocals = male vocal, intense and raw, with emotional depth and power
+vocalsStructured = rock-electronic fusion track, with strong intro and impactful outro including dynamic drops, with powerful male vocal
+keywords = rock alternative electronic nu-metal linkinpark intense emotive driving fusion neonvibes futuristic soundtrack powerful gritty echoes
+codeName = Catch-22
+bpm = 140
+genreInput = 
+promptInput = Track inspired by In The End - Linkin Park. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Storm Surge]
+
+[verse 1]
+In the city's roar, I find my way  
+Chasing echoes, where the shadows sway  
+ooooo iiiiii
+
+[Pre-Chorus - Rising Tension]  
+Glimmers of truth, in the neon haze  
+A past I can't escape, in this endless maze
+
+[Chorus - Echo's Call]  
+wooooo  
+iiiiiiii  
+The world spins, yet I stand still  
+In echoes, destiny's unfulfilled
+
+[Bridge - Electric Pulse]  
+I reach for the light, in the storm's embrace  
+But the echoes remind me of my place  
+ahhhhhh ooohhhhh
+
+[verse 2]
+Every step, a fight against the tide  
+Through the chaos, my fears collide  
+
+[outro - Fading Echoes]  
+zzzzzzhhhhhh  
+In the end, only echoes remain  
+In this chase, I find my name
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

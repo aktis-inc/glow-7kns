@@ -1,0 +1,50 @@
+title = Beyond the Horizon (Di Luar Cakrawala)
+genre = World Fusion
+description = A convergence of worlds, where tradition dances with the future, inspired by the style of Alva Kenzo.
+prompt = Energetic world beat, vibrant percussion, dynamic rhythms, fusion of traditional and electronic elements, intense drops, spirited male vocal, joyful and uplifting mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern dance festival with a fusion of cultures, vibrant colors, neon lights, dynamic movement, and energy. A celebration of unity and diversity in a futuristic setting.
+sfx = upbeat dhol beats, ambient crowd chatter, electronic synth pulses, cultural flute melodies
+vocals = male vocal, spirited and lively, blending traditional and modern styles
+vocalsStructured = world fusion track, with energetic intro and uplifting outro, including rhythmic drops, with vibrant male vocal
+keywords = worldbeat fusion traditional electronic festival dance uplifting cultural vibrant AlvaKenzo
+codeName = Brave New World
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Alva Kenzo - DJ INDIA CAMPURAN | Dekha Tenu Pehli Baar Ve | Dholna | Humko Humise Viral 2023. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro rhythm]
+
+[verse]
+Bersama kita melangkah
+Di jalan yang penuh warna
+oooooo
+
+[chorus]
+iiiiiiii
+Melodi yang menyatukan
+Hati yang bergetar
+aaaaa
+
+[bridge - Echoing Pulse]
+Langkahmu, langkahku
+Menyatu dalam harmoni
+iiii oooo
+
+[outro]
+Di luar cakrawala
+Kita temukan cahaya
+
+[final drop]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

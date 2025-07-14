@@ -1,0 +1,28 @@
+title = Unraveling Whispers (속삭임의 해체)
+genre = Trip-Hop
+description = A journey through the unknown. Inspired by ethereal sounds and mystic whispers in the style of 대충사람 - 충주행 KTX이음 출발 안내방송.
+prompt = Trip-hop infused beats, layered ambient sounds, haunting melodies, ethereal synths, intricate rhythms, dreamy atmosphere, enigmatic female vocal, whispery and mystic
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Mystical train journey through a swirling vortex, ethereal and surreal visuals, futuristic and enigmatic style, captivating and dreamlike essence
+sfx = train rumble, distant echoes, ambient hum, gentle whispers, mysterious chimes
+vocals = female vocal, whispery tone, ethereal harmonies, otherworldly feel
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = trip-hop ambient downtempo chillout ethereal dreamy mystic soundtrack cinematic Uzumaki
+codeName = Uzumaki
+bpm = 90
+genreInput = 
+promptInput = Track inspired by 대충사람 - 충주행 KTX이음 출발 안내방송. Use similar musical vibe, mood, style, genre, instruments.
+language = korean
+letter = U
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

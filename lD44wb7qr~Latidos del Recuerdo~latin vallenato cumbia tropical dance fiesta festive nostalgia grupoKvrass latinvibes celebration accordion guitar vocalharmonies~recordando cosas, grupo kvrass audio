@@ -1,0 +1,58 @@
+title = Latidos del Recuerdo (Latidos del Recuerdo)
+genre = Latin Pop
+description = Echoes of the past dance in the air, vibrant colors and memories intertwine, inspired by the lively spirit of Grupo Kvrass.
+prompt = Energetic Latin rhythm, lively accordion melodies, vibrant percussion, passionate guitar strums, dynamic bassline, festive and nostalgic atmosphere, male and female vocals, playful and emotive
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Colorful street festival scene, dancers in traditional costumes, vivid and lively ambiance, modern Latin flair, dynamic movement captured in vibrant colors
+sfx = crowd chatter, rhythmic clapping, lively street sounds, distant laughter, festive echoes
+vocals = male and female vocal, lively and emotive, with a playful tone, echoing harmonies, passionate delivery
+vocalsStructured = Latin pop track, with rhythmic intro and festive outro, including accordion and guitar drops, with lively male and female vocal
+keywords = latin vallenato cumbia tropical dance fiesta festive nostalgia grupoKvrass latinvibes celebration accordion guitar vocalharmonies
+codeName = La Casa de los Espíritus
+bpm = 130
+genreInput = 
+promptInput = Track inspired by Recordando Cosas, Grupo Kvrass - Audio. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro fiesta]
+
+[verse]
+Pasos perdidos en el tiempo  
+Recuerdos bailan sin fin  
+Corazones laten al viento  
+En un mundo de tamboril
+
+[Pre-Chorus]
+oooooo  
+alegría entre sombras  
+iiiiiii  
+ritmos que nos asombran
+
+[Chorus]  
+aaaaa  
+Latidos del recuerdo  
+Emociones sin miedo  
+oooo  
+iiiiii
+
+[Bridge]  
+Voces del pasado  
+Ecos de un abrazo  
+ahhhh  
+ooooo
+
+[outro - Nostalgia Fade]  
+Latidos que se quedan  
+Danzas que liberan  
+
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

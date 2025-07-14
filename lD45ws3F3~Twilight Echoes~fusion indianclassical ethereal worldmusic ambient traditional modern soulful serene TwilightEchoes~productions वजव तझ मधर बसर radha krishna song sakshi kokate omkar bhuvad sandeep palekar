@@ -1,0 +1,40 @@
+title = Twilight Echoes
+genre = Indian Classical Fusion
+description = A dance of past and future, where tradition meets modernity. Inspired by the eternal love stories and the serene beauty of twilight.
+prompt = Energetic Indian classical fusion with a modern twist, intricate tabla rhythms, soulful sitar melodies, atmospheric synth pads, and a gentle flute. Male and female vocals with a harmonious, uplifting feel.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene landscape with a futuristic twist, where ancient temples blend with neon lights under a twilight sky. Vibrant colors and radiant patterns create a mesmerizing effect, capturing the fusion of tradition and innovation.
+sfx = soft wind chimes, gentle river flow, distant temple bells, rhythmic tabla beats
+vocals = harmonious male and female vocals, ethereal and soulful, blending classical and contemporary styles
+vocalsStructured = fusion track, with a smooth intro and a captivating outro, featuring harmonious male and female vocals
+keywords = fusion indianclassical ethereal worldmusic ambient traditional modern soulful serene TwilightEchoes
+codeName = The Tale of Genji
+bpm = 110
+genreInput = 
+promptInput = Track inspired by K P Productions - वजव न तझ मधर बसर | Radha Krishna Song | Sakshi Kokate | Omkar Bhuvad | Sandeep Palekar. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+ooooo iiiii
+[verse 1 - Sitar's Whisper]
+In twilight's glow, echoes of time
+Dance with shadows, rhythm and rhyme
+[Chorus - Harmonious Fusion]
+Aaaa iiiiiii ooooo
+Tradition flows, in modern streams
+[bridge - Soul's Embrace]
+Soft whispers, gentle dreams
+Flute's call in moonlit themes
+[outro - Eternal Echo]
+ooohhhh iiiiii aaaa]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,52 @@
+title = Whispers of Devotion
+genre = Ambient World Fusion
+description = Echoes of a timeless journey, where whispers of devotion guide the soul. Inspired by the serene and spiritual essence of Bhakti.
+prompt = Ambient world fusion, ethereal layers, serene tabla rhythms, haunting sitar melodies, mystical chanting, spiritual and meditative atmosphere, whispery male and female vocal
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A cosmic blend of swirling colors and celestial patterns, infused with spiritual symbols, creating a mystical and serene visual experience, modern and otherworldly
+sfx = gentle wind chimes, soft temple bells, distant chant echoes, flowing river sounds
+vocals = male and female vocals, soft chanting, whisper-like harmonies, peaceful and contemplative
+vocalsStructured = ambient world fusion track, with a smooth intro and serene outro including gentle drops, with ethereal male and female vocal
+keywords = ambient worldfusion spiritual meditative chanting ethereal serene mystical devotional bhakti
+codeName = Nectar in a Sieve
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Bhakti Mixture 🙏 - जयशभनथ दगबरम करणकर जगदशवरम || Jai Shambhunath Digambaram || Shiv Stotram. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = N
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - soft bells]
+
+[verse - gentle chant]
+mmmmmm
+ooooooo
+Whispers of the heart
+In quiet devotion
+
+[interlude - sitar melody]
+
+[chorus - ethereal rise]
+ahhhhhh
+Spirit's embrace
+Flowing through the ether
+
+[bridge - tabla rhythm]
+takataka
+Shanti's breath
+In every beat
+
+[outro - fading echoes]
+mmmmmm
+iiiiiiii
+Peaceful retreat
+Silence speaks]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

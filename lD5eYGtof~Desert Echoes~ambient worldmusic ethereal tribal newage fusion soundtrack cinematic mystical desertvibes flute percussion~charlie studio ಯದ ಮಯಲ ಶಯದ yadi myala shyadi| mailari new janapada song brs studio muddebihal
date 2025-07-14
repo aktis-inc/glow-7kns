@@ -1,0 +1,28 @@
+title = Desert Echoes
+genre = Ambient
+description = Whispers across the dunes, where sand meets the sky. Echoes of another time, in the style of Charlie Studio, yet reimagined for a new era.
+prompt = Ethereal soundscape, traditional rhythms with modern twists, haunting flute melodies, deep bass resonance, tribal percussion elements, ambient textures, mystical male and female vocal harmonies, transcendent and evocative atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic desert landscape with towering dunes, shimmering heatwaves, and a distant oasis, infused with ethereal light and shadow play, creating a mystical yet modern ambiance
+sfx = wind whispers, distant drumming, echoing flute notes, soft desert ambiance
+vocals = male and female vocal harmonies, ethereal and haunting, tribal chants
+vocalsStructured = ambient track with evolving soundscapes, featuring a serene intro, dynamic middle section with drops, and a fading, reflective outro with harmonious vocals
+keywords = ambient worldmusic ethereal tribal newage fusion soundtrack cinematic mystical desertvibes flute percussion
+codeName = Dune
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Charlie Studio - ಯದ ಮಯಲ ಶಯದ | Yadi Myala shyadi| Mailari New Janapada Song | Brs studio muddebihal. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = D
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

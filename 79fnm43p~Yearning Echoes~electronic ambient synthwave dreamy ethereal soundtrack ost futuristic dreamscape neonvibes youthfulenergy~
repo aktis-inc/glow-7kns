@@ -1,0 +1,48 @@
+title = Yearning Echoes
+genre = Electronic
+description = In a city of neon dreams, echoes of youth linger in the air, whispering stories of longing and discovery, inspired by 'Youth Without Youth'.
+prompt = Energetic electronic beat, ambient synth layers, vibrant rhythm, pulsating bass, dynamic percussion, ethereal atmosphere, female vocal with an airy, dream-like quality
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon lights reflecting on glass skyscrapers, cool holographic effects, sleek and modern vibe, ethereal glow
+sfx = city ambience, soft wind, electronic pulses, distant chimes
+vocals = female vocal, airy and ethereal, dream-like whispers, harmonic echoes
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = electronic ambient synthwave dreamy ethereal soundtrack ost futuristic dreamscape neonvibes youthfulenergy
+codeName = Youth Without Youth
+bpm = 120
+genreInput = 
+promptInput = myday
+
+language = english
+letter = Y
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro echo]
+
+[verse]
+In the shimmer of the skyline
+Dreams waver like light
+ooooo
+
+[chorus]
+Yearning echoes in the night
+iiiiii
+Whispers of the past
+
+[bridge]
+Floating through the stars
+A dance of neon hearts
+ahhhhhh
+
+[outro]
+Silent glow fades away
+iiiiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

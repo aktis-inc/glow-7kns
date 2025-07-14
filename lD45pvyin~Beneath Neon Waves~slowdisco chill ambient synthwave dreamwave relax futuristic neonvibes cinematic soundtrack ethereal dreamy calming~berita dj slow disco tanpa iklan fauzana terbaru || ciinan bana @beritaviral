@@ -1,0 +1,48 @@
+title = Beneath Neon Waves (Di Bawah Gelombang Neon)
+genre = Slow Disco
+description = In the heart of the city, neon waves ripple through time. A calming pulse beneath the chaos, whispering dreams in the night.
+prompt = Slow disco beat, smooth synth layers, relaxed groove, gentle bassline, atmospheric pads, hypnotic vibe, soothing male and female vocal harmonies, chill and dreamy ambiance
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape under neon lights, reflections on wet streets, ambient glow, sleek and modern design, vibrant yet calming colors, ethereal and immersive atmosphere
+sfx = soft rain sounds, distant city hum, gentle synth sweeps, echoing footsteps
+vocals = male and female vocal harmonies, soft and soothing, atmospheric echoes
+vocalsStructured = chill disco track, with smooth intro and mellow outro, featuring gentle drops and soothing male and female vocals
+keywords = slowdisco chill ambient synthwave dreamwave relax futuristic neonvibes cinematic soundtrack ethereal dreamy calming
+codeName = Beloved
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Berita Viral - DJ Slow Disco TANPA IKLAN ALBUM FAUZANA TERBARU 2024 || CIINAN BANA @BeritaViral. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = B
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - soft glow]
+
+[verse - Neon Drift]
+In the city of lights, we float
+Soft echoes guide our soul
+Beneath the glow, dreams unfold
+
+[chorus - Wave Embrace]
+oooooo
+neon whispers, soft embrace
+iiiiii
+beneath waves, time and space
+
+[bridge - Luminous Haze]
+gentle breeze, whispers chase
+through the night, we find our place
+ahhhhh
+
+[outro - Fading Glow]
+ooooo
+neon dreams, softly flow
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

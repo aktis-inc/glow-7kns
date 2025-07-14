@@ -1,0 +1,38 @@
+title = Journey Through Serene Waves
+genre = Ambient
+description = A peaceful journey unfolds, where each wave whispers stories of serenity and calm. Inspired by Jonathan Livingston Seagull, the music floats like a seagull soaring over tranquil waters.
+prompt = Instrumental ambient track, soothing sitar melodies, gentle tabla rhythms, serene flute harmonies, calming drone sounds, ethereal atmosphere, meditative and peaceful vibe
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A tranquil beach scene at twilight, gentle waves lapping the shore, soft pastel colors, ethereal and dreamy ambiance, modern artistic style with a touch of surrealism
+sfx = soft ocean waves, distant bird calls, gentle wind chimes, subtle ambient drone
+vocals = n/a
+vocalsStructured = n/a
+keywords = ambient instrumental worldmusic meditative serene peaceful ethereal calm sitar tabla flute drone tranquility instrumentalvibes
+codeName = Jonathan Livingston Seagull
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Tirvola - instrumental Sip of Peace Peaceful, background Traditional Indian. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - tranquil waves]
+
+[soft sitar melody]
+
+[dreamy flute harmonies]
+
+[gentle tabla rhythm]
+
+[ethereal atmosphere]
+
+[outro - fading whispers]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

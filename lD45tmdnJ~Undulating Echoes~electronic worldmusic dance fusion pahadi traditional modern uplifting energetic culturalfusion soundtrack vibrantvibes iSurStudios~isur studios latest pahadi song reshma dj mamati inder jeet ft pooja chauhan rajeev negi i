@@ -1,0 +1,48 @@
+title = Undulating Echoes
+genre = World & Dance
+description = An odyssey of sound, where echoes of tradition dance with the pulse of the future, inspired by the seamless blend of cultures in a modern musical tapestry.
+prompt = Energetic fusion of traditional Pahadi instruments with modern electronic dance beats, rhythmic layers, vibrant percussion, uplifting melodies, and a lively atmosphere, featuring both male and female vocals with a playful and spirited vibe.
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A mesmerizing blend of traditional and futuristic elements, vibrant patterns and textures, swirling colors, and a dynamic, pulsating energy that captures the essence of a cultural fusion in a modern context.
+sfx = rustling leaves, echoing drum beats, ambient nature sounds, electronic synth swells
+vocals = duet vocals, playful exchanges, traditional and contemporary harmonies
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic duet vocals, rich in cultural fusion
+keywords = electronic worldmusic dance fusion pahadi traditional modern uplifting energetic culturalfusion soundtrack vibrantvibes iSurStudios
+codeName = Ulysses
+bpm = 130
+genreInput = 
+promptInput = Track inspired by iSur Studios - Latest Pahadi Song 2021 | Reshma | DJ Mamati | Inder Jeet | Ft Pooja Chauhan | Rajeev Negi | iSur. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = U
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - mountain echoes]
+
+[verse]  
+Whispering winds, tales untold  
+Rhythms of earth, stories unfold  
+ooooo  
+
+[chorus]  
+Dance of time, hearts align  
+In this space, dreams entwine  
+iiiiii  
+
+[bridge - cultural fusion]  
+Tradition's call, future's embrace  
+In this sound, we find our place  
+ahhhh  
+
+[outro - fading echoes]  
+Lost in echoes, waves of time  
+In this rhythm, we climb  
+oooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

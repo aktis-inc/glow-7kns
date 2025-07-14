@@ -1,0 +1,54 @@
+title = Quiet Passion (Pasión Silenciosa)
+genre = Reggaeton
+description = Echoes of a journey, a quiet passion unfolds under the setting sun, inspired by the romantic vibes of Alex Rose.
+prompt = Reggaeton beat, smooth Latin rhythms, tropical melodies, catchy hooks, lush percussion, warm guitar tones, male and female vocal, relaxed and sultry mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Sunset on a tropical beach, vibrant colors reflecting on the water, silhouettes of dancing figures, contemporary and dynamic style, cool lens flare effects, lively and inviting atmosphere
+sfx = ocean waves, gentle breeze, rhythmic clapping, tropical bird calls
+vocals = male vocal, smooth and rich, with playful female harmonies
+vocalsStructured = reggaeton step track, with strong intro and energetic outro including some drops, with melodic male vocal
+keywords = reggaeton latin tropical dance beachvibes latinvibes summer chill romantic alexrose darte
+codeName = Quo Vadis
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Alex Rose Various Artists - Darte. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro]
+
+[verse 1]  
+El sol se esconde, el mar susurra,  
+Bajo las palmeras, tu mirada murmura,  
+Pasos que bailan, sueños que cantan,  
+En la arena cálida, tu voz me encanta.  
+
+[chorus]  
+oooooh  
+iiiiiii  
+Pasión silente, en la brisa flotante,  
+Nuestros deseos, en el aire vibrante.  
+
+[bridge]  
+Caminos que se cruzan, destinos que laten,  
+En esta noche estrellada, los corazones laten.  
+
+[verse 2]  
+El ritmo del amor, en cada latido,  
+En este paraíso, todo está permitido.  
+oooo  
+iiiiiiii  
+
+[outro - Fade]  
+Susurros en el viento, promesas sin fin,  
+Pasión silenciosa, en un mundo sin fin.
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

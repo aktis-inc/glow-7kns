@@ -1,0 +1,28 @@
+title = Eternal Rhythms
+genre = Worldbeat
+description = A journey through time and culture, where love dances in the rhythms of life. Inspired by the timeless essence of love and music.
+prompt = Energetic worldbeat track, rich rhythmic layers, vibrant percussion, traditional and modern blend, upbeat tempo, soulful melodies, male and female vocal harmonies, lively and uplifting
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Colorful abstract representation of musical waves and beats, dynamic flow of colors capturing the essence of world music, vibrant and contemporary style, captivating and engaging
+sfx = traditional drum patterns, ambient nature sounds, rhythmic clapping, joyful crowd ambiance
+vocals = male and female vocals, harmonious and rhythmic, lively and spirited
+vocalsStructured = worldbeat track, with vibrant intro and uplifting outro including rhythmic drops, with melodic male and female vocals
+keywords = worldbeat worldmusic fusion traditional contemporary uplifting dynamic vibrant rhythmic musicaljourney
+codeName = Love in the Time of Cholera
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Tigrigna - Non stop best Tigrigna. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

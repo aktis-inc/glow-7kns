@@ -1,0 +1,53 @@
+title = Camera's Flame (Llama de la Cámara)
+genre = Latin Pop
+description = Turn the lens to life, capture the moment. Inspired by the vibrant style of FMK, Tiago PZK, Mau y Ricky.
+prompt = Energetic Latin pop beat, dynamic reggaeton rhythms, catchy guitar riffs, vibrant horns, pulsating bass, lively percussion, male and female vocal interplay, playful and spirited energy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Colorful street party, neon lights, people dancing with vibrant costumes, urban setting, modern and lively atmosphere, dynamic energy, bold and engaging visuals
+sfx = camera shutter clicks, party crowd chatter, rhythmic clapping, energetic cheers
+vocals = male and female duet, lively singing, playful interaction, vibrant harmonies
+vocalsStructured = pop reggaeton track, with a catchy intro and energetic outro including upbeat drops, with playful male and female vocal duets
+keywords = latinpop reggaeton dance urban partyvibes pop fmk tiagopzk mauyricky colorful energetic camera vibrant
+codeName = Xenogenesis
+bpm = 110
+genreInput = 
+promptInput = Track inspired by FMK, Tiago PZK, Mau y Ricky - Prende La Camara RMX 🔥|| LETRA. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse 1]
+Enciende la cámara, la noche comienza
+Ritmo en las calles, todos en la fiesta
+oooooo
+iiiiiiii
+
+[chorus]
+Llena de colores, la vida se enciende
+Cada instante captura, nunca se pierde
+woooooooo
+
+[bridge]
+Caminos de luces, sombras se disipan
+Canta con el alma, las estrellas brillan
+ahhhh ooooo
+
+[verse 2]
+La música envuelve, el corazón late
+En cada momento, el mundo comparte
+zzzzzzhhhhh
+
+[outro]
+Fluye la energía, el tiempo se escapa
+Vibrando en el aire, la alegría atrapa
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

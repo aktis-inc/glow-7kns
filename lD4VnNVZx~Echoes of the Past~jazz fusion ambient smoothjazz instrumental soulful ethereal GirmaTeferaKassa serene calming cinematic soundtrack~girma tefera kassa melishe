@@ -1,0 +1,43 @@
+title = Echoes of the Past
+genre = Jazz Fusion
+description = Journey through memories, where echoes linger softly as whispers of the past. In the style of Girma Tefera Kassa, capturing a similar musical essence.
+prompt = Smooth jazz fusion with ethereal saxophone melodies, rhythmic percussion, gentle bassline, soulful piano, atmospheric ambient layers, and serene male and female vocal harmonies, whispery and soothing
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dreamlike cityscape at dusk, with glowing streetlights reflecting off rain-soaked streets, soft hues of purple and blue, abstract figures in motion, ethereal and modern style
+sfx = soft rain patter, distant city hum, gentle breeze, faint footsteps, subtle saxophone echoes
+vocals = male and female vocal harmonies, whispery and soothing, ethereal quality
+vocalsStructured = jazz fusion track, with smooth intro and serene outro including gentle instrumental drops, with melodic male and female vocal harmonies
+keywords = jazz fusion ambient smoothjazz instrumental soulful ethereal GirmaTeferaKassa serene calming cinematic soundtrack
+codeName = Life and Fate
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Girma Tefera Kassa - Melishe. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = L
+includeVocal = False
+includeSfx = False
+appVersion = v20250610
+stamp = 250709
+duration = 
+
+lyrics = [intro - whispers]
+
+[mellow groove]
+
+[verse - saxophone lead]
+oooooo  
+iiiiii  
+
+[smooth build-up]
+
+[verse - piano accent]
+
+[vocal harmony]
+laaaa laaaa
+
+[outro - gentle fade]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

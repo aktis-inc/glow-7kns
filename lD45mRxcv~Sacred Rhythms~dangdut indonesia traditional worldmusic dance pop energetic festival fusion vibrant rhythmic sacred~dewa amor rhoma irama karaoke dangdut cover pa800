@@ -1,0 +1,60 @@
+title = Sacred Rhythms (Irama Sakral)
+genre = Dangdut Pop
+description = In the heart of Nusantara, where tradition meets the pulse of the dance floor. Inspired by the timeless rhythms of dangdut.
+prompt = Dangdut-inspired groove, traditional Indonesian instruments, lively rhythm, infectious melodies, energetic percussion, spirited dance feel, playful male vocal
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern Indonesian dance scene, vibrant colors, dynamic movements, traditional and contemporary fusion, energetic atmosphere, captivating visuals
+sfx = gamelan chimes, rhythmic clapping, lively drum beats, festive crowd ambiance
+vocals = male vocal, lively and spirited, traditional dangdut style, engaging and energetic
+vocalsStructured = dangdut pop track, with lively intro and rhythmic outro, featuring dynamic male vocal and infectious beats
+keywords = dangdut indonesia traditional worldmusic dance pop energetic festival fusion vibrant rhythmic sacred
+codeName = Saman
+bpm = 110
+genreInput = 
+promptInput = Track inspired by DEWA AMOR - Rhoma Irama KARAOKE DANGDUT COVER Pa800. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = S
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse]
+
+Gema suara di angkasa
+
+Ritme jiwa tersentuh
+
+oooooo
+
+[Chorus – Dance of the Ancients]
+
+Bergetar, merindu, bersatu
+
+iiiii
+
+[verse 2]
+
+Nada-nada menggema
+
+Langkah kaki berpadu
+
+[bridge]
+
+Mengalun di antara
+
+Zaman yang terhubung
+
+[drop]
+
+ooooo iiiii
+
+[outro - Echoes of Tradition]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

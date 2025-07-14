@@ -1,0 +1,46 @@
+title = Echoes of Brotherhood
+genre = Pop
+description = In the rhythm of the city, a bond as strong as soundwaves. Echoes of brotherhood in a world of neon dreams.
+prompt = Energetic pop beat, nostalgic 90s vibe, catchy hooks, strong rhythm section, smooth bassline, electric guitar riffs, male vocal with playful and energetic delivery
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dynamic urban scene with neon lights, two figures silhouetted against a cityscape, vibrant colors, modern and sleek design, reminiscent of the 90s with a futuristic twist
+sfx = city ambiance, distant traffic sounds, digital synth effects, cheering crowd snippets
+vocals = male vocal, energetic and playful, with strong harmonies and catchy hooks
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal
+keywords = pop 90svibes retro dancepop electropop nostalgia brotherhood urban neon futuristic soundtrack
+codeName = Quicksilver
+bpm = 120
+genreInput = 
+promptInput = Track inspired by 5ive - Me And My Brother. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Q
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro beat]
+
+[verse]
+Born in the echoes, we rise
+In the city lights, we find our ties
+ooooo
+
+[chorus]
+Brothers in sound, never apart
+In this beat, we find our heart
+iiiii
+
+[bridge]
+Through the noise, we stay true
+In the rhythm, it's me and you
+wooooo
+
+[outro - fade]
+Together, we echo through the night
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

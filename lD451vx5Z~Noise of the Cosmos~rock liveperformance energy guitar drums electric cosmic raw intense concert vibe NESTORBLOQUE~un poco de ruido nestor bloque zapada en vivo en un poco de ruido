@@ -1,0 +1,58 @@
+title = Noise of the Cosmos (Ruido del Cosmos)
+genre = Rock
+description = In the heart of the universe, where noise becomes music, the cosmos sings its raw, electric symphony. Inspired by the vibrant essence of live performance.
+prompt = Energetic live performance vibe, driving guitar riffs, dynamic drum patterns, vibrant bass groove, electric atmosphere, both male and female vocals, gritty and raw energy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Live concert scene with dynamic lighting, vibrant colors, electric instruments, futuristic stage design, holographic effects, energetic crowd
+sfx = crowd cheering, guitar feedback, live drum hits, ambient chatter, stage announcements
+vocals = male and female vocals, raw and powerful, live performance intensity
+vocalsStructured = rock track with a strong intro, energetic middle section, and climactic outro, featuring dynamic male and female vocals
+keywords = rock liveperformance energy guitar drums electric cosmic raw intense concert vibe NESTORBLOQUE
+codeName = Nausea
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Un Poco De Ruido - NESTOR BLOQUE / Zapada EN VIVO en UN POCO DE RUIDO. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = N
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro feedback]
+
+[verse]
+In waves of sound, the stars collide  
+Echoes of dreams, electric tide  
+ooooooo iiiiiii
+
+[Pre-Chorus - Build]
+Raw noise, universe alive  
+Guitar screams, we thrive  
+aaaaaaa
+
+[Chorus - Cosmic Burst]
+iiiiii  
+Noise of the cosmos, we ride  
+Riding the waves of the cosmic tide
+
+[Bridge - Stellar Pulse]
+Cosmic rhythms unfold  
+In the noise, stories told  
+ahhhhh ooohhhh
+
+[verse]
+Stars dance in the night  
+In sound, we find our light  
+zzzzzzzz
+
+[Outro - Fade to Silence]
+Noise fades, stars remain  
+In the silence, echoes sustain  
+ooooo iiiiiii
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

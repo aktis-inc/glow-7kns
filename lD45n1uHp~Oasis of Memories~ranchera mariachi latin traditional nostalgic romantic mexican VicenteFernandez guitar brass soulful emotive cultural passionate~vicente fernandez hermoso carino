@@ -1,0 +1,28 @@
+title = Oasis of Memories (Oasis de Recuerdos)
+genre = Ranchera
+description = A timeless dance of love and longing, where echoes of the past meet the whispers of the heart. Inspired by the essence of Vicente Fernandez.
+prompt = Rich mariachi instrumentation, soulful guitar melodies, emotive strings, warm brass sections, heartfelt rhythm, deep and resonant, male and female vocal harmonies, nostalgic and passionate atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Desert oasis under moonlight, reflections on water, lush greenery around, vivid colors, romantic and dreamy ambiance, modern Mexican art style
+sfx = gentle guitar strums, soft maracas, distant trumpet calls, flowing river sounds, subtle crowd chatter
+vocals = male and female vocal harmonies, warm and expressive, traditional ranchera style
+vocalsStructured = ranchera track, with a powerful intro, heartfelt chorus, and emotional outro, featuring rich vocal harmonies
+keywords = ranchera mariachi latin traditional nostalgic romantic mexican VicenteFernandez guitar brass soulful emotive cultural passionate
+codeName = One Hundred Years of Solitude
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Vicente Fernandez - Hermoso Carino. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

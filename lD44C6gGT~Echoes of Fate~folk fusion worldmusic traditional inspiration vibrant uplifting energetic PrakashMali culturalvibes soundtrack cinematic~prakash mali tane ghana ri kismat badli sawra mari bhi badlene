@@ -1,0 +1,28 @@
+title = Echoes of Fate
+genre = Folk Fusion
+description = In the echoes of fate, we find our paths intertwined, like the pages of a timeless novel. Inspired by the vibrant style of Prakash Mali, this track dances through time, weaving tradition and modernity.
+prompt = Energetic, folk-inspired rhythm with traditional instruments, vibrant percussion, uplifting melodies, deep-rooted vocals, echoing chants, spirited ambiance, male and female vocals with a dynamic and playful tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant fusion of traditional and modern elements, swirling patterns in the sky, bursts of colorful energy, mystical landscapes blending with futuristic motifs, visually striking and captivating
+sfx = rustling of leaves, distant flute echoes, rhythmic hand claps, gentle chime accents
+vocals = male and female vocal, lively folk style, harmonic chants, spirited and heartfelt delivery
+vocalsStructured = folk fusion track, with a rhythmic and energetic intro, vibrant choruses, and a captivating outro with dynamic vocals
+keywords = folk fusion worldmusic traditional inspiration vibrant uplifting energetic PrakashMali culturalvibes soundtrack cinematic
+codeName = Jane Eyre
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Prakash Mali - Tane Ghana Ri Kismat Badli Sawra Mari Bhi Badlene. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,43 @@
+title = Endless Echoes (Gema Tak Berujung)
+genre = Ambient
+description = A journey through tranquil spaces, where echoes whisper tales of the soul's longing, inspired by the style of Mishary al fasy.
+prompt = Ethereal ambient soundscape, tranquil melodies, soothing harmonics, gentle percussion, serene and introspective atmosphere, reminiscent of spiritual journey, featuring soft male chant vocals
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A luminous, ethereal forest scene under a starry sky, glowing orbs floating through the air. A mystical and serene ambiance with a touch of spirituality. Modern and dreamy aesthetic
+sfx = soft wind chimes, gentle water flow, distant echoes, subtle nature sounds
+vocals = male chant vocal, soft and spiritual, echoing in a vast space
+vocalsStructured = ambient track, with an immersive intro and calming outro, featuring soft male chant vocals, creating a serene and introspective atmosphere
+keywords = ambient spiritual meditative ethereal soundscape cinematic serene introspective calming mystical meditationmusic relaxation
+codeName = Eat, Pray, Love
+bpm = 60
+genreInput = 
+promptInput = Track inspired by Amora Ananta - Mishary al fasy JuZ 30 Versi Lama. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - soft echoes]
+
+[ambient section]
+oooooo  
+aaaaaa  
+iiiiiiii
+
+[whisper]
+mmmmmmm  
+eeeeee
+
+[chant - spiritual echo]
+zzzzzz  
+ooooooooo
+
+[outro - fading light]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

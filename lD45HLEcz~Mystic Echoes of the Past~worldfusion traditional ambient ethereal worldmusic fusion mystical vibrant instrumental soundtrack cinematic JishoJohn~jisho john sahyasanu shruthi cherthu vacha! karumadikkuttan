@@ -1,0 +1,49 @@
+title = Mystic Echoes of the Past
+genre = World Fusion
+description = In the twilight of forgotten eras, echoes whisper the tales of lives intertwined, a symphony of memory and future, in a style influenced by Jisho John.
+prompt = Energetic world fusion beat, intricate percussive layers, rich traditional instruments, vibrant rhythmic pulse, dynamic tempo changes, deep resonant bass, male and female vocals, ethereal and captivating mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A surreal landscape with vibrant colors and flowing patterns, mystical elements merging with modern design, atmospheric light effects, creating a dreamlike and immersive visual experience
+sfx = soft chimes, rhythmic hand drums, ambient forest sounds, distant melodic echoes
+vocals = male and female vocals, ethereal harmonies, resonant and smooth, with a world music influence
+vocalsStructured = world fusion track, with an intricate intro and mesmerizing outro, featuring dynamic tempo changes, with melodic male and female vocals
+keywords = worldfusion traditional ambient ethereal worldmusic fusion mystical vibrant instrumental soundtrack cinematic JishoJohn
+codeName = Midnight's Children
+bpm = 135
+genreInput = 
+promptInput = Track inspired by Jisho John - Sahyasanu Shruthi Cherthu Vacha! | Karumadikkuttan | 2001. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Mystic Awakening]
+
+[verse]
+Whispers in the wind, tales of time
+Ancient rhythms echo through the night sky
+Weaving stories of lives entwined
+Harmony of the past, melody of the future
+
+[chorus - Ethereal Dance]
+ooooo ahhhhh
+Mystic echoes, heartbeats align
+iiii eeee
+
+[bridge - Rhythmic Flow]
+Splashes of color, shadows in light
+Dancing spirits, lost in flight
+ahhhh oooo mmmm
+
+[outro - Echoing Fade]
+[soft echoes]
+Lost in the echoes of the past
+A journey, a dance, a dream, a cast
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

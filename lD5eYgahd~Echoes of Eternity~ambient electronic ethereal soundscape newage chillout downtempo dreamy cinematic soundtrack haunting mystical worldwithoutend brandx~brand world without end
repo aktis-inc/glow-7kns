@@ -1,0 +1,40 @@
+title = Echoes of Eternity (영원의 메아리)
+genre = Ambient
+description = In a world unbound by time, echoes linger, whispering tales of eternity. Inspired by an endless journey, a world beyond the confines of reality.
+prompt = Ambient electronic layers, ethereal synths, haunting melodies, immersive soundscape, deep resonances, tranquil yet mysterious, shifting textures, enveloping atmosphere, male and female vocal whispers, ethereal and immersive
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic landscape, surreal dreamscape with floating islands, shimmering lights, ethereal glow, vibrant colors, otherworldly atmosphere, mesmerizing and captivating visual style
+sfx = ambient wind chimes, distant thunder, gentle waves, subtle whispers, mystical echoes
+vocals = soft vocal whispers, ethereal male and female harmonies, gentle echoes, serene and haunting
+vocalsStructured = ambient track, with evolving intro and fading outro, including ethereal drops, with layered male and female vocal whispers
+keywords = ambient electronic ethereal soundscape newage chillout downtempo dreamy cinematic soundtrack haunting mystical worldwithoutend brandx
+codeName = One Hundred Years of Solitude
+bpm = 75
+genreInput = 
+promptInput = Track inspired by Brand X - World Without End (2012. Use similar musical vibe, mood, style, genre, instruments.
+language = korean
+letter = O
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro ethereal]
+
+[verse]
+
+[ambient drop]
+
+[chill wave]
+
+[soft vocal whispers]
+ooooo
+ahhhhh
+
+[outro]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

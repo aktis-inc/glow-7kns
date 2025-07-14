@@ -1,0 +1,48 @@
+title = Illusions of the Tides
+genre = Ambient Electronic
+description = Flowing beneath the surface, where light dances with the tides. A dream of the sea, in the style of Andromedha.
+prompt = Deep electronic journey, ethereal synths, pulsing bass, hypnotic rhythms, atmospheric pads, immersive soundscape, female vocal with a whispery tone
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Mystical underwater cityscape, luminescent corals, surreal aquatic creatures, modern and futuristic with a dreamlike quality
+sfx = ocean waves crashing, ethereal echoes, deep sea rumble, distant whale calls
+vocals = female vocal, whispery tones, ethereal harmonies, soothing and immersive
+vocalsStructured = ambient electronic track, with a flowing intro and calming outro, featuring whispery female vocal elements
+keywords = ambient electronic chillout dreamscape downtempo ethereal atmospheric soundtrack cinematic andromedha lounge newage synthwave
+codeName = In the Heart of the Sea
+bpm = 110
+genreInput = 
+promptInput = Track inspired by Andromedha - Lamunan. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = I
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro wave]
+
+[verse]
+
+whispering currents  
+in the deep blue  
+oooooo
+
+[chorus]
+
+tides of silence  
+carry the dreams  
+iiiiiiii
+
+[bridge]
+
+echoing whispers  
+from the abyss  
+ahhhh
+
+[outro wave]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

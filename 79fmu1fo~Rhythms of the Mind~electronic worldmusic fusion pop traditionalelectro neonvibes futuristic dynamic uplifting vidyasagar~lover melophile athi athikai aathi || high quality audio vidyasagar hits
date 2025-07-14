@@ -1,0 +1,28 @@
+title = Rhythms of the Mind
+genre = World Fusion
+description = A journey through the mind's landscapes, blending the old with the new, inspired by the balance between tradition and modernity. A vibrant and uplifting exploration in the style of Vidyasagar.
+prompt = Energetic fusion of traditional and electronic elements, captivating melodies, intricate percussion, rich soundscape, vibrant and uplifting mood, male and female vocals with dynamic interplay, playful and spirited delivery
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape bathed in neon lights, with vibrant holographic displays and floating digital patterns, creating an immersive and dynamic visual experience, blending tradition with modernity
+sfx = ambient city noises, soft synth swells, rhythmic percussion, gentle chimes, distant vocals
+vocals = duet vocals, playful and spirited, blending traditional and modern styles
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female and male vocal
+keywords = electronic worldmusic fusion pop traditionalelectro neonvibes futuristic dynamic uplifting vidyasagar
+codeName = Zen and the Art of Motorcycle Maintenance
+bpm = 130
+genreInput = 
+promptInput = Track inspired by LOVER MELOPHILE - Athi Athikai Aathi || High Quality Audio Vidyasagar Hits. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

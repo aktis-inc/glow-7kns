@@ -1,0 +1,56 @@
+title = Timeless Echoes
+genre = World
+description = Echoes from another time, resonating in the present. Inspired by the fusion of tradition and modernity.
+prompt = Energetic and rhythmic, rich with Indian classical influences, lush sitar melodies, vibrant tabla beats, atmospheric synth layers, dynamic crescendos, male and female vocal harmonies, meditative yet invigorating
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape with intricate patterns of light, blending traditional Indian architecture with modern skyscrapers, vibrant colors, and digital overlays, creating a harmonious fusion of past and future
+sfx = sitar strums, tabla rhythms, ambient synth swells, nature sounds, distant chants
+vocals = harmonious vocal duet, blending traditional Indian classical with contemporary style, ethereal and emotive
+vocalsStructured = dynamic world music track, engaging intro, vibrant middle section with rhythmic drops, harmonious male and female vocals intertwine
+keywords = worldmusic fusion indianclassical ambient electronic sitar tabla crossover ethereal meditative ManikanthKadri
+codeName = The Time Machine
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Manikanth Kadri - NINAGENDE VISHESHAVAADA. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Echoing Dawn]
+
+[sitar melody]
+
+[verse - Ancient Whispers]
+oooooo
+In shadows of time, echoes resound
+iiiiiiii
+Past and present, forever bound
+
+[bridge - Rhythmic Pulse]
+Tabla beats, heartbeats align
+Harmonies weave through the fabric of time
+
+[chorus - Timeless Dance]
+wooooo
+Dance of ages, step by step
+iiiiiaaaa
+Lost in the rhythm, we forget
+
+[interlude - Melodic Drift]
+sssshhhh
+Sitar sings, whispers of lore
+ooooo
+
+[outro - Fading Light]
+Voices blend, timeless flight
+ssssss
+Into the night, echoes of light
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,28 @@
+title = Faded Echoes (Ecos Desvanecidos)
+genre = Pop
+description = Echoes of the city, where the lines blur between reality and dreams. Inspired by the essence of Robin Thicke.
+prompt = Energetic pop groove, funky bassline, rhythmic claps, catchy guitar riffs, playful brass sections, upbeat tempo, smooth male vocal with a charismatic flair
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Vibrant cityscape with neon lights reflecting on wet streets, futuristic fashion elements, a sense of movement and rhythm, captivating and modern aesthetic
+sfx = city ambiance, smooth traffic sounds, rhythmic claps, subtle crowd chatter, echoing footsteps
+vocals = male vocal, smooth and charismatic, playful tone, energetic delivery
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic male vocal
+keywords = pop funk disco electropop dance RobinThickeStyle BlurredLines funky groovy neonvibes urban catchytunes
+codeName = Ficciones
+bpm = 120
+genreInput = 
+promptInput = Track inspired by Robin Thicke - Blurred Lines TI, Pharrell. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = F
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

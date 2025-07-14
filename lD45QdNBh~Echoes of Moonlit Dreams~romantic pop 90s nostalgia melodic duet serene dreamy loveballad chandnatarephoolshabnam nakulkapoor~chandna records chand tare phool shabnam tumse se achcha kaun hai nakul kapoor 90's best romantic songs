@@ -1,0 +1,53 @@
+title = Echoes of Moonlit Dreams
+genre = Romantic Pop
+description = A gentle whisper of dreams, under the moon's watchful gaze, in a style reminiscent of 90s romantic serenades.
+prompt = Romantic pop track, nostalgic 90s vibe, melodic guitar strums, gentle percussion, lush strings, tender male and female vocal harmonies, soothing and dreamy atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dreamy landscape under a moonlit sky, soft-focus effect, pastel colors, romantic and serene mood, contemporary yet nostalgic style
+sfx = gentle wind chime, soft ocean waves, distant bird calls, whispering breeze
+vocals = male and female duet, soft and emotive, harmonious blend, warm and heartfelt
+vocalsStructured = romantic pop track, with a gentle intro and soothing outro, featuring melodic male and female vocal harmonies
+keywords = romantic pop 90s nostalgia melodic duet serene dreamy loveballad chandnatarephoolshabnam nakulkapoor
+codeName = Jane Eyre
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Chandna Records - Chand Tare Phool Shabnam | Tumse Se Achcha Kaun Hai | Nakul Kapoor | 90's Best Romantic Songs. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro gentle wind]
+
+[verse 1]
+In the moon's soft embrace
+Dreams weave through the night
+Gentle whispers trace
+The path of starlight
+
+[chorus]
+Oooooo  
+Underneath the endless sky
+Hearts align, we wonder why
+Echoes of our dreams collide
+
+[verse 2]
+Shadows dance, a tender fire
+In this moment, hearts conspire
+A melody of love's desire
+
+[bridge]
+Softly, softly, the night reveals
+Secrets that the silence seals
+
+[outro soothing fade]
+Aaaaah  oooooo  
+Dreams beneath the moonlit dome
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

@@ -1,0 +1,50 @@
+title = Rays of Devotion
+genre = Ambient
+description = In the embrace of the divine light, echoes of timeless devotion weave a serene tapestry. In the style of BhaktipathAnthem.
+prompt = Ambient spiritual soundscape, serene synth pads, traditional Indian instruments, ethereal flutes, gentle tabla rhythms, soothing chanted vocals, meditative and uplifting atmosphere
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract spiritual journey, glowing mandala patterns, vibrant energy, cosmic fusion of tradition and modernity, luminous and tranquil visuals
+sfx = soft chime echoes, gentle water streams, distant temple bells, subtle wind whispers
+vocals = chanting vocals, calming and harmonic, deep resonance, meditative quality
+vocalsStructured = ambient track, with a serene intro and a peaceful outro, featuring harmonic chanting vocals
+keywords = ambient spiritual meditative worldmusic ethereal chillout relaxation soundtrack tranquility cosmicfusion chant devotional
+codeName = Rebecca
+bpm = 80
+genreInput = 
+promptInput = Track inspired by Radha Ramanam Hare - Shri Indresh Upadhyay Ji | BhaktipathAnthem. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = R
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - gentle mantra echoes]
+
+[verse - celestial calm]
+oooooo
+iiiiii
+whispers of the heart
+elevate the soul
+aaaaaaaa
+
+[chorus - sacred harmony]
+looooo
+iiiiiaaaa
+rays of devotion touch the sky
+
+[bridge - inner peace]
+ooooooo
+chanting through the silence
+a timeless journey
+
+[outro - divine resonance]
+iiiii
+ooooo
+fade into tranquility
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

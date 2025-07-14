@@ -1,0 +1,49 @@
+title = Jubilant Echoes
+genre = Reggaeton
+description = In a city alive with color and sound, echoes of joy ripple through the night. Inspired by the vibrant energy of reggaeton, this track dances with the exuberance of life.
+prompt = Energetic dance beat, infectious rhythm, vibrant reggaeton-inspired groove, pulsating bass, rhythmic percussion, playful male and female vocal, lively and upbeat energy
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape, neon lights and reflections, vibrant and colorful with dynamic motion effects, a lively street scene with people dancing, modern and urban style
+sfx = city ambience, pulsating bass, rhythmic claps, crowd cheers, digital synth waves
+vocals = male and female vocal, playful and lively, with rhythmic spoken-word elements and melodic hooks
+vocalsStructured = dance track with energetic intro, infectious chorus drops, and rhythmic breaks, featuring playful male and female vocal duets
+keywords = reggaeton dance latin urban vibrant dancehall partyvibes neonlights energetic rhythmic Gustta MCDG
+codeName = Jane Eyre
+bpm = 105
+genreInput = 
+promptInput = Track inspired by Abusadamente - Gustta e MC DG |. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = J
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - vibrant pulse]
+ahhhh ooooo
+
+[verse]
+In the city glow, we let go
+Every beat a spark, a fire 
+Dancing in the flow, hearts aglow
+Echoes of life, taking us higher
+
+[chorus]
+ooooooo yeahhhh
+Feel the jubilant echoes rise
+Life's a dance, under neon skies
+
+[bridge]
+ahhhh
+In the rhythm, we find our way
+Every step, a story, a play
+
+[outro - fading groove]
+oooo ahhhh
+Jubilant echoes in the night
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

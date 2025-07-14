@@ -1,0 +1,58 @@
+title = Through the Shadows (A través de las sombras)
+genre = Rock
+description = In the shadows, echoes of defiance. Inspired by the spirit of resilience, the track channels raw energy and determination, reminiscent of the never-give-up attitude found in heroic tales.
+prompt = Energetic rock track, powerful guitar riffs, driving drum beats, intense bassline, anthemic vibe, gritty male vocal, determined mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic cityscape at dusk, neon lights reflecting off wet streets, dynamic and intense, with elements of motion and energy, modern and bold aesthetic
+sfx = heavy guitar strumming, thundering drums, crowd cheering, ambient city noise
+vocals = male vocal, raw and powerful, with gravelly undertones
+vocalsStructured = rock track, with strong intro and impactful outro, featuring powerful male vocal
+keywords = rock alternative postgrunge hardrock anthemic powerful intense driving energetic Nickelback NeverBackDown
+codeName = The Time of the Hero
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Never Back Down - How You Remind Me Nickelback. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = T
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Shadows Rising]
+guitar riff iiiii
+drum thunder oooooo
+
+[verse - Whispered Resolve]
+In the corridors of night
+I walk with silent might
+Through echoes of the past
+I find my voice at last
+
+[Pre-Chorus - Echoing Defiance]
+oooooo
+I won't break, I won't bend
+In this fight, I descend
+
+[Chorus - Anthem of the Brave]
+woooaaa
+Through the shadows, I will rise
+iiiiiii
+With the fire in my eyes
+
+[Bridge - Inner Battle]
+Every step, a roar inside
+Against the tide, I will ride
+aaaaaa oooo
+Resilient, I own my stride
+
+[outro - Rising Echo]
+Guitar fades iiiiii
+Drum echoes oooooo
+In the shadows, I will rise
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

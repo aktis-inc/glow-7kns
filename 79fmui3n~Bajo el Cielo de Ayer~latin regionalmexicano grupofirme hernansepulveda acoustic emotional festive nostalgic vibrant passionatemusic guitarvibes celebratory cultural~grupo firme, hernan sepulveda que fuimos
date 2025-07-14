@@ -1,0 +1,28 @@
+title = Bajo el Cielo de Ayer (Bajo el Cielo de Ayer)
+genre = Latin Pop
+description = Under the sky of yesterday, echoes of memories dance in the rhythm of the heart. Inspired by the style of Grupo Firme and Hernan Sepulveda, this track captures a nostalgic yet vibrant essence.
+prompt = Energetic Latin rhythm, dynamic brass sections, acoustic guitar strums, lively percussion, heartfelt male vocal, celebratory yet longing mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vibrant night scene with colorful city lights reflecting on a musician playing guitar, festive atmosphere, modern and contemporary style, rich textures, inviting and warm color palette
+sfx = guitar strums, rhythmic clapping, street ambience, distant trumpet echoes
+vocals = male vocal, heartfelt and passionate, with rich harmonies, emotional delivery
+vocalsStructured = Latin pop track with a strong intro, dynamic verses, catchy chorus, and emotional male vocal
+keywords = latin regionalmexicano grupofirme hernansepulveda acoustic emotional festive nostalgic vibrant passionatemusic guitarvibes celebratory cultural
+codeName = Una Vez
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Grupo Firme, Hernan Sepulveda - Que Fuimos. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = U
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

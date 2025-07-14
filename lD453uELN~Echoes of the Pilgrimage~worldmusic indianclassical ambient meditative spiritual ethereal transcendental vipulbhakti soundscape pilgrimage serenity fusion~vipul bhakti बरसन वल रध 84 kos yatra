@@ -1,0 +1,49 @@
+title = Echoes of the Pilgrimage
+genre = World & Ambient
+description = A journey in sound, a pilgrimage through music. Inspired by ancient paths and spiritual echoes, in the style of Vipul Bhakti, it weaves tradition with a touch of the future.
+prompt = Rich Indian classical influences, mystical sitar melodies, deep tabla rhythms, ethereal flute harmonies, spiritual ambiance, transcendent and immersive soundscape, calming male and female vocal chants, serene and meditative
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A serene landscape with a vibrant sunset over a mystical river, traditional Indian motifs blending with futuristic elements, a harmonious blend of nature and spirituality, colorful and ethereal
+sfx = soft river flows, distant temple bells, gentle wind chimes, echoing chants
+vocals = male and female vocal chants, soothing and harmonious, echoing with reverb
+vocalsStructured = ambient journey track, with serene intro and peaceful outro including gentle instrumental drops, with harmonious male and female vocal chants
+keywords = worldmusic indianclassical ambient meditative spiritual ethereal transcendental vipulbhakti soundscape pilgrimage serenity fusion
+codeName = Xenogenesis
+bpm = 95
+genreInput = 
+promptInput = Track inspired by Vipul Bhakti - बरसन वल रध 84 KOS YATRA. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = X
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Mystic Dawn]
+oooooo
+Aaaahhh
+
+[verse - Path of Echoes]
+Footsteps on ancient trails
+Whispers of the sages
+Harmony in the breeze
+
+[Chorus - River of Time]
+Flowing softly, timelessly
+Chants of the heart, endlessly
+Ooooooo
+
+[Bridge - Celestial Chime]
+iiiiiiii
+Resonate, resonate
+Across the cosmic sea
+
+[outro - Twilight Serenity]
+Ahhhhh
+Eternal peace, in harmony
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

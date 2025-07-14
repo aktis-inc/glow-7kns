@@ -1,0 +1,45 @@
+title = Veil of Shadows (پرده‌ای از سایه‌ها)
+genre = Ambient
+description = In the shadows of towering giants, secrets whisper in the night. A journey through veils unseen, guided by echoes of the past.
+prompt = Dark ambient soundscape, deep and haunting synths, pulsating rhythms, mysterious undertones, ethereal textures, whispers of the night, haunting male vocal, enigmatic and atmospheric
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A futuristic cityscape shrouded in mist, towering skyscrapers with neon lights, shadows moving between buildings, a sense of mystery and intrigue, cinematic and sci-fi style with a modern twist
+sfx = soft wind howls, distant city hum, echoing footsteps, electronic whispers
+vocals = male vocal, whispery and haunting, ethereal echoes, mysterious undertones
+vocalsStructured = ambient electronic track, with a slow build-up, atmospheric layers, and haunting male vocal
+keywords = ambient darkambient electronic cinematic sci-fi mysterious haunting atmospheric soundtrack ethereal veilofshadows
+codeName = V for Vendetta
+bpm = 60
+genreInput = 
+promptInput = قایق شکسته
+
+language = persian
+letter = V
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro whispers]
+
+[ambient echo]
+ahhhhhh
+
+[synth layers]
+
+[mysterious whispers]
+
+[soft build-up]
+
+[haunting vocal]
+shhhhhhh
+
+[echoes]
+
+[outro fade]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

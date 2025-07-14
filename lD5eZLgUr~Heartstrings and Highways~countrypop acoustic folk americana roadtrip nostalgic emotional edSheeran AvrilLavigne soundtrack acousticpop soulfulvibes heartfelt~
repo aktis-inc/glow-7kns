@@ -1,0 +1,51 @@
+title = Heartstrings and Highways
+genre = Country Pop
+description = On the road of life, every mile tells a story. Influenced by Ed Sheeran style and Avril Lavigne's essence.
+prompt = Country pop melody, acoustic guitar layers, heartfelt rhythm, warm bassline, gentle percussion, road trip vibe, emotional chorus, male and female vocals, soulful and tender
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A vintage motorcycle on a winding country road, sunset hues in the sky, open fields stretching to the horizon, modern and dreamy atmosphere, vibrant and nostalgic
+sfx = engine purr, gentle wind rustle, distant bird calls, soft highway hum
+vocals = female vocal, soulful singing, gentle harmonies, emotional depth
+vocalsStructured = country pop track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = countrypop acoustic folk americana roadtrip nostalgic emotional edSheeran AvrilLavigne soundtrack acousticpop soulfulvibes heartfelt
+codeName = Zen and the Art of Motorcycle Maintenance
+bpm = 115
+genreInput = country pop
+promptInput = ed Sheereden- dive cover sang by Avril laveine
+
+language = english
+letter = Z
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro soft strum]
+
+[verse]
+Dusty roads, hearts entwined
+Sunset whispers, dreams aligned
+oooooooh
+
+[Pre-Chorus]
+Stars above, guiding light
+In this journey, we find our might
+
+[Chorus]
+iiiiiiiii
+Heartstrings and highways
+Every mile, a new day
+
+[Bridge]
+Echoes of the open sky
+With you, I’m flying high
+
+[outro - Fade]
+oooooo aaaa
+Onward, hand in hand
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

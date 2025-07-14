@@ -1,0 +1,28 @@
+title = Bajo el Sol Que Quema (Bajo el Sol Que Quema)
+genre = Vallenato
+description = Beneath the heat and shadow. A consul's lament carried by the wind. Every note a step further into the bright despair. Influenced by the style of Enaldo Barrera.
+prompt = Authentic Vallenato music, traditional Colombian instrumentation, prominent accordion melody, driving caja and guacharaca rhythm section, deep acoustic bass, melancholic and expressive male vocal, style of Enaldo Barrera, reflective mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Futuristic neon-lit cityscape under a burning dual sun, geometric soundwave patterns emanating from the center, synthwave-inspired colors and effects, dynamic and highly stylized, sharp lines and digital textures, modern and eye-catching
+sfx = accordion bellows sound, guacharaca scrape rhythm, distant market murmur, single dramatic lightning strike, resonant bass pluck
+vocals = melancholic male vocal, expressive phrasing, warm tone, slightly gravelly texture
+vocalsStructured = vallenato step track, with classic instrumental intro, clear verse and chorus sections, prominent accordion solo, rhythmic bridge, and a fading instrumental outro, with melodic male vocal
+keywords = vallenato cumbia latinfolk colombianmusic accordionmusic tropicalmusic caribbeanmusic worldmusic melancholicvibe reflectivemood enaldobarrera
+codeName = Under the Volcano
+bpm = 140
+genreInput = 
+promptInput = Track inspired by Si No Peleamos, Enaldo Barrera, Video Letra - Sentir Vallenato. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = U
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

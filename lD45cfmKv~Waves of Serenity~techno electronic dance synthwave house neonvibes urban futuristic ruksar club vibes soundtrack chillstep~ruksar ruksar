@@ -1,0 +1,50 @@
+title = Waves of Serenity
+genre = Techno
+description = Echoes of tranquility, in a world of chaos, inspired by the harmony of 'War and Peace'.
+prompt = Energetic techno beats, hypnotic synth patterns, pulsating bass, vibrant percussion, dynamic tempo shifts, smooth transitions, female vocal with a playful touch
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract cityscape at night, illuminated by neon lights, reflections on wet streets, vibrant colors, futuristic urban vibe, sleek and minimalistic
+sfx = pulsating city ambiance, distant sirens, rhythmic claps, electronic chimes
+vocals = female vocal, upbeat and playful, ethereal harmonies, vibrant echoes
+vocalsStructured = pop step track, with good intro and nice outro including some drops, with melodic female vocal
+keywords = techno electronic dance synthwave house neonvibes urban futuristic ruksar club vibes soundtrack chillstep
+codeName = War and Peace
+bpm = 130
+genreInput = ruksar
+promptInput = Track inspired by Ruksar - Ruksar. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = W
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro pulse]
+
+[verse]
+Waves of light, they carry us
+Through the city's restless hum
+In the night, whispers dance
+We become what we become
+
+[chorus]
+ooooo  
+iiiiii  
+Eternal glow, electric dreams  
+iiiiii  
+ooooo
+
+[bridge]
+In neon haze, we find our way  
+Silent echoes, dreams at play  
+ahhhh ooooo
+
+[outro]
+whispered night, endless flight  
+iiiiii ooooo
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

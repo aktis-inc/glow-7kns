@@ -1,0 +1,47 @@
+title = Whispers of Silence (शांततेच्या कुजबुज)
+genre = Ambient
+description = In the quiet moments between breaths, the universe speaks in whispers. Inspired by the tranquil flow of ZenStream, this track captures the essence of inner peace and cosmic serenity.
+prompt = Ambient soundscape, ethereal textures, soothing melodies, tranquil atmosphere, gentle synth pads, calming chimes, deep ambient grooves, spacious male and female vocal whispers, serene and meditative
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Abstract cosmic scene, swirling galaxies in a sea of stars, tranquil yet vibrant color palette, dreamlike and immersive, with a touch of surrealism
+sfx = soft wind chimes, distant flowing water, gentle rustling leaves, subtle ambient drones
+vocals = soft male and female whispers, ethereal harmonies, calming and peaceful tones
+vocalsStructured = ambient track, with a gentle intro and an expansive outro, featuring soft vocal whispers and serene instrumental layers
+keywords = ambient zen meditative ethereal soundscape tranquil cosmic spiritual peaceful relaxation zenstream calm soothing serene dreamy atmospheric ambientvibes
+codeName = Gitanjali
+bpm = 60
+genreInput = 
+promptInput = Track inspired by ZenStream - शरय घषल सपरहट गन क शनदर पललसट 🎶. Use similar musical vibe, mood, style, genre, instruments.
+language = marathi
+letter = G
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro - Cosmic Dawn]
+ooooo
+
+[verse - Whispering Stars]
+In the silence, echoes call
+Through spaces vast, whispers fall
+A universe of thoughts untold
+Silent stories, softly unfold
+
+[ambient drift]
+iiiii
+
+[chorus - Celestial Hush]
+Whispered secrets in the breeze
+Cosmic tides and flowing seas
+In the stillness, find release
+Eternal calm, endless peace
+
+[outro - Infinite Silence]
+ahhhhhhhh
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

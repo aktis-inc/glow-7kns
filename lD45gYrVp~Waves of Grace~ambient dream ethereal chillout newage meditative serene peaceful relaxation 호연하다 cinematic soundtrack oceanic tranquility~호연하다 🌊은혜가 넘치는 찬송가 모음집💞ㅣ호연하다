@@ -1,0 +1,48 @@
+title = Waves of Grace (은혜의 파도)
+genre = Ambient
+description = A journey of grace and tranquility, like waves embracing the shore, inspired by the style of 호연하다.
+prompt = Dreamy and ethereal soundscape, gentle piano melodies, lush strings, soft ambient textures, oceanic ambiance, soothing and uplifting female vocal, serene and calming mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A peaceful ocean scene at sunset, waves gently lapping against the shore, with a glowing, ethereal light emanating from the water, creating a dreamlike and tranquil atmosphere
+sfx = gentle waves, soft winds, distant seagulls, whispering breezes
+vocals = female vocal, soft and soothing, ethereal harmonies, gentle whispers
+vocalsStructured = ambient track, with smooth intro and serene outro, including melodic drops, with soothing female vocal
+keywords = ambient dream ethereal chillout newage meditative serene peaceful relaxation 호연하다 cinematic soundtrack oceanic tranquility
+codeName = White Chrysanthemum
+bpm = 85
+genreInput = 
+promptInput = Track inspired by 호연하다 - 🌊은혜가 넘치는 찬송가 모음집💞ㅣ호연하다. Use similar musical vibe, mood, style, genre, instruments.
+language = korean
+letter = W
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = [intro whisper]
+
+[verse]
+
+soft waves caress the sky   
+light dances on the breeze   
+ooooo iiiiii aaaaaa
+
+[chorus - Ocean's Embrace]
+
+gentle tides of grace   
+flowing through the heart   
+aaaa iiiiiii
+
+[bridge - Whispering Light]
+
+shimmering dreams unfold   
+in the arms of the sea   
+oooooo aaaaa
+
+[outro - Drift to Silence]
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

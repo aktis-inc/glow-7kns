@@ -1,0 +1,28 @@
+title = Monsoon Beats (Sonidos del Monzón)
+genre = Reggaeton
+description = In the storm's rhythm, the city pulses alive. Inspired by the style of Anuel AA, Myke Towers, and Jhay Cortez.
+prompt = Reggaeton vibe with catchy rhythms, energetic percussion, vibrant synths, tropical flair, and deep basslines, capturing an urban party atmosphere, male vocal with confident, playful delivery
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = A sleek, modern cityscape drenched in rain, neon lights reflecting off wet streets, with a futuristic, urban edge, vibrant and dynamic color palette
+sfx = rainfall, city traffic hum, distant party echoes, synthesizer sweeps
+vocals = male vocal, confident and rhythmic, with playful undertones
+vocalsStructured = reggaeton track, with strong intro and smooth outro, including vibrant drops, with energetic male vocal
+keywords = reggaeton latintrap urbano partyvibes neoncity bassbeats latinmusic dancemusic latinpop anuelAA myketowers jhaycortez
+codeName = Moby Dick
+bpm = 105
+genreInput = 
+promptInput = Track inspired by Anuel AA, Myke Towers & Jhay Cortez - Subelo. Use similar musical vibe, mood, style, genre, instruments.
+language = spanish
+letter = M
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

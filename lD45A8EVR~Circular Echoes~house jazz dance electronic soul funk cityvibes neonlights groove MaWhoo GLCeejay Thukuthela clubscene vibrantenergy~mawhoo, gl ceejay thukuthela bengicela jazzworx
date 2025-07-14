@@ -1,0 +1,28 @@
+title = Circular Echoes
+genre = House & Jazz
+description = In the whirl of the city, echoes of jazz spin tales of vibrant nights. Inspired by the style of MaWhoo, GL Ceejay & Thukuthela, it captures the dance of life in an urban jungle.
+prompt = Energetic jazz-infused house track, groovy basslines, rhythmic percussion, smooth saxophone melodies, vibrant brass sections, upbeat tempo, danceable groove, playful male and female vocals
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Dynamic cityscape with neon lights reflecting off the pavement, bustling nightlife, people dancing in the streets, vibrant and modern jazz club atmosphere, colorful and lively
+sfx = city ambience, saxophone riffs, rhythmic clapping, crowd chatter, upbeat percussion
+vocals = male and female vocals, jazzy and playful tone, lively harmonies
+vocalsStructured = jazz-infused house track, with dynamic intro and smooth outro including instrumental breaks, with lively male and female vocals
+keywords = house jazz dance electronic soul funk cityvibes neonlights groove MaWhoo GLCeejay Thukuthela clubscene vibrantenergy
+codeName = Catch-22
+bpm = 122
+genreInput = 
+promptInput = Track inspired by MaWhoo, GL Ceejay & Thukuthela - Bengicela Jazzworx. Use similar musical vibe, mood, style, genre, instruments.
+language = english
+letter = C
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.

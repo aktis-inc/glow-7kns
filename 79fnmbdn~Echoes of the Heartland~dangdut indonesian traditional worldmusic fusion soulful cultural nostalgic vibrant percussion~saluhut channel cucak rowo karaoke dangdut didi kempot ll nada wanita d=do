@@ -1,0 +1,28 @@
+title = Echoes of the Heartland (Gema dari Tanah Air)
+genre = Dangdut
+description = Echoes of past lives whisper through the heartland, where tradition meets modernity in a harmonious dance. Inspired by Saluhut Channel's style, this track captures the essence of nostalgia and cultural richness.
+prompt = Dangdut-inspired rhythm, traditional Indonesian instruments, soulful melodies, vibrant percussion, energetic female vocal, nostalgic and heartfelt mood
+coverArtPrompt = n/a
+coverArtNoLabelPrompt = Modern fusion of traditional Indonesian themes with a contemporary twist, vibrant colors, abstract patterns, dynamic flow, energetic and captivating design
+sfx = gamelan chimes, rhythmic drum beats, lively crowd ambiance, melodic flute accents
+vocals = female vocal, soulful and expressive, warm timbre, cultural richness
+vocalsStructured = dangdut track, with rhythmic intro, engaging chorus, and dynamic outro including vibrant percussion, with melodic female vocal
+keywords = dangdut indonesian traditional worldmusic fusion soulful cultural nostalgic vibrant percussion
+codeName = Eichmann in Jerusalem
+bpm = 90
+genreInput = 
+promptInput = Track inspired by Saluhut Channel - CUCAK ROWO KARAOKE DANGDUT DIDI KEMPOT ll NADA WANITA D=DO. Use similar musical vibe, mood, style, genre, instruments.
+language = indonesian
+letter = E
+includeVocal = False
+includeSfx = False
+appVersion = v20250703
+stamp = 250709
+duration = 
+
+lyrics = 
+
+Created by AT Player
+https://www.atplayer.com
+
+Copyright © 2025 Aktis Inc.
